@@ -8,7 +8,7 @@
 #  page:
 #  description: 
 #  accepted:    
-- title: Evidence-Theoretic Reentry Target Classification Using Radar: A Fuzzy Logic Approach
+- title: "Evidence-Theoretic Reentry Target Classification Using Radar: A Fuzzy Logic Approach"
   authors: Kwangyong Jung, Sawon Min, Jeongwoo Kim, Nammoon Kim, and Euntai Kim
   journal: IEEE Access
   year: 2021
@@ -18,7 +18,7 @@
   page:
   description: "Early Access"
   accepted: 1
-- title: Indoor Place Category Recognition for a Cleaning Robot by Fusing a Probabilistic Approach and Deep Learning
+- title: "Indoor Place Category Recognition for a Cleaning Robot by Fusing a Probabilistic Approach and Deep Learning"
   authors: Soowook Choe\*, Hongje Seong\* and Euntai Kim (\*equal contribution)
   journal: IEEE Transactions on Cybernetics
   year: 2021
@@ -28,7 +28,7 @@
   page:
   description: "Early Access"
   accepted: 1
-- title: Novel Vehicle Bounding Box Tracking Using a Low-End 3D Laser Scanner
+- title: "Novel Vehicle Bounding Box Tracking Using a Low-End 3D Laser Scanner"
   authors: Jhonghyun An and Euntai Kim
   journal: IEEE Transactions on Intelligent Transportation Systems
   year: 2021
@@ -38,7 +38,7 @@
   page:
   description: "Early Access"
   accepted: 1
-- title: Mixture Density-PoseNet and Its Application to Monocular Camera-based Global Localization
+- title: "Mixture Density-PoseNet and Its Application to Monocular Camera-based Global Localization"
   authors: HyungGi Jo, Woosub Lee and Euntai Kim
   journal: IEEE Transactions on Industrial Informatics
   year: 2021
