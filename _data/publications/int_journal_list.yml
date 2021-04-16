@@ -16,9 +16,9 @@
   month: Apr
   vol: 9
   issue:
-  page: 55567 - 55580
-  description:
-  accepted: 1
+  page: 55567-55580
+  description: ""
+  accepted: 0
 - title: "Indoor Place Category Recognition for a Cleaning Robot by Fusing a Probabilistic Approach and Deep Learning"
   authors: Soowook Choe\*, Hongje Seong\* and Euntai Kim (\*equal contribution)
   journal: IEEE Transactions on Cybernetics
