@@ -9,16 +9,16 @@
 #  description: 
 #  accepted:    
 
-- title: "Evidence-Theoretic Reentry Target Classification Using Radar: A Fuzzy Logic Approach"
-  authors: Kwangyong Jung, Sawon Min, Jeongwoo Kim, Nammoon Kim, and Euntai Kim
-  journal: IEEE Access
+- title: "Universal Pooling - A New Pooling Method for Convolutional Neural Networks Expert"
+  authors: Hongje Seong, Junhyuk Hyun and Euntai Kim
+  journal: Expert Systems With Applications
   year: 2021
-  month: Apr
-  vol: 9
+  month:
+  vol:
   issue:
-  page: 55567-55580
-  description: ""
-  accepted: 0
+  page:
+  description: "Early Access"
+  accepted: 1
 - title: "Indoor Place Category Recognition for a Cleaning Robot by Fusing a Probabilistic Approach and Deep Learning"
   authors: Soowook Choe\*, Hongje Seong\* and Euntai Kim (\*equal contribution)
   journal: IEEE Transactions on Cybernetics
@@ -39,6 +39,16 @@
   page:
   description: "Early Access"
   accepted: 1
+  - title: "Evidence-Theoretic Reentry Target Classification Using Radar: A Fuzzy Logic Approach"
+  authors: Kwangyong Jung, Sawon Min, Jeongwoo Kim, Nammoon Kim, and Euntai Kim
+  journal: IEEE Access
+  year: 2021
+  month: Apr
+  vol: 9
+  issue:
+  page: 55567-55580
+  description: ""
+  accepted: 0
 - title: "Mixture Density-PoseNet and Its Application to Monocular Camera-based Global Localization"
   authors: HyungGi Jo, Woosub Lee and Euntai Kim
   journal: IEEE Transactions on Industrial Informatics
