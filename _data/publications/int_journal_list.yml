@@ -39,7 +39,7 @@
   page:
   description: "Early Access"
   accepted: 1
-  - title: "Evidence-Theoretic Reentry Target Classification Using Radar: A Fuzzy Logic Approach"
+- title: "Evidence-Theoretic Reentry Target Classification Using Radar: A Fuzzy Logic Approach"
   authors: Kwangyong Jung, Sawon Min, Jeongwoo Kim, Nammoon Kim, and Euntai Kim
   journal: IEEE Access
   year: 2021
