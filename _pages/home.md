@@ -29,7 +29,7 @@ We are a dynamic research group at the [School of Electrical and Electronic Engi
         <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/JAS_JWJ.png" alt="Slide 1" />
             <div class="carousel-caption bg-dark mb-4">
-              <h3>IEEE/CAA Journal of Automatica Sinica)</h3>
+              <h3>IEEE/CAA Journal of Automatica Sinica</h3>
               <p>A Lane-level Road Marking Map using a Monocular Camera</p>
             </div>
         </div>
