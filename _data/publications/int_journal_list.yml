@@ -43,12 +43,12 @@
   authors: Jhonghyun An and Euntai Kim
   journal: IEEE Transactions on Intelligent Transportation Systems
   year: 2021
-  month:
-  vol:
-  issue:
-  page:
+  month: June
+  vol: 22
+  issue: 6
+  page: 3403-3419
   description: "Early Access"
-  accepted: 1
+  accepted: 0
 - title: "Evidence-Theoretic Reentry Target Classification Using Radar: A Fuzzy Logic Approach"
   authors: Kwangyong Jung, Sawon Min, Jeongwoo Kim, Nammoon Kim, and Euntai Kim
   journal: IEEE Access
