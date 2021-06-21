@@ -23,12 +23,12 @@
   authors: Junhyuk Hyun, Hongje Seong and Euntai Kim
   journal: Expert Systems With Applications
   year: 2021
-  month:
-  vol:
-  issue:
+  month: Oct
+  vol: 180
+  issue: 115084
   page:
-  description: "Early Access"
-  accepted: 1
+  description: ""
+  accepted: 0
 - title: "Indoor Place Category Recognition for a Cleaning Robot by Fusing a Probabilistic Approach and Deep Learning"
   authors: Soowook Choe\*, Hongje Seong\* and Euntai Kim (\*equal contribution)
   journal: IEEE Transactions on Cybernetics
@@ -43,11 +43,11 @@
   authors: Jhonghyun An and Euntai Kim
   journal: IEEE Transactions on Intelligent Transportation Systems
   year: 2021
-  month: June
+  month: Jun
   vol: 22
   issue: 6
   page: 3403-3419
-  description: "Early Access"
+  description: ""
   accepted: 0
 - title: "Evidence-Theoretic Reentry Target Classification Using Radar: A Fuzzy Logic Approach"
   authors: Kwangyong Jung, Sawon Min, Jeongwoo Kim, Nammoon Kim, and Euntai Kim
