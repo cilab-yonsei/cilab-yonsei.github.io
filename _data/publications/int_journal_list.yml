@@ -18,7 +18,7 @@
   page:
   description: ""
   accepted: 0
-  - title: "Novel On-Road Vehicle Detection System Using Multi-Stage Convolutional Neural Network"
+- title: "Novel On-Road Vehicle Detection System Using Multi-Stage Convolutional Neural Network"
   authors: Jisu Kim, Sungjun Hong and Euntai Kim
   journal: Expert Systems With Applications
   year: 2021
@@ -28,7 +28,7 @@
   page: 94371-94385
   description: ""
   accepted: 0
-  - title: "Novel Vehicle Bounding Box Tracking Using a Low-End 3D Laser Scanner"
+- title: "Novel Vehicle Bounding Box Tracking Using a Low-End 3D Laser Scanner"
   authors: Jhonghyun An and Euntai Kim
   journal: IEEE Transactions on Intelligent Transportation Systems
   year: 2021
