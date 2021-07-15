@@ -7,18 +7,7 @@
 #  issue:
 #  page:
 #  description: 
-#  accepted:    
-
-- title: "A Lane-level Road Marking Map using a Monocular Camera"
-  authors: Wonje Jang, Junhyuk Hyun, Jhonghyun An, Minho Cho and Euntai Kim
-  journal: IEEE/CAA Journal of Automatica Sinica
-  year: 2021
-  month:
-  vol:
-  issue:
-  page:
-  description: "Early Access"
-  accepted: 1
+#  accepted:  
 - title: "Universal Pooling - A New Pooling Method for Convolutional Neural Networks Expert"
   authors: Junhyuk Hyun, Hongje Seong and Euntai Kim
   journal: Expert Systems With Applications
@@ -29,17 +18,17 @@
   page:
   description: ""
   accepted: 0
-- title: "Indoor Place Category Recognition for a Cleaning Robot by Fusing a Probabilistic Approach and Deep Learning"
-  authors: Soowook Choe\*, Hongje Seong\* and Euntai Kim (\*equal contribution)
-  journal: IEEE Transactions on Cybernetics
+  - title: "Novel On-Road Vehicle Detection System Using Multi-Stage Convolutional Neural Network"
+  authors: Jisu Kim, Sungjun Hong and Euntai Kim
+  journal: Expert Systems With Applications
   year: 2021
-  month:
-  vol:
-  issue:
-  page:
-  description: "Early Access"
-  accepted: 1
-- title: "Novel Vehicle Bounding Box Tracking Using a Low-End 3D Laser Scanner"
+  month: Jun
+  vol: 9
+  issue: 
+  page: 94371-94385
+  description: ""
+  accepted: 0
+  - title: "Novel Vehicle Bounding Box Tracking Using a Low-End 3D Laser Scanner"
   authors: Jhonghyun An and Euntai Kim
   journal: IEEE Transactions on Intelligent Transportation Systems
   year: 2021
@@ -69,6 +58,26 @@
   page: 388-397
   description: ""
   accepted: 0
+- title: "A Lane-level Road Marking Map using a Monocular Camera"
+  authors: Wonje Jang, Junhyuk Hyun, Jhonghyun An, Minho Cho and Euntai Kim
+  journal: IEEE/CAA Journal of Automatica Sinica
+  year: 2021
+  month:
+  vol:
+  issue:
+  page:
+  description: "Early Access"
+  accepted: 1
+- title: "Indoor Place Category Recognition for a Cleaning Robot by Fusing a Probabilistic Approach and Deep Learning"
+  authors: Soowook Choe\*, Hongje Seong\* and Euntai Kim (\*equal contribution)
+  journal: IEEE Transactions on Cybernetics
+  year: 2021
+  month:
+  vol:
+  issue:
+  page:
+  description: "Early Access"
+  accepted: 1
 - title: "FOSNet: An End-to-End Trainable Deep Neural Network for Scene Recognition"
   authors: Hongje Seong, Junhyuk Hyun and Euntai Kim
   journal: IEEE Access
