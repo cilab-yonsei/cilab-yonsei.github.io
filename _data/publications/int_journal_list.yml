@@ -8,6 +8,26 @@
 #  page:
 #  description: 
 #  accepted:  
+- title: "A Lane-level Road Marking Map using a Monocular Camera"
+  authors: Wonje Jang, Junhyuk Hyun, Jhonghyun An, Minho Cho and Euntai Kim
+  journal: IEEE/CAA Journal of Automatica Sinica
+  year: 2021
+  month:
+  vol:
+  issue:
+  page:
+  description: "Early Access"
+  accepted: 1
+- title: "Indoor Place Category Recognition for a Cleaning Robot by Fusing a Probabilistic Approach and Deep Learning"
+  authors: Soowook Choe\*, Hongje Seong\* and Euntai Kim (\*equal contribution)
+  journal: IEEE Transactions on Cybernetics
+  year: 2021
+  month:
+  vol:
+  issue:
+  page:
+  description: "Early Access"
+  accepted: 1
 - title: "Universal Pooling - A New Pooling Method for Convolutional Neural Networks Expert"
   authors: Junhyuk Hyun, Hongje Seong and Euntai Kim
   journal: Expert Systems With Applications
@@ -20,7 +40,7 @@
   accepted: 0
 - title: "Novel On-Road Vehicle Detection System Using Multi-Stage Convolutional Neural Network"
   authors: Jisu Kim, Sungjun Hong and Euntai Kim
-  journal: Expert Systems With Applications
+  journal: IEEE Access
   year: 2021
   month: Jun
   vol: 9
@@ -58,26 +78,6 @@
   page: 388-397
   description: ""
   accepted: 0
-- title: "A Lane-level Road Marking Map using a Monocular Camera"
-  authors: Wonje Jang, Junhyuk Hyun, Jhonghyun An, Minho Cho and Euntai Kim
-  journal: IEEE/CAA Journal of Automatica Sinica
-  year: 2021
-  month:
-  vol:
-  issue:
-  page:
-  description: "Early Access"
-  accepted: 1
-- title: "Indoor Place Category Recognition for a Cleaning Robot by Fusing a Probabilistic Approach and Deep Learning"
-  authors: Soowook Choe\*, Hongje Seong\* and Euntai Kim (\*equal contribution)
-  journal: IEEE Transactions on Cybernetics
-  year: 2021
-  month:
-  vol:
-  issue:
-  page:
-  description: "Early Access"
-  accepted: 1
 - title: "FOSNet: An End-to-End Trainable Deep Neural Network for Scene Recognition"
   authors: Hongje Seong, Junhyuk Hyun and Euntai Kim
   journal: IEEE Access
@@ -108,16 +108,6 @@
   page: 1216-1228
   description: ""
   accepted: 0
-- title: A New Contour-Based Approach to Moving Object Detection and Tracking Using a Low-end 3-Dimensional Laser Scanner
-  authors: Jhonghyun An, Baehoon Choi, Hyunju Kim and Euntai Kim
-  journal: IEEE Transactions on Vehicular Technology
-  year: 2019
-  month: Aug
-  vol: 68
-  issue: 8
-  page: 7392-7405
-  description: ""
-  accepted: 0
 - title: Multiple Object Tracking via Feature Pyramid Siamese Networks
   authors: Sangyun Lee and Euntai Kim
   journal: IEEE Access
@@ -126,6 +116,16 @@
   vol: 7
   issue: # 없음 https://ieeexplore.ieee.org/abstract/document/8587153
   page: 8181-8194
+  description: ""
+  accepted: 0
+- title: A New Contour-Based Approach to Moving Object Detection and Tracking Using a Low-end 3-Dimensional Laser Scanner
+  authors: Jhonghyun An, Baehoon Choi, Hyunju Kim and Euntai Kim
+  journal: IEEE Transactions on Vehicular Technology
+  year: 2019
+  month: Aug
+  vol: 68
+  issue: 8
+  page: 7392-7405
   description: ""
   accepted: 0
 - title: A new support vector machine with an optimal additive kernel
