@@ -22,6 +22,13 @@
   month: 10월
   venue: 제주
   description: ""
+- title: "이동로봇 주행을 위한 다중 보행자 추적"
+  authors: 조성진, 조민호, 김은태
+  conference: 제15회 한국로봇종합학술대회 (KROC 2020)
+  year: 2020
+  month: August
+  venue: Pyeongchang, Korea
+  description: ""
 - title: Pyramid Pooling Module을 이용한 두드러진 객체 찾기
   authors:
     이영조, 성홍제, 현준혁, 김은태

@@ -12,7 +12,7 @@
 - title: "Hierarchical Memory Matching Network for Video Object Segmentation"
   authors:
     Hongje Seong, Seoung Wug Oh, Joon-Young Lee, Seongwon Lee, Suhyeon Lee and Euntai Kim
-  conference: Proc. of the International Conference on Computer Vision (ICCV 2021).
+  conference: Proc. of the International Conference on Computer Vision (ICCV 2021)
   year: 2021
   month: October
   venue: Montreal, Canada
@@ -20,6 +20,27 @@
   vol_exist: 0
   page:
   page_exist: 0
+  description: ""
+- title: ""Positional Weighted Memory Module for Semantic Segmentation""
+  authors: Junhyuk Hyun and Euntai Kim 
+  conference: Proc. of the 18th International Conference on Ubiquitous Robots (UR 2021)
+  year: 2021
+  month: July
+  venue: Gangneung, Korea
+  description: ""
+- title: ""Data Association based on Sensor Fusion for Multi Object Tracking""
+  authors: Sungjin Jo, Minho Cho, Dong Yeop Kim, Jung-Hoon Hwang, and Euntai Kim 
+  conference: Proc. of the 18th International Conference on Ubiquitous Robots (UR 2021)
+  year: 2021
+  month: July
+  venue: Gangneung, Korea
+  description: ""
+- title: ""A Hybrid SLAM in Complicated Indoor Environments for Mobile Robot on Low-Cost Platform""
+  authors: Hae Min Cho, Seongwon Lee and Euntai Kim 
+  conference: Proc. of the 18th International Conference on Ubiquitous Robots (UR 2021)
+  year: 2021
+  month: July
+  venue: Gangneung, Korea
   description: ""
 - title: "Unsupervised Domain Adaptation for Semantic Segmentation by Content Transfer"
   authors:
