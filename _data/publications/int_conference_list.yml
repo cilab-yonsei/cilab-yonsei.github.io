@@ -28,6 +28,10 @@
   year: 2021
   month: July
   venue: Gangneung, Korea
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
   description: ""
 - title: "Data Association based on Sensor Fusion for Multi Object Tracking"
   authors: 
@@ -36,6 +40,10 @@
   year: 2021
   month: July
   venue: Gangneung, Korea
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
   description: ""
 - title: "A Hybrid SLAM in Complicated Indoor Environments for Mobile Robot on Low-Cost Platform"
   authors: 
@@ -44,6 +52,10 @@
   year: 2021
   month: July
   venue: Gangneung, Korea
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
   description: ""
 - title: "Unsupervised Domain Adaptation for Semantic Segmentation by Content Transfer"
   authors:
