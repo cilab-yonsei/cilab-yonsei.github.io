@@ -32,6 +32,39 @@
   page:
   page_exist: 0
   description: ""
+- title: "Metric Learning in Mini-batch for Robust 6-DoF Camera Relocalization in Outdoor Environments"
+  authors: Gyuhyeon Pak, Hongje Seong and Euntai Kim
+  conference: Proc. of the 18th International Conference on Ubiquitous Robots (UR 2021)
+  year: 2021
+  month: July
+  venue: Gangneung, Korea
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+- title: "The Effective Method for 3D LiDAR Point Clouds Processing"
+  authors: Youngjoo Kim, Hongje Seong, Wonje Jang and Euntai Kim
+  conference: Proc. of the 18th International Conference on Ubiquitous Robots (UR 2021)
+  year: 2021
+  month: July
+  venue: Gangneung, Korea
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+- title: "Multi-Modal Object Detection with Grid-Attention for YOLOv3"
+  authors: Jangyoon Kim, Suhan Woo and Euntai Kim
+  conference: Proc. of the 18th International Conference on Ubiquitous Robots (UR 2021)
+  year: 2021
+  month: July
+  venue: Gangneung, Korea
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
 - title: "Positional Weighted Memory Module for Semantic Segmentation"
   authors: 
     Junhyuk Hyun and Euntai Kim 
