@@ -31,7 +31,7 @@
   vol_exist: 0
   page:
   page_exist: 0
-  description: ""d
+  description: ""
 - title: "Metric Learning in Mini-batch for Robust 6-DoF Camera Relocalization in Outdoor Environments"
   authors: Gyuhyeon Pak, Hongje Seong and Euntai Kim
   conference: Proc. of the 18th International Conference on Ubiquitous Robots (UR 2021)
