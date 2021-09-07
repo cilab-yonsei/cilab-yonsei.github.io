@@ -330,3 +330,12 @@
   cv:
     url:
     exist: 0
+
+- name: Chungmyeon Lee
+  photo: chungmyeonlee.jpg
+  info: Master's Degree Programs
+  email: chmax7213@yonsei.ac.kr
+  affiliation: 
+  cv:
+    url:
+    exist: 0

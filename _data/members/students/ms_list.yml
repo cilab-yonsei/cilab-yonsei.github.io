@@ -6,17 +6,6 @@
 #    url:
 #    exist: 0 or 1    
 
-
-- name: Chungmyeon Lee
-  photo: chungmyeonlee.jpg
-  info: Master's Degree Programs
-  email: chmax7213@yonsei.ac.kr
-  research: Intelligent Vehicle System
-  affiliation: 
-  cv:
-    url:
-    exist: 0
-
 - name: Young Joo Kim
   photo: youngjookim.jpg
   info: Master's Degree Programs

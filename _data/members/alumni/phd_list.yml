@@ -65,7 +65,7 @@
   photo: Baehoon Choi.jpg
   info: PhD Student
   email:
-  affiliation: Phantom AI Korea
+  affiliation: Phantom AI, SanFrancisco
   cv:
     url:
     exist: 0
@@ -123,3 +123,12 @@
   cv:
     url: cv_hyunggijo.pdf
     exist: 1
+
+- name: Jisu Kim
+  photo: jisukim.jpg
+  info: Master's/Doctoral Combined Programs
+  email: jisukim2000@yonsei.ac.kr
+  affiliation:  
+  cv:
+    url:
+    exist: 0

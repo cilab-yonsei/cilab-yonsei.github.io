@@ -6,16 +6,6 @@
 #    url:
 #    exist: 0 or 1
 
-- name: Jisu Kim
-  photo: jisukim.jpg
-  info: Master's/Doctoral Combined Programs
-  email: jisukim2000@yonsei.ac.kr
-  research: Machine Vision Technology
-  affiliation:  
-  cv:
-    url:
-    exist: 0
-
 - name: Sungjin Jo
   photo: sungjinjo.jpg
   info: Master's/Doctoral Combined Programs
