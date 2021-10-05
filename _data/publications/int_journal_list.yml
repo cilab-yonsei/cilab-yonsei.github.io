@@ -8,10 +8,21 @@
 #  page:
 #  description: 
 #  accepted:  
+
+- title: "SP-SLAM: Surfel-Point Simultaneous Localization and Mapping"
+  authors: Hae Min Cho, HyungGi Jo and Euntai Kim
+  journal: IEEE/ASME Transactions on Mechatronics
+  year: 2022
+  month:
+  vol:
+  issue:
+  page:
+  description: "Early Access"
+  accepted: 1
 - title: "A Lane-level Road Marking Map using a Monocular Camera"
   authors: Wonje Jang, Junhyuk Hyun, Jhonghyun An, Minho Cho and Euntai Kim
   journal: IEEE/CAA Journal of Automatica Sinica
-  year: 2021
+  year: 2022
   month:
   vol:
   issue:
@@ -21,7 +32,7 @@
 - title: "Indoor Place Category Recognition for a Cleaning Robot by Fusing a Probabilistic Approach and Deep Learning"
   authors: Soowook Choe\*, Hongje Seong\* and Euntai Kim (\*equal contribution)
   journal: IEEE Transactions on Cybernetics
-  year: 2021
+  year: 2022
   month:
   vol:
   issue:
