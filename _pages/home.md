@@ -27,7 +27,7 @@ We are a dynamic research group at the [School of Electrical and Electronic Engi
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-          <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/TMEC_CHM.png" alt="Slide 1" />
+          <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/TMECH_CHM.png" alt="Slide 1" />
             <div class="carousel-caption bg-dark mb-4">
               <h3>IEEE Transactions on Mechatronics</h3>
               <p>SP-SLAM: Surfel-Point Simultaneous Localization and Mapping Paper Type</p>
