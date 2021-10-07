@@ -33,7 +33,7 @@ We are a dynamic research group at the [School of Electrical and Electronic Engi
               <p>SP-SLAM: Surfel-Point Simultaneous Localization and Mapping Paper Type</p>
             </div>
         </div>
-        <div class="item active">
+        <div class="item">
           <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ICCV_SHJ.png" alt="Slide 2" />
             <div class="carousel-caption bg-dark mb-4">
               <h3>ICCV 2021</h3>
