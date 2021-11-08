@@ -24,11 +24,11 @@
   authors: Wonje Jang, Junhyuk Hyun, Jhonghyun An, Minho Cho and Euntai Kim
   journal: IEEE/CAA Journal of Automatica Sinica
   year: 2022
-  month:
-  vol:
-  issue:
-  page:
-  description: "Accepted"
+  month: Jaunuary
+  vol: 9
+  issue: 1
+  page: 187-204
+  description: 
   accepted: 1
 - title: "Indoor Place Category Recognition for a Cleaning Robot by Fusing a Probabilistic Approach and Deep Learning"
   authors: Soowook Choe\*, Hongje Seong\* and Euntai Kim (\*equal contribution)
