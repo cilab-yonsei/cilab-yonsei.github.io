@@ -20,16 +20,6 @@
   page:
   description: "Accepted"
   accepted: 1
-- title: "A Lane-level Road Marking Map using a Monocular Camera"
-  authors: Wonje Jang, Junhyuk Hyun, Jhonghyun An, Minho Cho and Euntai Kim
-  journal: IEEE/CAA Journal of Automatica Sinica
-  year: 2022
-  month: Jaunuary
-  vol: 9
-  issue: 1
-  page: 187-204
-  description: ""
-  accepted: 0
 - title: "Indoor Place Category Recognition for a Cleaning Robot by Fusing a Probabilistic Approach and Deep Learning"
   authors: Soowook Choe\*, Hongje Seong\* and Euntai Kim (\*equal contribution)
   journal: IEEE Transactions on Cybernetics
@@ -40,6 +30,16 @@
   page:
   description: "Accepted"
   accepted: 1
+  - title: "A Lane-level Road Marking Map using a Monocular Camera"
+  authors: Wonje Jang, Junhyuk Hyun, Jhonghyun An, Minho Cho and Euntai Kim
+  journal: IEEE/CAA Journal of Automatica Sinica
+  year: 2022
+  month: Jaunuary
+  vol: 9
+  issue: 1
+  page: 187-204
+  description: ""
+  accepted: 0
 
 #2021
 - title: "Universal Pooling - A New Pooling Method for Convolutional Neural Networks Expert"
