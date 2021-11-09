@@ -30,7 +30,7 @@
   page:
   description: "Accepted"
   accepted: 1
-  - title: "A Lane-level Road Marking Map using a Monocular Camera"
+- title: "A Lane-level Road Marking Map using a Monocular Camera"
   authors: Wonje Jang, Junhyuk Hyun, Jhonghyun An, Minho Cho and Euntai Kim
   journal: IEEE/CAA Journal of Automatica Sinica
   year: 2022
