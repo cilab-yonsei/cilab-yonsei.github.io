@@ -9,10 +9,10 @@ permalink: /
 
 We are a dynamic research group at the [School of Electrical and Electronic Engineering](https://ee.yonsei.ac.kr/ee_en/index.do) in [Yonsei University](https://ee.yonsei.ac.kr/ee_en/index.do).
 
-<div class="container-fluid d-none d-sm-block" style="text-align:center">
+<!-- <div class="container-fluid d-none d-sm-block" style="text-align:center">
   <p><img src="{{ site.url }}{{ site.baseurl }}/images/recruite/2022-2_YU-KIST.png" style="max-width: 100%"></p>
 </div>
-<br/>
+<br/> -->
 
 <div markdown="0" class="video-container"> 
     <iframe width="100%" src="https://www.youtube.com/embed/nBtD0NP0qrw" frameborder="0" allowfullscreen></iframe>
