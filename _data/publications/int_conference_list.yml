@@ -8,7 +8,6 @@
 #  page:
 #  description:
 
-#2021
 - title: "Graph-Based Point Tracker for 3D Object Tracking in Point Clouds"
   authors:
     Minseong Park, Hongje Seong, Wonje Jang and Euntai Kim
@@ -21,7 +20,7 @@
   page:
   page_exist: 0
   description: ""
-  - title: "Iteratively Selecting an Easy Reference Frame Makes Unsupervised Video Object Segmentation Easier"
+- title: "Iteratively Selecting an Easy Reference Frame Makes Unsupervised Video Object Segmentation Easier"
   authors:
     Youngjo Lee, Hongje Seong and Euntai Kim
   conference: Proc. of the 36th AAAI conference on Artificial Intelligence (AAAI 2022)
@@ -33,6 +32,7 @@
   page:
   page_exist: 0
   description: ""
+#2021
 - title: Improving Nighttime Object Detection by Generating Synthetic Nighttime Dataset from Daytime Dataset
   authors:
     Youngjo Lee, Suhyeon Lee, Hongje Seong and Euntai Kim
