@@ -10,6 +10,16 @@
 #  accepted:  
 
 #2022
+- title: "Adjacent Feature Propagation Network (AFPNet) for Real-Time Semantic Segmentation"
+  authors: Junhyuk Hyun, Hongje Seong, Sangki Kim, and Euntai Kim
+  journal: "IEEE Transactions on Systems, Man, and Cybernetics: Systems"
+  year: 2022
+  month:
+  vol:
+  issue:
+  page:
+  description: "Accepted"
+  accepted: 1
 - title: "SP-SLAM: Surfel-Point Simultaneous Localization and Mapping"
   authors: Hae Min Cho, HyungGi Jo and Euntai Kim
   journal: IEEE/ASME Transactions on Mechatronics
@@ -42,14 +52,14 @@
   accepted: 0
 
 #2021
-- title: "Universal Pooling - A New Pooling Method for Convolutional Neural Networks Expert"
+- title: "Universal Pooling - A New Pooling Method for Convolutional Neural Networks"
   authors: Junhyuk Hyun, Hongje Seong and Euntai Kim
   journal: Expert Systems With Applications
   year: 2021
   month: Oct
   vol: 180
-  issue: 115084
-  page:
+  issue: 
+  page: 115084
   description: ""
   accepted: 0
 - title: "Novel On-Road Vehicle Detection System Using Multi-Stage Convolutional Neural Network"
