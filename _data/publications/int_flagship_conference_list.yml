@@ -48,7 +48,7 @@
   page_exist: 0
   description: ""
 
-  - title: "3D-DEEP: 3-Dimensional Deep-Learning Based on Elevation Patterns for Road Scene Interpretation"
+- title: "3D-DEEP: 3-Dimensional Deep-Learning Based on Elevation Patterns for Road Scene Interpretation"
   authors:
     A. H. Saz, Suhan Woo, H. C. Schez, I. P. Alonso, Euntai Kim, D. F. Llorca and M. A. Sotelo  #저자 모름
   conference: Proc. of the IEEE Intelligent Vehicle Symposium (IV 2020)
@@ -86,7 +86,7 @@
   page_exist: 0
   description: ""
 
-  - title: Normal Distribution Mixture Matching based Model Free Object Tracking Using 2D LIDAR
+- title: Normal Distribution Mixture Matching based Model Free Object Tracking Using 2D LIDAR
   authors:
     Baehoon Choi, Hyung Gi Jo and Euntai Kim
   conference: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2019)
@@ -123,7 +123,7 @@
   page_exist: 1
   description: ""
 
-  - title: New Feature-level Video Classification via Temporal Attention Model
+- title: New Feature-level Video Classification via Temporal Attention Model
   authors:
     Hongje Seong, Junhyuk Hyun, Suhyeon Lee, Suhan Woo, Hyunbae Chang and Euntai Kim
   conference: "The 1st Workshop and Challenge on Comprehensive Video Understanding in the Wild (CoVieW’18, ACM MM Workshop)"
@@ -173,7 +173,7 @@
   page_exist: 0
   description: ""
 
-  - title: Proposing a Fast Circular HOG Descriptor for Detecting Rotated Objects
+- title: Proposing a Fast Circular HOG Descriptor for Detecting Rotated Objects
   authors:
     Junhyuk Hyun, Jeonghyun Baek, Jisu Kim, Peyman Hosseinzajeh Kassani and Euntai Kim
   conference: Proc. of The 2015 International Joint Conference on Neural Networks (IJCNN 2015)
