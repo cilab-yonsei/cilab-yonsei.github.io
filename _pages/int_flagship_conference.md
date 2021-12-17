@@ -3,7 +3,7 @@ title: "CILAB - International Flagship Conference"
 layout: gridlay
 excerpt: "CILAB -- International Flagship Conference."
 sitemap: false
-permalink: /int_conference/
+permalink: /int_flagship_conference/
 ---
 
 # International Flagship Conference
