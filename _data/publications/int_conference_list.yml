@@ -573,7 +573,7 @@
   page:
   page_exist: 0
   description: ""
-- title: 3D Proposing a Fast Circular HOG Descriptor for Detecting Rotated Objects
+- title: Proposing a Fast Circular HOG Descriptor for Detecting Rotated Objects
   authors:
     Junhyuk Hyun, Jeonghyun Baek, Jisu Kim, Peyman Hosseinzajeh Kassani and Euntai Kim
   conference: Proc. of The 2015 International Joint Conference on Neural Networks (IJCNN 2015)
