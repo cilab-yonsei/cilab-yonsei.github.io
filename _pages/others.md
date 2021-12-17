@@ -1,7 +1,7 @@
 ---
 title: "CILAB - Others"
 layout: gridlay
-excerpt: "CILAB -- Others"
+excerpt: "CILAB -- Others."
 sitemap: false
 permalink: /others/
 ---
