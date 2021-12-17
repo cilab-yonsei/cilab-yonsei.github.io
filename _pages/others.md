@@ -30,19 +30,45 @@ Jump to
     {% for publi in site.data.publications.int_journal_list %}
 
       {% if publi.year == {{current_year}} %}
-
-        {% if publi.accepted == 0 %}
+        {% if publi.type == 0%}
+<strong>{{ publi.title }}</strong> <br />
+<em>{{ publi.authors }}</em> <br />
+<em>{{ publi.conference }}</em>, {{ publi.venue }}, {{ publi.month }}, {{ publi.year }}.<br />
+        {% endif %}
+        {% if publi.type == 1%}
+            {% if publi.accepted == 0 %}
 <strong>{{ publi.title }}</strong> <br />
 <em>{{ publi.authors }}</em> <br />
 <em>{{ publi.journal }}</em>, vol. {{ publi.vol }}, no. {{ publi.issue }}, pp. {{ publi.page }}, {{ publi.month }}, {{ publi.year }}.<br />
-        {% endif %}
+            {% endif %}
 
-        {% if publi.accepted == 1 %}
+            {% if publi.accepted == 1 %}
 <strong>{{ publi.title }}</strong> <br />
 <em>{{ publi.authors }}</em> <br />
 <em>{{ publi.journal }}</em>,  {{ publi.year }}  {{ publi.description }}.<br />
+            {% endif %}
         {% endif %}
+        {% if publi.type == 2%}
 
+            {% if publi.page_exist == 0 %}
+<strong>{{ publi.title }}</strong> <br />
+<em>{{ publi.authors }}</em> <br />
+<em>{{ publi.conference }}</em>, {{ publi.venue }}, {{ publi.month }}, {{ publi.year }}.<br />
+            {% endif %}
+        
+            {% if publi.page_exist == 1 %}
+                {% if publi.vol_exist == 0 %}
+<strong>{{ publi.title }}</strong> <br />
+<em>{{ publi.authors }}</em> <br />
+<em>{{ publi.conference }}</em>, {{ publi.venue }}, {{ publi.month }}, {{ publi.year }}, pp. {{ publi.page }}.<br />
+                {% endif %}
+                {% if publi.vol_exist == 1 %}
+<strong>{{ publi.title }}</strong> <br />
+<em>{{ publi.authors }}</em> <br />
+<em>{{ publi.conference }}</em>, {{ publi.venue }}, {{ publi.month }}, {{ publi.year }}, vol. {{ publi.vol }}, pp. {{ publi.page }}.<br />
+                {% endif %}
+            {% endif %}
+        {% endif %}
       {% endif %}
     {% endfor %}
   {% endif %}
@@ -52,19 +78,46 @@ Jump to
 {% for publi in site.data.publications.int_journal_list %}
 
   {% if publi.year < {{first_year}} %}
-
-  {% if publi.accepted == 0 %}
+    {% if publi.type == 0%}
+<strong>{{ publi.title }}</strong> <br />
+  <em>{{ publi.authors }}</em> <br />
+  <em>{{ publi.conference }}</em>, {{ publi.venue }}, {{ publi.month }}, {{ publi.year }}.<br />
+    {% endif %}
+    {% if publi.type == 1%}
+        {% if publi.accepted == 0 %}
   <strong>{{ publi.title }}</strong> <br />
   <em>{{ publi.authors }}</em> <br />
   <em>{{ publi.journal }}</em>, vol. {{ publi.vol }}, no. {{ publi.issue }}, pp. {{ publi.page }}, {{ publi.month }}, {{ publi.year }}.<br />
-  {% endif %}
+        {% endif %}
 
-  {% if publi.accepted == 1 %}
+        {% if publi.accepted == 1 %}
   <strong>{{ publi.title }}</strong> <br />
   <em>{{ publi.authors }}</em> <br />
   <em>{{ publi.journal }}</em>,  {{ publi.year }}  {{ publi.description }}.<br />
-  {% endif %}
+        {% endif %}
+    {% endif %}
+    {% if publi.type == 2%}
 
+
+        {% if publi.page_exist == 0 %}
+<strong>{{ publi.title }}</strong> <br />
+<em>{{ publi.authors }}</em> <br />
+<em>{{ publi.conference }}</em>, {{ publi.venue }}, {{ publi.month }}, {{ publi.year }}.<br />
+        {% endif %}
+    
+        {% if publi.page_exist == 1 %}
+            {% if publi.vol_exist == 0 %}
+<strong>{{ publi.title }}</strong> <br />
+<em>{{ publi.authors }}</em> <br />
+<em>{{ publi.conference }}</em>, {{ publi.venue }}, {{ publi.month }}, {{ publi.year }}, pp. {{ publi.page }}.<br />
+            {% endif %}
+            {% if publi.vol_exist == 1 %}
+<strong>{{ publi.title }}</strong> <br />
+<em>{{ publi.authors }}</em> <br />
+<em>{{ publi.conference }}</em>, {{ publi.venue }}, {{ publi.month }}, {{ publi.year }}, vol. {{ publi.vol }}, pp. {{ publi.page }}.<br />
+            {% endif %}
+        {% endif %}
+    {% endif %}
   {% endif %}
 
 {% endfor %}

@@ -1,0 +1,3647 @@
+# international conference - type: 2
+#- title:
+#  authors:
+#  Conference:
+#  year:
+#  month:
+#  venue:
+#  vol:
+#  page:
+#  description:
+# type: 2
+
+
+
+#2021
+- title: Improving Nighttime Object Detection by Generating Synthetic Nighttime Dataset from Daytime Dataset
+  authors:
+    Youngjo Lee, Suhyeon Lee, Hongje Seong and Euntai Kim
+  conference: Proc. of the 21th International Conference on Control, Automation and Systems (ICCAS 2021)
+  year: 2021
+  month: October
+  venue: Jeju, Korea
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: "Loop Closure Detection in Crowded Place"
+  authors: Seongwon Lee, HyungGi Jo, Hongje Seong and Euntai Kim
+  conference: 2021 IEEE Region 10 Symposium (TENSYMP 2021)
+  year: 2021
+  month: August
+  venue: Jeju, Korea
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: "Metric Learning in Mini-batch for Robust 6-DoF Camera Relocalization in Outdoor Environments"
+  authors: Gyuhyeon Pak, Hongje Seong and Euntai Kim
+  conference: Proc. of the 18th International Conference on Ubiquitous Robots (UR 2021)
+  year: 2021
+  month: July
+  venue: Gangneung, Korea
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: "The Effective Method for 3D LiDAR Point Clouds Processing"
+  authors: Youngjoo Kim, Hongje Seong, Wonje Jang and Euntai Kim
+  conference: Proc. of the 18th International Conference on Ubiquitous Robots (UR 2021)
+  year: 2021
+  month: July
+  venue: Gangneung, Korea
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: "Multi-Modal Object Detection with Grid-Attention for YOLOv3"
+  authors: Jangyoon Kim, Suhan Woo and Euntai Kim
+  conference: Proc. of the 18th International Conference on Ubiquitous Robots (UR 2021)
+  year: 2021
+  month: July
+  venue: Gangneung, Korea
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: "Positional Weighted Memory Module for Semantic Segmentation"
+  authors: 
+    Junhyuk Hyun and Euntai Kim 
+  conference: Proc. of the 18th International Conference on Ubiquitous Robots (UR 2021)
+  year: 2021
+  month: July
+  venue: Gangneung, Korea
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: "Data Association based on Sensor Fusion for Multi Object Tracking"
+  authors: 
+    Sungjin Jo, Minho Cho, Dong Yeop Kim, Jung-Hoon Hwang, and Euntai Kim 
+  conference: Proc. of the 18th International Conference on Ubiquitous Robots (UR 2021)
+  year: 2021
+  month: July
+  venue: Gangneung, Korea
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: "A Hybrid SLAM in Complicated Indoor Environments for Mobile Robot on Low-Cost Platform"
+  authors: 
+    Hae Min Cho, Seongwon Lee and Euntai Kim 
+  conference: Proc. of the 18th International Conference on Ubiquitous Robots (UR 2021)
+  year: 2021
+  month: July
+  venue: Gangneung, Korea
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+
+  
+#2020
+
+- title: Is Whole Object Information Helpful for Scene Recognition?
+  authors:
+    Hongje Seong, Junhyuk Hyun and Euntai Kim
+  conference: Proc. of the 17th International Conference on Ubiquitous Robots (UR 2020)
+  year: 2020
+  month: June
+  venue: Kyoto, Japan
+  vol:
+  vol_exist: 0
+  page: 149-152
+  page_exist: 1
+  description: ""
+  type: 2
+
+
+
+  #2019
+- title: Partial Convolution for Scene Recognition
+  authors:
+    Hongje Seong, Junhyuk Hyun and Euntai Kim
+  conference: Proc. of the 19th International Conference on Control, Automation and Systems (ICCAS 2019)
+  year: 2019
+  month: October
+  venue: Jeju, Korea
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+
+- title: Odometry Estimation CNN Using Sparse LiDAR Data
+  authors:
+    Hae Min Cho, HyungGi Jo, Seongwon Lee and Euntai Kim
+  conference: Proc. of the 16th International Conference on Ubiquitous Robots (UR 2019)
+  year: 2019
+  month: June
+  venue: Jeju, Korea
+  vol:
+  vol_exist: 0
+  page: 124-127
+  page_exist: 1
+  description: ""
+  type: 2
+- title: Visual Loop Closure Detection over Illumination Change
+  authors:
+    Seongwon Lee, HyungGi Jo, Hae Min Cho and Euntai Kim
+  conference: Proc. of the 16th International Conference on Ubiquitous Robots (UR 2019)
+  year: 2019
+  month: June
+  venue: Jeju, Korea
+  vol:
+  vol_exist: 0
+  page: 77-80
+  page_exist: 1
+  description: ""
+  type: 2
+
+
+  #2018
+- title: Robust Object Detection and Tracking for Autonomous Driving
+  authors:
+    Suhyeon Lee, Junhyuk Hyun and Euntai Kim
+  conference: Proc. of 2018 International Conference on Fuzzy Theory and Its Applications (iFuzzy2018)
+  year: 2018
+  month: November
+  venue: Daegu, Korea
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: Weakly Supervised Temporal Localization in Video Scene Recognition
+  authors:
+    Junhyuk Hyun, Hongje Seong, Suhyeon Lee, Suhan Woo and Euntai Kim
+  conference: Proc. of the 18th International Conference on Control, Automation and Systems (ICCAS 2018)
+  year: 2018
+  month: October
+  venue: GangWon, Korea
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: Large Scale Representation of Volumetric Fusion using ICP
+  authors:
+    HyungGi Cho, Hae Min Cho, Seongwon Lee and Euntai Kim
+  conference: Proc. of the 18th International Conference on Control, Automation and Systems (ICCAS 2018)
+  year: 2018
+  month: October
+  venue: GangWon, Korea
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: Object Classification of Laser Scanner by Using Recurrent Neural Network
+  authors:
+    Minho Cho, Jhonghyun An, Wonje Jang, Euntai Kim
+  conference: Proc. of the IEEE TENCON 2018
+  year: 2018
+  month: October
+  venue: Jeju, Korea
+  vol:
+  vol_exist: 0
+  page: 1440-1444
+  page_exist: 1
+  description: ""
+  type: 2
+
+- title: Robust Visual Loop Closure Detection with Repetitive Features
+  authors:
+    Seongwon Lee, HyungGi Jo, Hae Min Cho and Euntai Kim
+  conference: Proc. of the 15th International Conference on Ubiquitous Robots (UR 2018)
+  year: 2018
+  month: June
+  venue: Hawaii, United States
+  vol:
+  vol_exist: 0
+  page: 891-895
+  page_exist: 1
+  description: ""
+  type: 2
+- title: "Robust 6-DOF Localization Using Sensor Fusion System in Indoor-Outdoor Environments"
+  authors:
+    HyungGi Cho, Hae Min Cho, Seongwon Lee and Euntai Kim
+  conference: Proc. of the 15th International Conference on Ubiquitous Robots (UR 2018)
+  year: 2018
+  month: June
+  venue: Hawaii, United States
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+
+
+  #2017
+- title: Real Time Road Lane Detection for Outdoor Autonomous Navigation of Mobile Robot
+  authors:
+    Wonje Jang, Jhonghyun An, Minho Cho and Euntai Kim
+  conference: The 1st Workshop and Challenge on Comprehensive Video Understanding in the Wild (ICCAS 2017)
+  year: 2017
+  month: October
+  venue: Jeju, Korea
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: Empty Area Search on Occupancy Grid Map for Mobile Robot Navigation
+  authors:
+    Seongwon Lee, HyungGi Jo, Hae Min Cho and Euntai Kim
+  conference: Proc. of the 18th International Symposium on Advanced Intelligent Systems (ISIS 2017)
+  year: 2017
+  month: October
+  venue: Daegu, Korea
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: Real-Time Tracking-by-Detection using Deep Learning for Mobile Vision Applications
+  authors:
+    S. Lee, S. Hong and Euntai Kim #저자 모름
+  conference: Proc. of the 18th International Symposium on Advanced Intelligent Systems (ISIS 2017)
+  year: 2017
+  month: October
+  venue: Daegu, Korea
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: Multi-Resolution Point Cloud Generation Based on Heterogeneous Sensor Fusion System
+  authors:
+    HyungGi Cho, Hae Min Cho, Seongwon Lee and Euntai Kim
+  conference: Proc. of the 2017 14th International Conference on Ubiquitous Robots and Ambient Intelligence (URAI 2017)
+  year: 2017
+  month: June
+  venue: Jeju, Korea
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+
+  #2016
+- title: Fast Vehicle Detection using Cascade Classifier
+  authors:
+    Jeonghyun Baek, Jisu Kim and Euntai Kim # Jisu Kim이 맞는지?
+  conference: Proc. of 2016 International Conference on Fuzzy Theory and Its Applications (iFuzzy2016)
+  year: 2016
+  month: November
+  venue: Taichung, Taiwan
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: Efficient 3D Mapping with RGB-D Camera Based on Distance Dependent Update
+  authors:
+    HyungGi Jo, Sungjin Jo, Hae Min Cho and Euntai Kim
+  conference: Proc. of the 2016 16th International Conference on Control, Automation and Systems (ICCAS 2016)
+  year: 2016
+  month: October
+  venue: Gyeongju, Korea
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: Histogram-model based Road Boundary Estimation by using Laser Scanner
+  authors:
+    Minho Cho, Jhonghyun An, Wonje Jang and Euntai Kim
+  conference: Proc. of the 2016 16th International Conference on Control, Automation and Systems (ICCAS 2016)
+  year: 2016
+  month: October
+  venue: Gyeongju, Korea
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: Application of Soft Histogram of Oriented Gradient on Traffic Sign Detection
+  authors:
+    Peyman Hosseinzadeh Kassani, Junhyuk Hyun and Euntai Kim
+  conference: Proc. of the 2017 14th International Conference on Ubiquitous Robots and Ambient Intelligence (URAI 2017)
+  year: 2017
+  month: June
+  venue: Jeju, Korea
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+
+- title: Getting Higher Performance Using a Two-Layer Extreme Learning Machine
+  authors:
+    Junhyuk Hyun, Jeonghyun Baek, Jisu Kim, Peyman Hosseinzadeh Kassani and Euntai Kim
+  conference: Proc. of the 2016 International Workshop on Advanced Image Technology (IWAIT 2016)
+  year: 2016
+  month: January
+  venue: Busan, Korea
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+
+
+   #2015
+- title: Novel Intersection Recognition Approach for Advanced Driver Assistance System Using Multi-Layer Laser Scanner
+  authors:
+    Jhonghyun An, Baehoon Choi, Kwee-Bo Sim and Euntai Kim
+  conference: Proc. of the 16th Intelligent Systems and 15th International Symposium on Advanced Intelligent Systems(ISIS 2015)
+  year: 2015
+  month: November
+  venue: Mokpo, Korea
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: Road Boundary Estimation by using Laser Scanner
+  authors:
+    Minho Cho, Baehoon Choi, Jonghyun An and Euntai Kim
+  conference: Proc. of 2015 International Conference on Fuzzy Theory and Its Applications (iFuzzy2015)
+  year: 2015
+  month: November
+  venue: Yilan, Taiwan
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: A Simple Extrinsic Calibration Method of Color and Depth Camera
+  authors:
+    Hae Min Cho, Sungjin Jo, HyungGi Jo and E. Kim #성진이형이 맞는지?
+  conference: Proc. of 2015 International Conference on Fuzzy Theory and Its Applications (iFuzzy2015)
+  year: 2015
+  month: November
+  venue: Yilan, Taiwan
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+
+- title: Proposing a GPU Based Modified Fuzzy Nearest Neighbor Rule for Traffic Sign Detection
+  authors:
+    Peyman Hosseinzadeh Kassani, Junhyuk Hyun and Euntai Kim
+  conference: Proc. of the 2015 15th International Conference on Control, Automation and Systems (ICCAS 2015)
+  year: 2015
+  month: October
+  venue: Busan, Korea
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: Vehicle detection and classification in the Scala sensor by using binary classification
+  authors:
+    Junhyuk Hyun, Jeonghyun Baek, Jisu Kim, Peyman Hosseinzadeh Kassani and Euntai Kim
+  conference: Proc. of the 2015 15th International Conference on Control, Automation and Systems (ICCAS 2015)
+  year: 2015
+  month: October
+  venue: Busan, Korea
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+
+- title: Pose Estimation and 3D Environment Reconstruction using less Reliable Depth Data
+  authors:
+    Sungjin Jo, HyungGi Jo, Hae Min Cho and Euntai Kim
+  conference: Proc. of The 2015 IEEE/ASME International Conference on Advanced Intelligent Mechatronic (AIM 2015)
+  year: 2015
+  month: July
+  venue: Busan, Korea
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: Head-Shoulder Detection using Cascade form of SVM
+  authors:
+    Jeonghyun Baek, Jisu Kim and Euntai Kim
+  conference: Proc. of The 30th International Technical Conference on Circuits/Systems, Computers and Communications (ITC-CSCC 2015)
+  year: 2015
+  month: July
+  venue: Seoul, Korea
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+
+  
+   #2014
+- title: 3D FastSLAM Algorithm with Kinect Sensor
+  authors:
+    HyungGi Jo, Sungjin Jo, Sewoong Jun, Changyong Yoon and Euntai Kim
+  conference: Proc. of Joint 7th International Conference on Soft Computing and Intelligent Systems and 15th International Symposium on Advanced Intelligent Systems (SCIS&ISIS 2014)
+  year: 2014
+  month: December
+  venue: Kitakyushu, Japan
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: Rear-end Collision Warning System Using Linear Discriminant Analysis
+  authors:
+    Jhonghyun An, Baehoon Choi, Beomseong Kim, Jaeho Hwang and Euntai Kim
+  conference: Proc. of Joint 7th International Conference on Soft Computing and Intelligent Systems and 15th International Symposium on Advanced Intelligent Systems (SCIS&ISIS 2014)
+  year: 2014
+  month: December
+  venue: Kitakyushu, Japan
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: WiFi-based indoor localization and tracking of a moving device
+  authors:
+    Noelia Hernandez, Manuel Ocana, Jose M. Alonso and Euntai Kim
+  conference: Proc. of Ubiquitous Positioning, Indoor Navigation and Location-Based Services (UPINLBS 2014)
+  year: 2014
+  month: November
+  venue: Corpus Christ, TX, United States
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: Multimodel approach for pedestrian detection
+  authors:
+    Junhyuk Hyun, Jeonghyun Baek, Jisu Kim, Peyman Hosseinzajeh Kassani and Euntai Kim
+  conference: Proc. of 2014 International Conference on Fuzzy Theory and Its Applications (iFuzzy2014)
+  year: 2014
+  month: November
+  venue: Kaohsiung, Taiwan
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: Part-based Face Detection using SLBP
+  authors:
+    Jeonghyun Baek, Jisu Kim and Euntai Kim
+  conference: Proc. of 14th International Conference on Control, Automation and System (ICCAS 2014)
+  year: 2014
+  month: October
+  venue: Gyeonggi-do, Korea
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: Efficient face recognition based on GAP feature
+  authors:
+    Jisu Kim, Jeonghyun Baek and Euntai Kim
+  conference: Proc. of 14th International Conference on Control, Automation and System (ICCAS 2014)
+  year: 2014
+  month: October
+  venue: Gyeonggi-do, Korea
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: On-road precise vehicle detection system using ROI estimation
+  authors:
+    Jisu Kim, Jeonghyun Baek and Euntai Kim
+  conference: Proc. of 17th International IEEE Conference on Intelligent Transportation Systems (ITSC 2014)
+  year: 2014
+  month: October
+  venue: Qingdao, China
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+
+
+    #2013
+- title: A part-based rotational invariant hand detection
+  authors:
+    Jisu Kim, Jeonghyun Baek and Euntai Kim
+  conference: Proc. of 2013 International Conference on Fuzzy Theory and Its Applications (iFuzzy 2013)
+  year: 2013
+  month: December
+  venue: Taipei, Taiwan
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: Intervehicular Sensor Fusion for Situation Awareness
+  authors:
+    Baehoon Choi, Jhonghyen An, Beomseong Kim and Euntai Kim
+  conference: Proc. of The 3rd IFAC Symposium on Telematics Applications (TA 2013)
+  year: 2013
+  month: November
+  venue: seoul, Korea
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: A Ceiling Environment Discrimination based on Ceiling Segmentation
+  authors:
+    S. Jo, C.Yoon and Euntai Kim #저자 모름
+  conference: Proc. of The 14th International Symposium on Advanced Intelligent Systems (ISIS 2013)
+  year: 2013
+  month: November
+  venue: Daejeon, Korea
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: Vision-based Wet Area Detection Using EM
+  authors:
+    Jeonghyun Baek, Jisu Kim, C.Yoon and Euntai Kim #저자 모름
+  conference: Proc. of The 14th International Symposium on Advanced Intelligent Systems (ISIS 2013)
+  year: 2013
+  month: November
+  venue: Daejeon, Korea
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: Particle Recovery of FastSLAM form Tracking Failure for Autonomous Vehicles
+  authors:
+    Hyuk Doo Choi and Euntai Kim
+  conference: Proc. of The 14th International Symposium on Advanced Intelligent Systems (ISIS 2013)
+  year: 2013
+  month: November
+  venue: Daejeon, Korea
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: Grid Mapping Adaptive to Various Map Sizes for Sbot
+  authors:
+    HyungGi Jo, Hyukdoo Choi, Sungjin Jo and Euntai Kim
+  conference: Proc. of 2013 13th International Conference on Control, Automation and Systems (ICCAS 2013)
+  year: 2013
+  month: October
+  venue: Gwangju, Korea
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: Comparison Study of different Feature Classifiers for Hand Posture Classification
+  authors:
+    Jeonghyun Baek, Jisu Kim and Euntai Kim
+  conference: Proc. of 2013 13th International Conference on Control, Automation and Systems (ICCAS 2013)
+  year: 2013
+  month: October
+  venue: Gwangju, Korea
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: On-road vehicle detection based on effective hypothesis generation
+  authors:
+    Jisu Kim, Jeonghyun Baek, Dong Yeop Kim and Euntai Kim
+  conference: Proc. of 2013 22nd IEEE InternationalSymposium on Robot and Human Interactive Communication (RO-MAN 2013)
+  year: 2013
+  month: August
+  venue: Gyeongju, Korea
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+
+  
+    #2012
+- title: A new target recognition scheme using 24GHz microwave RADAR
+  authors:
+    Baehoon Choi, Beomseong Kim, Heejin Lee, KwangWoong Yang and Euntai Kim
+  conference: Proc. of 2012 International Conference on Fuzzy Theory and Its Applications (iFuzzy 2012)
+  year: 2012
+  month: November
+  venue: Taichung, Taiwan
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: CV-SLAM using line and point features
+  authors:
+    Hyukdoo Choi, Sungjin Jo and Euntai Kim
+  conference: Proc. of 2012 12th International Conference on Control, Automation and Systems (ICCAS 2012)
+  year: 2012
+  month: October
+  venue: Jeju, Korea
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: Ceiling vision based SLAM approach using sensor fusion of sonar sensor and monocular camera
+  authors:
+    Sungjin Jo, Hyukdoo Choi and Euntai Kim
+  conference: Proc. of 2012 12th International Conference on Control, Automation and Systems (ICCAS 2012)
+  year: 2012
+  month: October
+  venue: Jeju, Korea
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: Indoor localization using laser scanner and vision marker for intelligent robot
+  authors:
+    Beomseong Kim, Baehoon Choi, Euntai Kim and KwangWoong Yang
+  conference: Proc. of 2012 12th International Conference on Control, Automation and Systems (ICCAS 2012)
+  year: 2012
+  month: October
+  venue: Jeju, Korea
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: A modified dynamic window approach in crowded indoor environment for intelligent transport robot
+  authors:
+    Baehoon Choi, Beomseong Kim, Euntai Kim and Kwang Woong Yang
+  conference: Proc. of 2012 12th International Conference on Control, Automation and Systems (ICCAS 2012)
+  year: 2012
+  month: October
+  venue: Jeju, Korea
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: Adaptive ROI-based autonomous pedestrian detection system
+  authors:
+    Jeonghyun Baek, Sungjun Hong, Jisu Kim, Euntai Kim and Heejin Lee
+  conference: Proc. of 2012 12th International Conference on Control, Automation and Systems (ICCAS 2012)
+  year: 2012
+  month: October
+  venue: Jeju, Korea
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: Autonomous vehicle detection system using visible and infrared camera
+  authors:
+    Jisu Kim, Sungjun Hong, Jeonghyun Baek, Euntai Kim and Heejin Lee
+  conference: Proc. of 2012 12th International Conference on Control, Automation and Systems (ICCAS 2012)
+  year: 2012
+  month: October
+  venue: Jeju, Korea
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: Multiple hypothesis tracking for mobile robot localization
+  authors:
+    Hyukdoo Choi, Euntai Kim, Yong Woon Park and Chong Hui Kim
+  conference: Proc. of International Conference on Instrumentation, Control and Information Technology (SICE 2012)
+  year: 2012
+  month: August
+  venue: Akita, Japan
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: LIDAR sensor matching system using database
+  authors:
+    Junho Moon1, Hyuk Doo Choi, Nam Hun Park, Chong Hui Kim, Yong Woon Park and Euntai Kim
+  conference: Proc. of International Conference on Automation and Control Engineering (ICACE 2012)
+  year: 2012
+  month: February
+  venue: Kualalumpur, Malaysia
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+
+
+    #2011
+- title: Multiple object recognition system for intelligent vehicle system using 24GHz radar
+  authors:
+    Baehoon Choi, Heesung Lee and Euntai Kim
+  conference: Proc. of 2011 11th International Conference on Control, Automation and Systems (ICCAS 2011)
+  year: 2011
+  month: October
+  venue: Gyeonggi-do, Korea
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: A soft computing approach for collision risk assessments
+  authors:
+    Seongkeun Park, Beomsung Kim, Baehoon Choi, Euntai Kim, Heejin Lee and Hyung-Jin Kang
+  conference: Proc. of 2011 11th International Conference on Control, Automation and Systems (ICCAS 2011)
+  year: 2011
+  month: October
+  venue: Gyeonggi-do, Korea
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: "An obstacle classification for intelligent vehicle using 24GHz microwave RADAR: various distribution approach"
+  authors:
+    Baehoon Choi,  Beomseong Kim, Seongkeun Park and Euntai Kim
+  conference: Proc. of The 12th International Symposium on Advanced Intelligent Systems (ISIS 2011)
+  year: 2011
+  month: September
+  venue: Suwon, Korea
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: An indoor navigation system using fuzzy dynamic window approach
+  authors:
+    Beomsung Kim, Baehoon Choi, Euntai Kim and Heejin Lee ##Heegin Lee가 맞는지 아닌지?
+  conference: Proc. of The 12th International Symposium on Advanced Intelligent Systems (ISIS 2011)
+  year: 2011
+  month: September
+  venue: Suwon, Korea
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: Regularized eigenspace-based gait recognition system for human identification
+  authors:
+    Byungyun Lee, Sungjun Hong, Heesung Lee and Euntai Kim
+  conference: Proc. of The 6th IEEE Conference on Industrial Electronics and Applications (ICIEA 2011)
+  year: 2011
+  month: June
+  venue: Beijing, China
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: Mobile robot exploration via pseudo range model
+  authors:
+    Ryun Seok Kim, Hyukdoo Choi, Euntai Kim and Chang Woo Park
+  conference: Proc. of 1st ACIS/JNU International Conference on Computers, Networks, Systems, and Industrial Engineering (CNSI 2011)
+  year: 2011
+  month: May
+  venue: Jeju, Korea
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+
+
+    #2010
+- title: Constructing customized fuzzy sets using Bayesian probability
+  authors:
+    Wooyong Chung, Jaehun Lee and Euntai Kim
+  conference: Proc. of Joint 5th International Conference on Soft Computing and Intelligent Systems and 11th International Symposium on Advanced Intelligent Systems (SCIS & ISIS 2010)
+  year: 2010
+  month: December
+  venue: Okayama, Japan
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: Segmentation of the silhouette image and their combinations for gait recognition
+  authors:
+    Sungjun Hong, Heesung Lee, Byungyun Lee and Euntai Kim
+  conference: Proc. of Joint 5th International Conference on Soft Computing and Intelligent Systems and 11th International Symposium on Advanced Intelligent Systems (SCIS & ISIS 2010)
+  year: 2010
+  month: December
+  venue: Okayama, Japan
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: Novel obstacle avoidance system in dynamic environment using radar
+  authors:
+    Beomseong Kim, Seongkeun Park, Baehoon Choi and Euntai Kim
+  conference: Proc. of the 7th International Conference on Ubiquitous Robots and Ambient Intelligence (URAI 2010)
+  year: 2010
+  month: November
+  venue: Busan, Korea
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: Gait-based human identification using scores fusion
+  authors:
+    Sungjun Hong, Heesung Lee, Byungyun Lee and Euntai Kim
+  conference: Proc. of the 7th International Conference on Ubiquitous Robots and Ambient Intelligence (URAI 2010)
+  year: 2010
+  month: November
+  venue: Busan, Korea
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: Robust DV-hop algorithm for localization in wireless sensor network
+  authors:
+    Jaehun Lee, Wooyong Chung, Euntai Kim and In Wha Hong
+  conference: Proc. of International Conference on Control, Automation and Systems 2010 (ICCAS 2010)
+  year: 2010
+  month: October
+  venue: Gyeonggi-do, Korea
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: Intelligent collision risk assessment based on neural network ensemble
+  authors:
+    Bumsung Kim, Baehoon Choi, Seongkeun Park and Euntai Kim
+  conference: Proc. of The Society of Instrument and Control Engineers Annual Conference (SICE2010)
+  year: 2010
+  month: August
+  venue: Taipei, Taiwan
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: "Collision risk assessment for pedestrians’ safety : neural network with interacting multiple model approach"
+  authors:
+    Seongkeun Park, Baehoon Choi, Bumsung Kim and Euntai Kim
+  conference: Proc. of The Society of Instrument and Control Engineers Annual Conference (SICE2010)
+  year: 2010
+  month: August
+  venue: Taipei, Taiwan
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: Gait Recognition System using Decision-Level Fusion 
+  authors:
+    Byungyun Lee, Sungjun Hong, Heesung Lee and Euntai Kim 
+  conference: Proc. of 2010 International Conference on Electronics, Information, and Communication (ICEIC 2010)
+  year: 2010
+  month: June
+  venue: Cebu, Philippines
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: Distance based outlier detection for nearest neighborhood
+  authors:
+    Heesung Lee, Sungjun Hong, Byungyun Lee and Euntai Kim
+  conference: Proc. of 2010 International Conference on Electronics, Information, and Communication (ICEIC 2010)
+  year: 2010
+  month: June
+  venue: Cebu, Philippines
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: CV SLAM using ceiling boundary
+  authors:
+    Hyukdoo Choi, Dong Yeop Kim, Jae Pil Hwang, Euntai Kim and Young-Ouk Kim #저자가 기존 홈페이지와 다른 것으로 확인됨
+  conference: Proc. of The 5th IEEE Conference on Industrial Electronics and Applications (ICIEA 2010)
+  year: 2010
+  month: June
+  venue: Taichung, Taiwan
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: Gait recognition system using decision-level fusion
+  authors:
+    Byungyun Lee, Sungjun Hong, Heesung Lee and Euntai Kim
+  conference: Proc. of The 5th IEEE Conference on Industrial Electronics and Applications (ICIEA 2010)
+  year: 2010
+  month: June
+  venue: Taichung, Taiwan
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+
+ 
+    #2009
+- title: Sensors for intelligent vehicle systems
+  authors:
+    Seongkeun Park and Euntai Kim
+  conference: Proc. of International Conference on Humanized Systems (ICHS 2009)
+  year: 2009
+  month: October
+  venue: Seoul, Korea
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: FCV-SLAM for multi-obstacle space
+  authors:
+    Dong Yeop Kim, Hyukdoo Choi, Jae Pil Hwang, Euntai Kim and Young-Ouk Kim 
+  conference: Proc. of the First International Conference on Smart IT Applications (SITA 2009)
+  year: 2009
+  month: September
+  venue: Qingdao, China
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: classification system using 24GHz microwave radar
+  authors:
+    Seongkeun Park and Euntai Kim
+  conference: Proc. of The 6th International Conference on Ubiquitous Robots and Ambient Intelligence (URAI 2009)
+  year: 2009
+  month: September
+  venue: Gwangju, Korea
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: A new state estimation method for unknown system
+  authors:
+    Seongkeun Park, Jae Pil Hwang, Euntai Kim, Heesung Lee and Ho Gi Jung #저자 확실하지않음
+  conference: Proc. of The 10th International Symposium on Advanced Intelligent Systems (ISIS 2009)
+  year: 2009
+  month: August
+  venue: Busan, Korea
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: A new design method for linguistically understandable fuzzy classifier
+  authors:
+    Heesung Lee, Sanghun Jang, Euntai Kim and Ho Gi Jung
+  conference: Proc. of IEEE International Conference on Fuzzy Systems
+  year: 2009
+  month: August
+  venue: Jeju, Korea
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: Efficient range-free localization algorithm for wireless sensor network based on shortest path information
+  authors:
+    Jaehun Lee, Wooyong Chung and Euntai Kim 
+  conference: Proc. of ICROS-SICE International Joint Conference 2009 (ICCAS-SICE 2009)
+  year: 2009
+  month: August
+  venue: Fukuoka, Japan
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: Optimal classifier design method using hierarchical fair competition model based parallel genetic algorithm
+  authors:
+    Heesung Lee, Sungjun Hong and Euntai Kim
+  conference: Proc. of ICROS-SICE International Joint Conference 2009 (ICCAS-SICE 2009)
+  year: 2009
+  month: August
+  venue: Fukuoka, Japan
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: Fusion of multiple gait cycles for human identification
+  authors:
+    Sungjun Hong, Heesung Lee and Euntai Kim
+  conference: Proc. of ICROS-SICE International Joint Conference 2009 (ICCAS-SICE 2009)
+  year: 2009
+  month: June
+  venue: Beijing, China
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: Automatic gait recognition using width vector mean
+  authors:
+    Sungjun Hong, Heesung Lee and Euntai Kim
+  conference: Proc. of the 4th IEEE Conference on Industrial Electronics and Applications (ICIEA 2009)
+  year: 2009
+  month: May
+  venue: Xi'an, China
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+
+  
+    #2008
+- title: r-θ Motion Model for EKF SLAM of Two-Wheeled Mobile Robot
+  authors:
+    Dong Yeop Kim, Jae Pil Hwang, Euntai Kim and Young Ouk Kim
+  conference: Proc. of 39th Internatioinal Symposium on Robotics 2008
+  year: 2008
+  month: October
+  venue: Seoul, Korea
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: Multiple Data Association and Tracking Using Millimeter Wave Radar
+  authors:
+    Seongkeun Park, Euntai Kim, Heejin Lee and Hogi Jung
+  conference: Proc. of International Conference on Control, Automation and Systems 2008 (ICCAS 2008)
+  year: 2008
+  month: October
+  venue: Seoul, Korea
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: Fusion of Multiple Gait Features for Human Identification
+  authors:
+    Sungjun Hong, Heesung Lee, Sung Je An and Euntai Kim
+  conference: Proc. of International Conference on Control, Automation and Systems 2008
+  year: 2008
+  month: October
+  venue: Seoul, Korea
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: Efficient classification scheme based on hybrid global and local properties of feature
+  authors:
+    Heesung Lee, Sungjun Hong, Sungje An and Euntai Kim
+  conference: Proc. of International Conference on Control, Automation and Systems 2008 (ICCAS 2008)
+  year: 2008
+  month: October
+  venue: Seoul, Korea
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: Reducing power consumption in Error-Correcting Code using various genetic operators
+  authors:
+    Heesung Lee, Sungjun Hong and Euntai Kim
+  conference: Proc. of Joint International Conference on Soft Computing and Intelligent Systems and International Symposium on Advanced Intelligent Systems (SCIS & ISIS 2008)
+  year: 2008
+  month: September
+  venue: Nagoya, Japan
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: Multi-view gait recognition fusion methodology
+  authors:
+    Imran Fareed Nizami, Sungjun Hong, Heesung Lee, Sungje Ahn, Kar-Ann Toh and Euntai Kim
+  conference: Proc. the 3rd IEEE Conference on Industrial Electronics and Applications (ICIEA 2008)
+  year: 2008
+  month: June 
+  venue: Singapore
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+
+   
+    #2007
+- title: Human Identification Based on Gait Analysis
+  authors:
+    Sungjun Hong, Heesung Lee, Imran Fareed Nizami, Sung-Je An and Euntai Kim
+  conference: Proc. of International Conference on Control, Automation and Systems 2007
+  year: 2007
+  month: October
+  venue: Seoul, Korea
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: Combination of multiple classifiers using probabilistic method
+  authors:
+    Heesung Lee, Sungjun Hong and Euntai Kim
+  conference: Proc. of International Conference on Control, Automation and Systems 2007
+  year: 2007
+  month: October
+  venue: Seoul, Korea
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: Context Awareness for Sensor Network Using Bayesian Networks and Fuzzy Knowledge
+  authors:
+    Jaehun Lee, Wooyong Chung and Euntai Kim 
+  conference: Proc. of 2007 International Symposium on advanced Intelligent Systems
+  year: 2007
+  month: September
+  venue: Sokcho, Korea
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: Centroid Localization Method in Wireless Sensor Networks using TSK Fuzzy Modeling
+  authors:
+    S. Yun, Jaehun Lee, Wooyong Chung and Euntai Kim #저자 모름
+  conference: Proc. of 2007 International Symposium on advanced Intelligent Systems
+  year: 2007
+  month: September
+  venue: Sokcho, Korea
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: Multi-objective genetic design for error correcting code
+  authors:
+     H. Lee, Jaehun Lee and Euntai Kim #저자 모름
+  conference: Proc. of 2007 International Symposium on advanced Intelligent Systems
+  year: 2007
+  month: September
+  venue: Sokcho, Korea
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: Multi-Classifier Based LIDAR and Camera Fusion
+  authors:
+    Jae Pil Hwang, Seung Eun Cho, Kyung Jin Ryu, Seungkeun Park and Euntai Kim
+  conference: Proc. Intelligent Transportation Systems Conference 2007
+  year: 2007
+  month: September
+  venue: Seattle, WA, United States
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: "A New Gait Representation for Human Identification: Mass Vector"
+  authors:
+    Sungjun Hong, Heesung Lee, Imran Fareed Nizami and Euntai Kim
+  conference: Proc. of the Second IEEE Conference on Industrial Electronics and Applications (ICIEA 2007)
+  year: 2007
+  month: May
+  venue: Harbin, China
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: A New Particle Filter Inspired by Biological Evolution:Genetic Filter
+  authors:
+    Seomgkeun Park, JaePil Hwang, KyungJin Rou and Euntai Kim
+  conference: Proc. of Int. Conf. on Computer, Information, and Systems Science, and Engineering
+  year: 2007
+  month: January
+  venue: ## 모름
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: Reducing Power in Error Correcting Code Using Genetic Algorithm
+  authors:
+    Heesung Lee, Joonkyung Sung and Euntai Kim 
+  conference: Proc. of Int. Conf. on Computer, Information, and Systems Science, and Engineering
+  year: 2007
+  month: January
+  venue: ## 모름
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: Path Planning of a Robot Manipulator Using Retrieval RRT Strategy
+  authors:
+    Kyongsae Oh, Jae Pil Hwang, Euntai Kim and Heejin Lee
+  conference: Proc. of Int. Conf. on Computer, Information, and Systems Science, and Engineering
+  year: 2007
+  month: January
+  venue: ## 모름
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+
+   
+    #before 2007 / 1
+- title: New Estimation Method based on Genetic Algorithm and its Application to Control of Moving Train
+  authors:
+    Seong Keun Park, Jae Phil Hwang, Kyung Jin Rou, Euntai Kim and Min Yong Park
+  conference: Proc. of SICE-ICCAS International Joint Conference 2006
+  year: 2006
+  month: October
+  venue: Busan, Korea
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: TSK Fuzzy modeling approach for Face detection
+  authors:
+    Heesung Lee, Sungjun Hong, Kyongsae Oh, Euntai Kim and Mignon Park
+  conference: Proc. of SICE-ICCAS International Joint Conference 2006
+  year: 2006
+  month: October
+  venue: Busan, Korea
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: Gait Recognition using Sampled Point Vectors
+  authors:
+    Sungjun Hong, Heesung Lee, Kyongsae Oh, Mignon Park and Euntai Kim
+  conference: Proc. of SICE-ICCAS International Joint Conference 2006
+  year: 2006
+  month: October
+  venue: Busan, Korea
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: Side View Face Recognition as an Aid to Gait Recognition
+  authors:
+    Kyongsae Oh, Heesung Lee, Sungjun Hong and Euntai Kim
+  conference: Proc. of Joint 3rd International Conference on Soft Computing and Intelligent Systems and 7th International Symposium on advanced Intelligence Systems 2006
+  year: 2006
+  month: September
+  venue: Tokyo, Japan
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: PCA based vehicle detection system for ACC
+  authors:
+    Jaepil Hwang, Kyungjin Rou, Seongkeun Park, Euntai Kim and Hyung-Jin Kang
+  conference: Proc. of ICEIC 2006
+  year: 2006
+  month: June
+  venue: Mongolia, Ulaanbaatar
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: Structure Learning of Bayesian Networks by Genetic Algorithms using novel genetic operators
+  authors:
+    Jaehun Lee, W. Jung and Euntai Kim #저자 모름
+  conference: Proc. of Korea-Japan Joint Workshop on Info-Mechatronic systems
+  year: 2005
+  month: October
+  venue: Seoul, Korea
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: An Immunotronic Approach for Hardware Fault Detection and its Application to the Design of Stigmergy Engine
+  authors:
+    Sanghyung Lee, Gunbae Kim, Euntai Kim, Hyekyung Cho, Hongil Yoon and Sungho Kang
+  conference: International Technical Conference on Circuits/Systems, Computers and Communications 2005
+  year: 2005
+  month: July
+  venue: Jeju, Korea
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: Constructing Context-aware Home based on Bayesian Network
+  authors:
+    Wooyong Chung, Jaehun Lee and Euntai Kim
+  conference: International Technical Conference on Circuits/Systems, Computers and Communications 2005
+  year: 2005
+  month: July
+  venue: Jeju, Korea
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: Cosimulation of the control 6-DOF Kuka manipulator by Simulink and Recurdyn
+  authors:
+    SeongKeun Park, KyungSe Oh, Euntai Kim, Sungsoo Lim and Sungul Lee 
+  conference: International Technical Conference on Circuits/Systems, Computers and Communications 2005
+  year: 2005
+  month: July
+  venue: Jeju, Korea
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: Efficient Test Point Selection using Multi-Objective Genetic Algorithms with Biological Kronecker Delta Evolution
+  authors:
+    Jaehun Lee, Jin-Ho Ahn, Euntai Kim, Hyekyung Cho, Hongil Yoon and Sungho Kang
+  conference: International Technical Conference on Circuits/Systems, Computers and Communications 2005
+  year: 2005
+  month: July
+  venue: Jeju, Korea
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+
+  #before 2007 / 2
+
+- title: TSK Approach to Camera Calibration
+  authors:
+    Heesung Lee, Sungjun Hong, Euntai Kim and Mignon Park
+  conference: International Technical Conference on Circuits/Systems, Computers and Communications 2005
+  year: 2005
+  month: July
+  venue: Jeju, Korea
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: Trajectory Generation for Biped Robot on Surface with Various Friction Using Fuzzy Logic
+  authors:
+    Jungho Joo, Jae Pil Hwang, Euntai Kim and Mignon Park
+  conference: International Technical Conference on Circuits/Systems, Computers and Communications 2005
+  year: 2005
+  month: July
+  venue: Jeju, Korea
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: A new TSK fuzzy modeling approach
+  authors:
+    Kyoungjung Kim, You Keun Kim, Euntai Kim and Mignon Park
+  conference: Proc. of FUZZ/IEEE
+  year: 2004
+  month: July
+  venue: Budapest, Hungary
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: "LMI based L2 robust stable fuzzy control, Part 2: numerical robust control design"
+  authors:
+    C. Park, C. Hyun, C. Lee, Euntai Kim and Mignon Park #저자 모름
+  conference: Proc. of ICEIC 2002
+  year: 2002
+  month: July
+  venue: Ulaanbaatar, Mongolia
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: "LMI based L2 robust stable fuzzy control, Part 1: numerical robust stability analysis"
+  authors:
+     K. Kim, C. Park, Euntai Kim and Mignon Park #저자 모름
+  conference: Proc. of ICEIC 2002
+  year: 2002
+  month: July
+  venue: Ulaanbaatar, Mongolia
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: Mobile robot control using decision assistance information
+  authors:
+    G. Lee, C. Lee, S. Lee, Euntai Kim, and Mignon Park #저자 모름
+  conference: Proc. of ICEIC 2002
+  year: 2002
+  month: July
+  venue: Ulaanbaatar, Mongolia
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: EKF-based on-line identification of a fuzzy system
+  authors:
+    E. Kim, H. Lee, E. Kim, S. Lee, Minkee Park and Mignon Park #저자 모름
+  conference: Proc. of 4th Asian Fuzzy Systems Symposium
+  year: 2000
+  month: May
+  venue: Tsukuba, Japan
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: Development on semi-active suspension system using fuzzy logic controller
+  authors:
+    S. Lee, Euntai Kim, C. Kwon and Mignon Park #저자 모름
+  conference: Proc. of 4th Asian Fuzzy Systems Symposium
+  year: 2000
+  month: May
+  venue: Tsukuba, Japan
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: Fuzzy control of a direct current motor system with the guaranteed stability
+  authors:
+    Euntai Kim, Heejin Lee and Mignon Park 
+  conference: Proc. of IEEE Int. Conf. on Fuzzy Systems (IEEE/FUZZ 99)
+  year: 1999
+  month: August
+  venue: Seoul, Korea
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: Tracking control of nonlinear systems using fuzzy sliding surfaces
+  authors:
+    H. Lee, K. Lee, Euntai Kim, J. Kim and Mignon Park #저자 모름
+  conference: Proc. of Iizuka 98
+  year: 1998
+  month: September
+  venue: Iizuka,Japan
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+
+  #before 2007 / 3
+
+- title: Variable structure control of manipulator using linear time- varying sliding surfaces
+  authors:
+    Heejin Lee, Hyunseok Shin, Euntai Kim, Seungwoo Kim and Mignon Park
+  conference: Proc. of IEEE/RSJ Int. Conf. Intell. Robots and Sys.
+  year: 1998
+  month: October
+  venue: Victoria, B. C., Canada,
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: On-line identification of a fuzzy system
+  authors:
+    Euntai Kim, Heejin Lee, Minkee Park and Mignon Park
+  conference: Proc. of 3rd Asian Fuzzy Symposium
+  year: 1998
+  month: June
+  venue: Masan, Korea
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: Variable structure control of nonlinear system using fuzzy variable boundary layer
+  authors:
+    Heejin Lee, Hongyoup Son, Euntai Kim and Mignon Park
+  conference: Proc. of IEEE Int. Conf. Fuzzy Systems (FUZZ-IEEE)
+  year: 1998
+  month: August
+  venue: Alaska, United States
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: A study on self-excited oscillation of a fuzzy control system - static case
+  authors:
+    Euntai Kim, C. Park, Y. Cho and Mignon Park #저자 모름
+  conference: Proc. of 2nd Asian Control Conference
+  year: 1997
+  month: July
+  venue: Seoul, Korea
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: A study on self-excited oscillation of a fuzzy control system - dynamic case
+  authors:
+    Euntai Kim, H, Lee, Y. Yee and Mignon Park #저자 모름
+  conference: Proc. of 2nd Asian Control Conference
+  year: 1997
+  month: July
+  venue: Seoul, Korea
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: "An analysis of self-excited oscillation of a fuzzy controlled- system based on FBF: dynamic case"
+  authors:
+    Euntai Kim, H, Lee, S. Kim and Mignon Park #저자 모름
+  conference: Proc. of IFSA World Congress
+  year: 1997
+  month: June
+  venue: Prague
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: "An analysis of self-excited oscillation of a fuzzy controlled-system based on FBF: static case"
+  authors:
+    Euntai Kim, H, Lee, Minkee Park and Mignon Park #저자 모름
+  conference: Proc. of IFSA World Congress
+  year: 1997
+  month: June
+  venue: Prague
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: Simply identified Sugeno-type fuzzy modeling
+  authors:
+    Euntai Kim, Heejin Lee, Minkee Park and Mignon Park
+  conference: Proc. of Iizuka '96
+  year: 1996
+  month: August
+  venue: Fukuoka, Japan
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: New stiffness conrol of a robot manipulator using a fuzzy model
+  authors:
+    Minkee Park, Euntai Kim and Mignon Park
+  conference: Japanese Robotics Lecture Meeting #확실하지않음
+  year: 1995
+  month: ##모름
+  venue: ##모름
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: A new fuzzy adaptive controller using a robust property of fuzzy controller
+  authors:
+    S. Kim, Euntai Kim and Mignon Park #저자 모름
+  conference: IEEE/RSJ Int. Conf. Intell. Robots and Sys.
+  year: 1993
+  month: July
+  venue: Yokohama, Japan
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+
+
+
+# domestic journal - type: 1
+
+#- title:
+#  authors:
+#  journal:
+#  year:
+#  month:
+#  vol:
+#  issue:
+#  page:
+#  description: 
+#  accepted:
+# type: 1
+
+- title: "A Deep Convolutional Neural Network Based 6-DOF Relocalization with Sensor Fusion System"
+  authors:
+    HyungGi Jo, Hae Min Cho, Seongwon Lee and Euntai Kim
+  journal: Journal of Korea Robtics Society
+  year: 2019
+  month: Jun
+  vol: 14
+  issue: 2
+  page:
+  description: ""
+  accepted: 0
+  type: 1
+- title: "A New Automatic Gait Cycle Partitioning Method and Its Application to Human Identification"
+  authors:
+    Sungjun Hong and Euntai Kim
+  journal: International Journal of Fuzzy Logic and Intelligent Systems
+  year: 2017
+  month: Jun
+  vol: 17
+  issue: 2
+  page: 51-57
+  description: ""
+  accepted: 0
+  type: 1
+- title: "Pseudoinverse Matrix Decomposition Based Incremental Extreme Learning Machine with Growth of Hidden Nodes"
+  authors:
+    Peyman Hosseinzadeh Kassani and Euntai Kim
+  journal: International Journal of Fuzzy Logic and Intelligent Systems
+  year: 2016
+  month: Jun
+  vol: 16
+  issue: 2
+  page: 125-130
+  description: ""
+  accepted: 0
+  type: 1
+- title: "Sensitivity Analysis of Width Representation for Gait Recognition"
+  authors:
+    Sungjun Hong and Euntai Kim
+  journal: International Journal of Fuzzy Logic and Intelligent Systems
+  year: 2016
+  month: Jun
+  vol: 16
+  issue: 2
+  page: 87-94
+  description: ""
+  accepted: 0
+  type: 1
+- title: "Segmentation and Histogram of Oriented Gradient with Ship Size Ratio"
+  authors:
+    Hyukmin Eum, Jaeyun Bae, Changyong Yoon and Euntai Kim
+  journal: International Journal of Fuzzy Logic and Intelligent Systems
+  year: 2015
+  month: Dec
+  vol: 15
+  issue: 4
+  page: 251-259
+  description: ""
+  accepted: 0
+  type: 1
+- title: "Genetic outlier detection for a robust support vector machine"
+  authors:
+    Heesung Lee and Euntai Kim
+  journal: International Journal of Fuzzy Logic and Intelligent Systems
+  year: 2015
+  month: Jun
+  vol: 15
+  issue: 2
+  page: 96-101
+  description: ""
+  accepted: 0
+  type: 1
+- title: "MCMC기반 파티클 필터를 이용한 지능형 자동차의 다수 전방 차량 추적 시스템"
+  authors:
+    최배훈, 안종현, 조민호, 김은태
+  journal: 한국지능시스템학회 논문지
+  year: 2015
+  month: Apr
+  vol: 25
+  issue: 2
+  page: 186-190
+  description: ""
+  accepted: 0
+  type: 1
+- title: "신경회로망을 이용한 새로운 충돌 경고 시스템"
+  authors:
+    김범성, 최배훈, 안종현, 황재호, 김은태
+  journal: 한국지능시스템학회 논문지
+  year: 2014
+  month: Aug
+  vol: 24
+  issue: 4
+  page: 392-397
+  description: ""
+  accepted: 0
+  type: 1
+- title: "HOG를 이용한 파트 기반 손 검출 알고리즘"
+  authors:
+    백정현, 김지수, 윤창용, 김동연, 김은태
+  journal: 한국지능시스템학회 논문지
+  year: 2013
+  month: Dec
+  vol: 23
+  issue: 6
+  page: 551-557
+  description: ""
+  accepted: 0
+  type: 1
+- title: "퍼지 논리와 Interacting Multiple Model (IMM)을 통한 잡음환경에서의 맞은편 차량의 중앙선 침범 예측"
+  authors:
+    김범성, 최배훈, 안종현, 이희진, 김은태
+  journal: 한국지능시스템학회 논문지
+  year: 2013
+  month: Oct
+  vol: 23
+  issue: 5
+  page: 444-450
+  description: ""
+  accepted: 0
+  type: 1
+- title: "데이터베이스 기반 GPS 위치 보정 시스템"
+  authors:
+    문준호, 최혁두, 박남훈, 김종희, 박용운, 김은태
+  journal: 로봇학회논문지
+  year: 2012
+  month: Sep
+  vol: 7
+  issue: 3
+  page: 205-215
+  description: ""
+  accepted: 0
+  type: 1
+- title: "무인 차량의 도로주행을 위한 경유점 생성 방법"
+  authors:
+    최혁두, 박남훈, 김종희, 박용운, 김은태
+  journal: 한국지능시스템학회 논문지
+  year: 2012
+  month: 4
+  vol: 22
+  issue: 2
+  page: 161-167
+  description: ""
+  accepted: 0
+  type: 1
+- title: "A novel range-free localization algorithm for anisotropic network"
+  authors:
+    Jaehun Lee, Wooyong Chung and Euntai Kim
+  journal: International Journal of Fuzzy Logic and Intelligent Systems
+  year: 2011
+  month: 12
+  vol: 11
+  issue: 4
+  page: 223-228
+  description: ""
+  accepted: 0
+  type: 1
+- title: "커널 함수를 도입한 새로운 추천 시스템"
+  authors:
+    이제헌, 황재필, 김은태
+  journal: 한국지능시스템학회 논문지
+  year: 2011
+  month: 10
+  vol: 21
+  issue: 5
+  page: 624-629
+  description: ""
+  accepted: 0
+  type: 1
+- title: "측정 아웃라이어 제거를 통해 개선된 GraphSLAM"
+  authors:
+    김륜석, 최혁두, 김은태
+  journal: 한국지능시스템학회 논문지
+  year: 2011
+  month: 8
+  vol: 21
+  issue: 4
+  page: 493-498
+  description: ""
+  accepted: 0
+  type: 1
+- title: "재귀적 확률 갱신 방법을 이용한 보행자 충돌 위험 판단 방법"
+  authors:
+    박성근, 김범성, 김은태, 이희진, 강형진
+  journal: 한국지능시스템학회 논문지
+  year: 2011
+  month: 8
+  vol: 21
+  issue: 4
+  page: 475-480
+  description: ""
+  accepted: 0
+  type: 1
+- title: "실내형 이동로봇을 위한 레이저 스캐너를 이용한 위치 인식과 장애물 추적"
+  authors:
+    최배훈, 김범성, 김은태
+  journal: 한국지능시스템학회 논문지
+  year: 2011
+  month: 6
+  vol: 21
+  issue: 3
+  page: 329-334
+  description: ""
+  accepted: 0
+  type: 1
+- title: "고유특징 정규화 및 추출 기법을 이용한 걸음걸이 바이오 정보 기반 사용자 인식 시스템"
+  authors:
+    이병윤, 홍성준, 이희성, 김은태
+  journal: 한국지능시스템학회 논문지
+  year: 2011
+  month: 2
+  vol: 21
+  issue: 1
+  page: 6-11
+  description: ""
+  accepted: 0
+  type: 1
+- title: "신경 회로망을 이용한 보행자와의 충돌 위험 판단 방법"
+  authors:
+    김범성, 박성근, 최배훈, 김은태, 이희진, 강형진
+  journal: 제어 로봇 시스템학회 논문지
+  year: 2011
+  month: 1
+  vol: 17
+  issue: 1
+  page: 6-11
+  description: ""
+  accepted: 0
+  type: 1
+- title: "유전자 알고리즘을 이용한 강인한 Support vector machine 설계"
+  authors:
+    이희성, 홍성준, 이병윤, 김은태
+  journal: 한국지능시스템학회 논문지
+  year: 2010
+  month: Jun
+  vol: 20
+  issue: 3
+  page: 375-379
+  description: ""
+  accepted: 0
+  type: 1
+- title: "자동차 검출을 위한 GAVaPS를 이용한 최적 분류기 앙상블 설계"
+  authors:
+     이희성, 이제헌, 김은태
+  journal: 제어 로봇 시스템학회 논문지
+  year: 2010
+  month: Jan
+  vol: 16
+  issue: 1
+  page: 96-100
+  description: ""
+  accepted: 0
+  type: 1
+- title: "On-road Tracking using Laser Scanner with Multiple Hypothesis Assumption"
+  authors:
+    Kyungjin Ryu, Seongkeun Park, Jae Pil Hwang, Euntai Kim and Mignon Park
+  journal: International Journal of Fuzzy Logic and Intelligent Systems
+  year: 2009
+  month: Sep
+  vol: 9
+  issue: 3
+  page: 232-237
+  description: ""
+  accepted: 0
+  type: 1
+- title: "어파인-자기 회귀 모델과 강인 통계를 사용한 교통 표지판 추적"
+  authors:
+    윤창용, 천민규, 이희진, 김은태, 박민용
+  journal: 대한전자공학회지
+  year: 2009
+  month: Sep
+  vol: 46
+  issue: 5
+  page: 126-134
+  description: ""
+  accepted: 0
+  type: 1
+- title: "다양한 유전 연산자를 이용한 저전력 오류 정정 코드 설계"
+  authors:
+    이희성, 홍성준, 안성제, 김은태
+  journal: 한국지능시스템학회 논문지
+  year: 2009
+  month: Apr
+  vol: 19
+  issue: 2
+  page: 180-184
+  description: ""
+  accepted: 0
+  type: 1
+- title: "도로 상의 자동차 탐지를 위한 카메라와 LIDAR 복합 시스템"
+  authors:
+    황재필, 박성근, 김은태, 강형진
+  journal: 제어 로봇 시스템 학회 논문지
+  year: 2009
+  month: Apr
+  vol: 15
+  issue: 4
+  page: 390-395
+  description: ""
+  accepted: 0
+  type: 1
+- title: "A New Vehicle Detection Method based on Color Integral Histogram"
+  authors:
+    Jae Pil Hwang, Kyungjin Ryu, Seongkeun Park, Euntai Kim and Hyung-jin Kang
+  journal: International Journal of Fuzzy Logic and Intelligent Systems
+  year: 2008
+  month: Dec
+  vol: 8
+  issue: 4
+  page: 248-253
+  description: ""
+  accepted: 0
+  type: 1
+- title: "GAVaPS를 이용한 다수 K-Nearest Neighbor classifier들의 Feature 선택"
+  authors:
+    이희성, 이제헌, 김은태
+  journal: 한국지능시스템학회 논문지
+  year: 2008
+  month: Dec
+  vol: 18
+  issue: 6
+  page: 871-875
+  description: ""
+  accepted: 0
+  type: 1
+- title: "Fuzzy Interacting Multiple Model을 이용한 관측왜곡 시스템의 차량추적"
+  authors:
+    박성근, 황재필, 류경진, 김은태
+  journal: 한국지능시스템학회 논문지
+  year: 2008
+  month: Dec
+  vol: 18
+  issue: 6
+  page: 863-870
+  description: ""
+  accepted: 0
+  type: 1
+- title: "다목적 Error correcting code의 새로운 설계방법"
+  authors:
+    이희성, 김은태
+  journal: 한국지능시스템학회 논문지
+  year: 2008
+  month: Oct
+  vol: 18
+  issue: 5
+  page: 611-616
+  description: ""
+  accepted: 0
+  type: 1
+- title: "퍼지 모델링과 유전자 알고리즘을 이용한 무선 센서 네트워크에서 위치추정"
+  authors:
+    윤숙현, 이제헌, 정우용, 김은태
+  journal: 한국지능시스템학회 논문지
+  year: 2008
+  month: Aug
+  vol: 18
+  issue: 4
+  page: 530-536
+  description: ""
+  accepted: 0
+  type: 1
+- title: "얼굴과 발걸음을 결합한 인식"
+  authors:
+    Imran Fareed Nizami, 안성제, 홍성준, 이희성, 김은태, 박민용
+  journal: 한국 퍼지 및 지능 시스템학회 논문지
+  year: 2008
+  month: Jan
+  vol: 18
+  issue: 1
+  page: 72-77
+  description: ""
+  accepted: 0
+  type: 1
+- title: "움직임 실루엣 영상의 일반적인 표현 방식에 대한 연구"
+  authors:
+    홍성준, 이희성, 김은태
+  journal: Journal of Control, Automation, and Systems Engineering
+  year: 2007
+  month: Aug
+  vol: 13
+  issue: 8
+  page: 749-753
+  description: ""
+  accepted: 0
+  type: 1
+- title: "FCM 이산화를 이용한 스마트 홈에서 행동 모델링"
+  authors:
+    정우용, 이제헌, 윤숙현, 조영완, 김은태
+  journal: 제어 자동화 시스템공학
+  year: 2007
+  month: Jun
+  vol: 13
+  issue: 6
+  page: 542-546
+  description: ""
+  accepted: 0
+  type: 1
+- title: "베이지안 네트워크에 기반한 스마트 홈에서의 상황인식 기법개발"
+  authors:
+    정우용, 김은태
+  journal: 퍼지 및 지능 시스템학회
+  year: 2007
+  month: Apr
+  vol: 17
+  issue: 2
+  page: 179-184
+  description: ""
+  accepted: 0
+  type: 1
+- title: "Activity Recognition Using Sensor Network"
+  authors:
+    Jaehun Lee, Byoungyun Lee, Wooyong Chung and Euntai Kim
+  journal: International Journal of Fuzzy Logic and Intelligent Systems
+  year: 2006
+  month: Sep
+  vol: 6
+  issue: 3
+  page: 197-201
+  description: ""
+  accepted: 0
+  type: 1
+- title: "개선된 움직임 실루엣 영상을 이용한 발걸음 인식에 관한 연구"
+  authors:
+    홍성준,이희성,오경세,김은태
+  journal: 한국 퍼지 및 지능 시스템학회 논문지
+  year: 2006
+  month: Jun
+  vol: 16
+  issue: 3
+  page: 266-270
+  description: ""
+  accepted: 0
+  type: 1
+- title: "적응 백스테핑 방법을 이용한 이족보행 로봇의 퍼지 논리 제어"
+  authors:
+    황재필, 주정호, 김은태, 이희진
+  journal: 한국정밀공학회지
+  year: 2006
+  month: Jul
+  vol: 23
+  issue: 7
+  page: 24-29
+  description: ""
+  accepted: 0
+  type: 1
+- title: "국내의 지능형 홈 연구동향-차세대 복합 지능형 서비스 플랫폼 연구를 중심으로"
+  authors:
+    정우용, 강명석, 김은태
+  journal: 한국로봇공학회
+  year: 2006
+  month: Jan
+  vol: 3
+  issue: 1
+  page: 39-48
+  description: ""
+  accepted: 0
+  type: 1
+- title: "이족 보행 로봇 제어에 대한 새로운 적응 퍼지 접근방법"
+  authors:
+    황재필, 김은태
+  journal: 대한전자공학회지
+  year: 2005
+  month: Sep
+  vol: 41
+  issue: 4
+  page: 43-50
+  description: ""
+  accepted: 0
+  type: 1
+- title: "공생 진화를 이용한 Immunotronic 접근 방식의하드웨어 오류 검출"
+  authors:
+    이상형, 김은태, 이희진, 박민용
+  journal: 대한전자공학회지
+  year: 2005
+  month: Sep
+  vol: 41
+  issue: 4
+  page: 43-50
+  description: ""
+  accepted: 0
+  type: 1
+- title: "T-S퍼지 모델을 이용한 불확실한 카오스 시스템의 적응동기화"
+  authors:
+    김재훈, 박창우, 김은태, 박민용
+  journal: 퍼지및 지능시스템학회지
+  year: 2005
+  month: Apr
+  vol: 15
+  issue: 2
+  page: 270-275
+  description: ""
+  accepted: 0
+  type: 1
+- title: "온라인 진화형 TSK 퍼지식별"
+  authors:
+    김경중, 박창우, 김은태, 박민용
+  journal: 퍼지및 지능시스템학회지
+  year: 2005
+  month: Apr
+  vol: 15
+  issue: 2
+  page: 204-210
+  description: ""
+  accepted: 0
+  type: 1
+- title: "외향 기반 환경 인식을 사용한 이동 로봇의 위치인식 알고리즘"
+  authors:
+    이희성, 김은태
+  journal: 대한전자공학회지
+  year: 2004
+  month: Nov
+  vol: 41
+  issue: 4
+  page: 1-12
+  description: ""
+  accepted: 0
+  type: 1
+- title: "적응형 퍼지 백스테핑 방식을 이용한 단일축 유연관절 로봇의 강인 제어"
+  authors:
+    김은태, 이희진
+  journal: 대한전자공학회지
+  year: 2004
+  month: Nov
+  vol: 41
+  issue: 4
+  page: 1-12
+  description: ""
+  accepted: 0
+  type: 1
+- title: "Antibody Diversity 원리와 Antigen Presenting Cell을 구현한 새로운 인공 면역 시스템"
+  authors:
+    이상형, 김은태, 박민용
+  journal: 대한전자공학회지
+  year: 2004
+  month: Jul
+  vol: 41
+  issue: 4
+  page: 51-58
+  description: ""
+  accepted: 0
+  type: 1
+- title: "A Biologically Inspired New Hardware Fault Detection : immunotronic and Genetic Algorithm-Based Approach"
+  authors:
+    Sanghyung Lee, Euntai Kim and Mignon Park
+  journal: International Journal of Fuzzy Logic and Intelligent Systems
+  year: 2004
+  month: Jun
+  vol: 4
+  issue: 1
+  page: 7-11
+  description: ""
+  accepted: 0
+  type: 1
+
+
+# domestic conference -type: 0
+#- title:
+#  authors:
+#  Conference:
+#  year:
+#  month:
+#  venue: 
+#  description:
+# type: 0
+
+- title: Depth map이 Semantic Segmentation에 끼치는 영향
+  authors:
+    우수한, 조성진, 조민호, 김은태
+  conference: 정보 및 제어 학술대회(CICS 2020)
+  year: 2020
+  month: 10월
+  venue: 제주
+  description: ""
+  type: 0
+- title: 자율 주행차의 라이다 센서를 위한 Blockage 검출
+  authors:
+    이충면, 장원제, 김은태
+  conference: 정보 및 제어 학술대회(CICS 2020)
+  year: 2020
+  month: 10월
+  venue: 제주
+  description: ""
+  type: 0
+- title: "이동로봇 주행을 위한 다중 보행자 추적"
+  authors: 조성진, 조민호, 김은태
+  conference: 제15회 한국로봇종합학술대회 (KROC 2020)
+  year: 2020
+  month: 8월
+  venue: 평창
+  description: ""
+  type: 0
+- title: Pyramid Pooling Module을 이용한 두드러진 객체 찾기
+  authors:
+    이영조, 성홍제, 현준혁, 김은태
+  conference: 제 35회 제어로봇시스템학회 학술대회(ICROS 2020)
+  year: 2020
+  month: 7월
+  venue: 고성
+  description: ""
+  type: 0
+- title: LSTM 기반의 다중 차량 경로 예측 네트워크
+  authors:
+    김수연, 장원제, 김은태
+  conference: 제 35회 제어로봇시스템학회 학술대회(ICROS 2020)
+  year: 2020
+  month: 7월
+  venue: 고성
+  description: ""
+  type: 0
+- title: 자율주행에서 특수 상황에서의 사고 방지를 위한 다중 센서를 이용한 데이터셋 구축 방법
+  authors:
+    이상용, 이수현, 김은태
+  conference: 제 35회 제어로봇시스템학회 학술대회(ICROS 2020)
+  year: 2020
+  month: 7월
+  venue: 고성
+  description: ""
+  type: 0
+- title: 고해상도 및 대규모 항공 지도를 활용한 순차적 항공 이미지 Dataset 생성 도구
+  authors:
+    윤종현, 이성원, 김은태
+  conference: 제 35회 제어로봇시스템학회 학술대회(ICROS 2020)
+  year: 2020
+  month: 7월
+  venue: 고성
+  description: ""
+  type: 0
+- title: 가상 데이터셋을 사용하여 의미론적 분할 네트워크를 학습하기 위한 도메인 적응 방법
+  authors:
+    이수현, 현준혁, 성홍제, 이상용, 김은태
+  conference: 제 35회 제어로봇시스템학회 학술대회(ICROS 2020)
+  year: 2020
+  month: 7월
+  venue: 고성
+  description: ""
+  type: 0
+- title: 카메라 기반 주변 물체 정보 예측
+  authors:
+    조민호, 조성진, 김은태
+  conference: 제 35회 제어로봇시스템학회 학술대회(ICROS 2020)
+  year: 2020
+  month: 7월
+  venue: 고성
+  description: ""
+  type: 0
+- title: Multitask Transformer Network를 이용한 비 정제 동영상에서의 행동/장소 영역간 상관관계의 시각화
+  authors:
+    성홍제, 이영조, 이성원, 안종현, 김은태
+  conference: 제 32회 영상처리 및 이해에 관한 워크샵(IPIU 2020)
+  year: 2020
+  month: 2월
+  venue: 제주
+  description: ""
+  type: 0
+
+
+- title: 이동 로봇의 주행가능 영역 검출을 위한 데이터세트
+  authors:
+    조성진, 김은태
+  conference: 정보 및 제어 학술대회(CICS 2019)
+  year: 2019
+  month: 10월
+  venue: 경주
+  description: ""
+  type: 0
+- title: Partial Convolution을 이용한 장소 이미지에서의 Class Activation Map 추출 개선
+  authors:
+    장현배, 성홍제, 현준혁, 김은태
+  conference: 제 50회 대한전기학회 하계학술대회
+  year: 2019
+  month: 7월
+  venue: 고성
+  description: ""
+  type: 0
+- title: 자율주행에서의 사고 방지를 위한 보행자 위험도 판단 방법
+  authors:
+    이수현, 성홍제, 장현배, 김은태
+  conference: 제 50회 대한전기학회 하계학술대회
+  year: 2019
+  month: 7월
+  venue: 고성
+  description: ""
+  type: 0
+- title: 딥러닝 네트워크를 이용한 도로 주행상황에서의 객체 인식
+  authors:
+    우수한, 현준혁, 김은태
+  conference: 제 34회 제어로봇시스템학회 학술대회(ICROS 2019)
+  year: 2019
+  month: 5월
+  venue: 경주
+  description: ""
+  type: 0
+- title: 카메라를 이용한 차량 정보 예측
+  authors:
+    조민호, 이수현, 김은태
+  conference: 제 31회 영상처리 및 이해에 관한 워크샵(IPIU 2019)
+  year: 2019
+  month: 2월
+  venue: 제주
+  description: ""
+  type: 0
+- title: SLAM 모듈을 위한 레이저 스캐너 센서 불필요 데이터 제거
+  authors:
+    장원제, 조해민, 이성원, 우수한, 김은태
+  conference: 제 31회 영상처리 및 이해에 관한 워크샵(IPIU 2019)
+  year: 2019
+  month: 2월
+  venue: 제주
+  description: ""
+  type: 0
+- title: 레이저 스캐너를 이용한 박스 형태 기반 이동로봇 검출 및 추적
+  authors:
+    안종현, 조민호, 장원제, 김은태
+  conference: 제 14회 한국로봇종합학술대회
+  year: 2019
+  month: 1월
+  venue: 평창
+  description: ""
+  type: 0
+- title: 저가형 센서 모듈을 이용한 모바일 로봇의 3차원 위치인식
+  authors:
+    조형기, 조해민, 이성원, 김동엽, 김은태
+  conference: 제 14회 한국로봇종합학술대회
+  year: 2019
+  month: 1월
+  venue: 평창
+  description: ""
+  type: 0
+  
+
+
+- title: 딥러닝을 이용한 차선 추출 방법
+  authors:
+    조민호, 안종현, 장원제, 김은태
+  conference: 한국지능시스템학회 2018년도 추계학술대회
+  year: 2018
+  month: 10월
+  venue: 원주
+  description: ""
+  type: 0
+- title: 스테레오 카메라와 레이더의 레이더의 센서 융합을 이용한 제안 영역 생성 방법
+  authors:
+    현준혁, 이수현, 우수한, 성홍제, 김은태
+  conference: 제 33회 제어로봇시스템학회 학술대회(ICROS 2018)
+  year: 2018
+  month: 5월
+  venue: 전북 부안
+  description: ""
+  type: 0
+- title: 레이더 센서를 사용한 차량 검출 방법
+  authors:
+    이수현, 현준혁, 우수한, 성홍제, 김은태
+  conference: 한국지능시스템학회 2018년도 춘계학술대회
+  year: 2018
+  month: 4월
+  venue: 서울
+  description: ""
+  type: 0
+- title: YOLOv2 객체 검출 성능 향상을 위한 네트워크 구조 개선
+  authors:
+    우수한, 이상윤, 현준혁, 이수현, 이성원, 백정현, 홍성준, 김은태
+  conference: 제13회 한국로봇종합학술대회
+  year: 2018
+  month: 1월
+  venue: 횡성
+  description: ""
+  type: 0
+- title: 딥러닝을 이용한 도로 차선 검출 알고리즘
+  authors:
+    안종현, 장원제, 조민호, 조형기, 조해민, 김은태
+  conference: 제13회 한국로봇종합학술대회
+  year: 2018
+  month: 1월
+  venue: 횡성
+  description: ""
+  type: 0
+
+
+- title: 영상기반 보행자 검출을 위한 BING을 이용한 보행자 후보군 제안
+  authors:
+    백정현, 장원제, 윤창용, 김은태
+  conference: 한국지능시스템학회 2017년도 추계학술대회
+  year: 2017
+  month: 11월
+  venue: 여수
+  description: ""
+  type: 0
+- title: 결정 트리의 에이다 부스트를 이용한 신호 인식 시스템
+  authors:
+    현준혁, 백정현, 김지수, 이수현, 김은태
+  conference: 대한전자공학회 하계종합학술대회
+  year: 2017
+  month: 6월
+  venue: 부산
+  description: ""
+  type: 0
+- title: Superpixel과 Fully Convolutional Network를 이용한 시맨틱 영상 분할
+  authors:
+    이상윤, 김지수, 홍성준, 김범성, 노동기, 김은태
+  conference: 제 32회 제어로봇시스템학회 학술대회(ICROS 2017)
+  year: 2017
+  month: 5월
+  venue: 속초
+  description: ""
+  type: 0
+- title: 효과적인 자율주행 차량용 차선 검출
+  authors:
+    현준혁, 백정현, 김지수, 이수현, 김은태
+  conference: 한국지능시스템학회 2017년도 춘계학술대회
+  year: 2017
+  month: 4월
+  venue: 제주
+  description: ""
+  type: 0
+- title: Time-of-Flight(TOF) 센서를 이용한 실시간 3차원 형상 재구성
+  authors:
+    조해민, 조형기, 이성원, 김은태
+  conference: 제 27회 통신정보 합동학술대회(JCCI 2017)
+  year: 2017
+  month: 4월
+  venue: 부산
+  description: ""
+  type: 0
+- title: PIHOG와 IKSVM을 이용한 차량 검출
+  authors:
+    백정현, 김지수, 홍성준, 이희성, 김은태
+  conference: 제 29회 영상처리 및 이해에 관한 워크샵 (IPIU 2017)
+  year: 2017
+  month: 2월
+  venue: 제주
+  description: ""
+  type: 0
+- title: Markov Decision Process를 이용한 차량의 경로 계획
+  authors:
+    조민호, 안종현, 장원제, 김은태
+  conference: 제12회 한국로봇종합학술대회
+  year: 2017
+  month: 2월
+  venue: 평창
+  description: ""
+  type: 0
+- title: 실내 환경에서 Superpixel merging을 이용한 객체 분할
+  authors:
+    김지수, 이상윤, 현준혁, 백정현, 홍성준, 조형기, 김은태
+  conference: 제12회 한국로봇종합학술대회
+  year: 2017
+  month: 2월
+  venue: 평창
+  description: ""
+  type: 0
+- title: 엣지와 색 정보를 이용한 비디오 기반의 실시간 신호등 검출
+  authors:
+    이수현, 현준혁, 김은태
+  conference: 제12회 한국로봇종합학술대회
+  year: 2017
+  month: 2월
+  venue: 평창
+  description: ""
+  type: 0
+- title: 딥 러닝을 이용한 강인하고 빠른 교통 표지판 검출 및 분류
+  authors:
+    이성원, 현준혁, 이수현, 조형기, 조해민, 김은태
+  conference: 제12회 한국로봇종합학술대회
+  year: 2017
+  month: 2월
+  venue: 평창
+  description: ""
+  type: 0
+- title: 2차원 레이저 스캐너를 이용한 연석 검출 알고리즘
+  authors:
+    안종현, 조민호, 장원제, 김은태
+  conference: 제12회 한국로봇종합학술대회
+  year: 2017
+  month: 2월
+  venue: 평창
+  description: ""
+  type: 0
+
+
+- title: Command Shaping 기법과 피드백 제어기를 이용한 카메라 손떨림 보정 시스템 제어
+  authors:
+    이상윤, 김성민, 김은태
+  conference: 2016 정보 및 제어 학술대회(CICS)
+  year: 2016
+  month: 10월
+  venue: 단양
+  description: ""
+  type: 0
+- title: 단계별 이미지 특징점 매칭 기법에 기반한 SLAM 및 3차원 환경 재구성 알고리즘
+  authors:
+    조해민, 조형기, 이성원, 김은태
+  conference: 한국지능시스템학회 2016년도 추계학술대회
+  year: 2016
+  month: 10월
+  venue: 서울
+  description: ""
+  type: 0
+- title: Hough Transform과 HOG SVM을 이용한 최고 속도 제한 표지판 검출
+  authors:
+    이수현, 백정현, 김지수, 현준혁, 김은태
+  conference: 한국지능시스템학회 2016년도 추계학술대회
+  year: 2016
+  month: 10월
+  venue: 서울
+  description: ""
+  type: 0
+- title: 유전자 알고리즘을 이용한 레이저 프린터 정착 시스템 제어 최적화
+  authors:
+    공영강, 윤창용, 김은태
+  conference: 한국 지능 시스템 학회 2016년도 춘계학술대회
+  year: 2016
+  month: 4월
+  venue: 성남
+  description: ""
+  type: 0
+- title: Command Shaping 기법을 이용한 카메라 손떨림 보정 시스템의 잔류진동 억제
+  authors:
+    김성민, 이상윤, 윤창용, 김은태
+  conference: 제 31회 제어로봇시스템학회 학술대회(ICROS 2016)
+  year: 2016
+  month: 3월
+  venue: 서울
+  description: ""
+  type: 0
+- title: 스테레오 환경에서 ACF를 이용한 보행자 검출 시스템 개발
+  authors:
+    김지수, 백정현, 현준혁, 김은태
+  conference: 제 28회 영상처리 및이해에 관한 워크샵 (IPIU2016)
+  year: 2016
+  month: 2월
+  venue: 제주
+  description: ""
+  type: 0
+- title: 이동 로봇의 자율 주행을 위한 사람 인식 알고리즘
+  authors:
+    장원제, 최배훈, 안종현, 조민호, 김은태
+  conference: 제11회 한국로봇종합학술대회
+  year: 2016
+  month: 1월
+  venue: 평창
+  description: ""
+  type: 0
+- title: 외부 카메라 정보를 융합한 3차원 환경 재구성
+  authors:
+    조해민, 조성진, 조형기, 전세웅, 김은태
+  conference: 제11회 한국로봇종합학술대회
+  year: 2016
+  month: 1월
+  venue: 평창
+  description: ""
+  type: 0
+- title: 랜덤 활성화를 이용한 ELM 학습 방법
+  authors:
+    현준혁, 백정현, 김지수, 김은태
+  conference: 제11회 한국로봇종합학술대회
+  year: 2016
+  month: 1월
+  venue: 평창
+  description: ""
+  type: 0
+- title: 레이저 스캐너를 이용한 도로 경계 추출
+  authors:
+    조민호, 최배훈, 안종현, 김은태
+  conference: 제11회 한국로봇종합학술대회
+  year: 2016
+  month: 1월
+  venue: 평창
+  description: ""
+  type: 0
+- title: 레이저스캐너를 이용한 대상체 동적성 판단
+  authors:
+    안종현, 최배훈, 조민호, 장원제, 김은태
+  conference: 제11회 한국로봇종합학술대회
+  year: 2016
+  month: 1월
+  venue: 평창
+  description: ""
+  type: 0
+- title: Light Field 카메라를 이용한 3차원 객체 표현
+  authors:
+    조형기, 조성진, 조해민, 김은태
+  conference: 제11회 한국로봇종합학술대회
+  year: 2016
+  month: 1월
+  venue: 평창
+  description: ""
+  type: 0
+- title: 효과적인 후보군 추출을 이용한 레이더 센서 기반 자동차 검출
+  authors:
+    김지수, 백정현, 현준혁, 김은태
+  conference: 제11회 한국로봇종합학술대회
+  year: 2016
+  month: 1월
+  venue: 평창
+  description: ""
+  type: 0
+- title: 향상된 MIP를 이용한 효과적인 머리-어깨 검출
+  authors:
+    백정현, 김지수, 이희성, 김은태
+  conference: 제11회 한국로봇종합학술대회
+  year: 2016
+  month: 1월
+  venue: 평창
+  description: ""
+  type: 0
+- title: 동적 환경에서의 3차원 외형 복원
+  authors:
+    조성진, 조형기, 조해민, 김은태
+  conference: 제11회 한국로봇종합학술대회
+  year: 2016
+  month: 1월
+  venue: 평창
+  description: ""
+  type: 0
+
+
+- title: Voxel Grid Filter를 적용한 Octree 기반 3D Rao-Blackwellized 파티클 필터 SLAM
+  authors:
+    조형기, 조성진, 조해민, 전세웅, 김은태
+  conference: 2015 정보 및 제어 학술대회(CICS)
+  year: 2015
+  month: 10월
+  venue: 속초
+  description: ""
+  type: 0
+- title: 지능 로봇을 위한 3D 환경 재구성 기술동향
+  authors:
+    조해민, 조성진, 조형기, 김은태
+  conference: 제10회 한국국방기술학회
+  year: 2015
+  month: 10월
+  venue: 서울
+  description: ""
+  type: 0
+- title: 향상된 적응형 필터를 이용한 자동차 검출 시스템 개발
+  authors:
+    방석진, 김지수, 백정현, 윤창용, 김은태
+  conference: 국지능시스템학회 2015년도 추계학술대회
+  year: 2015
+  month: 10월
+  venue: 청주
+  description: ""
+  type: 0
+- title: 교차 커널을 이용한 고속 머리-어깨 검출
+  authors:
+    백정현, 김지수, 김은태
+  conference: 제 30회 제어로봇시스템학회 학술대회(ICROS 2015)
+  year: 2015
+  month: 5월
+  venue: 대전
+  description: ""
+  type: 0
+- title: RGB-D 센서를 이용한 이미지 특징점 기반 SLAM 및 3차원 환경 재구성
+  authors:
+    조해민, 조성진, 조형기, 전세웅, 김은태
+  conference: 제10회 한국로봇종합학술대회
+  year: 2015
+  month: 5월
+  venue: 대전
+  description: ""
+  type: 0
+- title: 지능형 자동차의 충돌 위험 예측을 위한 레이더/카메라 융합 기반 전방 장애물 인식 알고리즘
+  authors:
+    최배훈, 안종현, 조민호, 고창성, 김은태
+  conference: 제10회 한국로봇종합학술대회
+  year: 2015
+  month: 5월
+  venue: 대전
+  description: ""
+  type: 0
+- title: 파트 기반 모델을 이용한 자동차 검출 시스템 개발
+  authors:
+    김지수, 백정현, 현준혁, 김은태
+  conference: 2015 정보 및 제어 심포지엄(ICS)
+  year: 2015
+  month: 4월
+  venue: 강릉
+  description: ""
+  type: 0
+- title: Developing a Modified Fuzzy Nearest Neighbor Rule for Pattern Classification
+  authors:
+    Peyman, 현준혁, 김은태
+  conference: 한국 지능 시스템 학회 2015년도 춘계 학술대회
+  year: 2015
+  month: 4월
+  venue: 안산
+  description: ""
+  type: 0
+
+
+- title: 영상 기반 SVM을 이용한 젖은 영역 검출 알고리즘
+  authors:
+    백정현, 김지수, 윤창용, 김은태
+  conference: 한국 지능 시스템 학회 2014년도 추계학술대회
+  year: 2014
+  month: 10월
+  venue: 강릉
+  description: ""
+  type: 0
+- title: Time-of-Flight(TOF) 센서를 이용한 이동로봇의 FastSLAM 알고리즘
+  authors:
+    조해민, 조형기, 조성진, 전세웅, 김은태
+  conference: 2014 정보 및 제어 학술대회(CICS)
+  year: 2014
+  month: 10월
+  venue: 제주
+  description: ""
+  type: 0
+- title: 지능형 자동차의 능동 안전 시스템을 위한 Low level 융합 기반 전방 차량 추적 알고리즘 설계
+  authors:
+    최배훈, 김범성, 안종현, 황재호, 김은태
+  conference: 2014년도 대한전자공학회 하계학술대회
+  year: 2014
+  month: 6월
+  venue: 제주
+  description: ""
+  type: 0
+- title: 레이더와 카메라 간 데이터 연관을 통한 전방 차량 상태 인식 알고리즘
+  authors:
+    최배훈, 김범성, 안종현, 황재호, 김은태
+  conference: 제 9회 한국로봇종합학술대회
+  year: 2014
+  month: 6월
+  venue: 부여
+  description: ""
+  type: 0
+- title: 신경회로망을 이용한 새로운 자동긴급제동 시스템
+  authors:
+    김범성,최배훈,안종현,황재호,김은태
+  conference: 제 9회 한국로봇종합학술대회
+  year: 2014
+  month: 6월
+  venue: 부여
+  description: ""
+  type: 0
+- title: ToF 카메라를 활용한 3차원 환경 재구성
+  authors:
+    조성진,조형기,전세웅,김은태
+  conference: 제 9회 한국로봇종합학술대회
+  year: 2014
+  month: 6월
+  venue: 부여
+  description: ""
+  type: 0
+- title: Sbot을 이용한 장애물 회피 알고리즘
+  authors:
+    조형기,조성진,전세웅,김은태
+  conference: 제 9회 한국로봇종합학술대회
+  year: 2014
+  month: 6월
+  venue: 부여
+  description: ""
+  type: 0
+- title: 통계적 분석 방법을 통한 충돌 위험도 판단 알고리즘
+  authors:
+    안종현,최배훈,김범성,황재호,김은태
+  conference: 제 9회 한국로봇종합학술대회
+  year: 2014
+  month: 6월
+  venue: 부여
+  description: ""
+  type: 0
+- title: 레이더와 카메라 센서 융합을 통한 다수 전방 차량 위치 인식 알고리즘
+  authors:
+    최배훈, 김범성, 안종현, 조민호, 김은태
+  conference: 2014 한국자동차공학회 부문종합 학술대회
+  year: 2014
+  month: 5월
+  venue: 부산
+  description: ""
+  type: 0
+- title: NIR 센서 기반 HOG-SVM을 이용한 야간 보행자 검출
+  authors:
+    백정현, 김지수, 김은태
+  conference: 제 29회 제어로봇시스템학회 학술대회(ICROS 2014)
+  year: 2014
+  month: 4월
+  venue: 서울
+  description: ""
+  type: 0
+- title: 향상된 HOG 특징벡터를 이용한 자동차 검출 시스템 개발
+  authors:
+    김지수, 백정현, 김은태
+  conference: 2014 정보 및 제어 심포지엄(ICS)
+  year: 2014
+  month: 4월
+  venue: 서울
+  description: ""
+  type: 0
+- title: Part-based Dual HOG-SVM을 이용한 제스처 인식
+  authors:
+    백정현, 김지수, 윤창용, 김은태
+  conference: 한국지능시스템학회 2014년도 춘계학술대회
+  year: 2014
+  month: 4월
+  venue: 부산
+  description: ""
+  type: 0
+
+
+- title: Sbot을 이용한 실내 위치인식 알고리즘
+  authors:
+    조형기, 최혁두, 조성진, 김은태
+  conference: 2013 정보 및 제어 학술대회(CICS)
+  year: 2013
+  month: 10월
+  venue: 충남
+  description: ""
+  type: 0
+- title: HOG를 이용한 파트 기반 손 검출 알고리즘
+  authors:
+    백정현, 김지수, 윤창용, 김은태
+  conference: 한국 지능 시스템 학회 2013년도 추계학술대회
+  year: 2013
+  month: 10월
+  venue: 서울
+  description: ""
+  type: 0
+- title: ROS 기반 이동로봇의 위치인식과 경로계획
+  authors:
+    조형기, 김은태, 최혁두, 조성진, 양광응
+  conference: 제 28회 제어로봇시스템학회 학술대회(ICROS 2013)
+  year: 2013
+  month: 5월
+  venue: 경남
+  description: ""
+  type: 0
+- title: 점 특징과 ICP 매칭을 활용한 천장 영상기반 SLAM
+  authors:
+    조성진, 최혁두, 김은태
+  conference: 제8회 한국로봇종합학술대회
+  year: 2013
+  month: 5월
+  venue: 강촌
+  description: ""
+  type: 0
+- title: 전방 차량 정보를 이용한 충돌 위험도 판단 알고리즘
+  authors:
+    김범성, 최배훈, 김은태, 고창성, 황재호
+  conference: 2013 한국자동차공학회 부문종합 학술대회
+  year: 2013
+  month: 5월
+  venue: 제주
+  description: ""
+  type: 0
+- title: Interacting Multiple Model을 통한 잡음환경에서의 맞은편 차량의 중앙선 침범 예측
+  authors:
+    최배훈, 김범성, 안종현, 윤창용, 김은태
+  conference: 한국 지능 시스템 학회 2013년도 춘계학술대회
+  year: 2013
+  month: 3월
+  venue: 대구
+  description: ""
+  type: 0
+
+
+- title: 지능형 자동차를 위한 보행자의 충돌 위험도 판단 알고리즘 Case Study
+  authors:
+    김범성, 최배훈, 이희진, 김은태
+  conference: 대한전자공학회 2012년도 정기총회 및 추계종합학술대회
+  year: 2012
+  month: 11월
+  venue: 서울
+  description: ""
+  type: 0
+- title: 천장 영상기반 SLAM을 위한 강인한 천장 경계선 특징 추출에 관한 연구
+  authors:
+    조성진, 최혁두, 김은태
+  conference: 한국 지능 시스템 학회 2012년도 추계학술대회
+  year: 2012
+  month: 11월
+  venue: 서울
+  description: ""
+  type: 0
+- title: 지능형 로봇을 위한 중간 수준 센서 융합 기술을 통한 장애물 추적 기술
+  authors:
+    최배훈, 김범성, 김은태
+  conference: 한국 지능 시스템 학회 2012년도 춘계학술대회
+  year: 2012
+  month: 4월
+  venue: 목포
+  description: ""
+  type: 0
+- title: Vision marker를 이용한 실내 위치인식
+  authors:
+    김범성, 최배훈, 김은태, 양광웅
+  conference: 제 27회 제어로봇시스템학회 학술대회(ICROS 2012)
+  year: 2012
+  month: 4월
+  venue: 서울
+  description: ""
+  type: 0
+
+
+- title: 선분 기반의 실내 환경 지도에서 최단 경로계획을 통한 자율 주행에 관한 연구
+  authors:
+    조성진, 최혁두, 김은태
+  conference: 한국 지능 시스템 학회 2011년도 추계학술대회
+  year: 2011
+  month: 12월
+  venue: 군산
+  description: ""
+  type: 0
+- title: 지능형 차량상의 다수의 보행자 추적을 위한 다물체 추적 알고리즘의 개발
+  authors:
+    박성근, 김범성, 최배훈, 김은태, 이희진
+  conference: 제6회 한국로봇종합학술대회
+  year: 2011
+  month: 6월
+  venue: 대구
+  description: ""
+  type: 0
+- title: 실내형 이동로봇을 위한 적외선 센서를 이용한 위치인식과 레이저 스캐너를 이용한 장애물 인식
+  authors:
+    최배훈, 김범성, 김은태
+  conference: 한국 지능 시스템 학회 2011년도 춘계학술대회
+  year: 2011
+  month: 4월
+  venue: 경기도
+  description: ""
+  type: 0
+- title: 레인지 센서를 이용한 보행자 추적 알고리즘
+  authors:
+    김범성, 최배훈, 김은태
+  conference: 한국 지능 시스템 학회 2011년도 춘계학술대회
+  year: 2011
+  month: 4월
+  venue: 경기도
+  description: ""
+  type: 0
+
+
+- title: K-nearest neighbor를 위한 퍼지를 이용한 확률 정보의 결합
+  authors:
+    이희성, 홍성준, 이병윤, 김은태
+  conference: 한국 지능시스템 학회 2010년도 추계학술대회
+  year: 2010
+  month: 11월
+  venue: 서울
+  description: ""
+  type: 0
+- title: Eigenfeature regularization and extraction을 이용한 걸음걸이 바이오 인식 시스템
+  authors:
+    이병윤, 홍성준, 이희성, 김은태
+  conference: 한국 지능시스템 학회 2010년도 추계학술대회
+  year: 2010
+  month: 11월
+  venue: 서울
+  description: ""
+  type: 0
+- title: PSO와 파티클 필터를 결합한 새로운 연구
+  authors:
+    최배훈, 김범성, 박성근, 이희진, 김은태
+  conference: 한국 지능시스템 학회 2010년도 추계학술대회
+  year: 2010
+  month: 11월
+  venue: 서울
+  description: ""
+  type: 0
+- title: 도로 주행을 위한 스테레오 기반 지면 추정 알고리즘
+  authors:
+    황재필, 최배훈, 김륜석, 최혁두, 김은태
+  conference: 제5회 한국로봇종합학술대회
+  year: 2010
+  month: 7월
+  venue: 전주
+  description: ""
+  type: 0
+- title: 천장 경계면을 이용한 SLAM과 MCL
+  authors:
+    최혁두, 김륜석, 황재필, 김은태, 박창우
+  conference: 제5회 한국로봇종합학술대회
+  year: 2010
+  month: 7월
+  venue: 전주
+  description: ""
+  type: 0
+
+
+- title: 슬램 수행을 위한 천장의 원형 특이점에 관한 연구
+  authors:
+    김동엽, 최혁두, 황재필, 김은태, 김영욱
+  conference: 한국 지능시스템 학회 2009년도 추계학술대회
+  year: 2009
+  month: 12월
+  venue: 제주
+  description: ""
+  type: 0
+- title: 사용자 식별을 위한 결정 단계 융합 기반 걸음걸이 바이오 인식 시스템
+  authors:
+    홍성준, 이희성, 이병윤, 김은태
+  conference: 한국 지능시스템 학회 2009년도 추계학술대회
+  year: 2009
+  month: 12월
+  venue: 제주
+  description: ""
+  type: 0
+- title: 유전 알고리즘을 이용한 언어적 퍼지 분류기 설계
+  authors:
+    장상훈, 박성근, 김은태
+  conference: 대한전자공학회 2009년도 정기총회 및 추계종합학술대회
+  year: 2009
+  month: 11월
+  venue: 서울
+  description: ""
+  type: 0
+- title: 지능형 차량 시스템을 위한 레이더 센서를 이용한 차량 추적 알고리즘
+  authors:
+    박성근, 황재필, 김은태, 이희진, 홍대건
+  conference: 한국제어자동학술대회
+  year: 2009
+  month: 9월
+  venue: 부산
+  description: ""
+  type: 0
+- title: Multi-directional projection vector를 이용한 걸음걸이 생체인식 시스템
+  authors:
+    홍성준, 이희성, 김은태
+  conference: 제4회 한국지능로봇 종합학술대회
+  year: 2009
+  month: 7월
+  venue: 대전
+  description: ""
+  type: 0
+- title: 옵티컬 플로우를 이용한 천장 시야 기반 위치인식
+  authors:
+    최혁두, 김동엽, 황재필, 김은태, 김영욱
+  conference: 한국 퍼지 및 지능시스템 학회 2009년도 춘계학술대회
+  year: 2009
+  month: 4월
+  venue: 경기도
+  description: ""
+  type: 0
+- title: SLAM을 위한 3차원 지도 인터페이스
+  authors:
+    김범성, 김동엽, 황재필, 김은태, 김영욱
+  conference: 한국 퍼지 및 지능시스템 학회 2009년도 춘계학술대회
+  year: 2009
+  month: 4월
+  venue: 경기도
+  description: ""
+  type: 0
+
+
+- title: 지능형 자동차를 위한 지면 및 물체 탐지 시스템 구현
+  authors:
+    황재필, 박진수, 김은태
+  conference: 2008년도 대한전자공학회 하계종합학술대회
+  year: 2008
+  month: 6월
+  venue: 평창
+  description: ""
+  type: 0
+- title: 다양한 진화 알고리즘으로 설계된 ECC회로들의 전력소비 연구
+  authors:
+    이희성, 김은태
+  conference: 2008년도 대한전자공학회 하계종합학술대회
+  year: 2008
+  month: 6월
+  venue: 평창
+  description: ""
+  type: 0
+
+
+- title: R, G, B Domain 상에서의 Adaboost Fusion
+  authors:
+    안성제, 홍성준, 이희성, Imran Fareed Nizami, 김은태, 박민용
+  conference: 한국퍼지 및 지능시스템 학회 2007년도 추계학술대회
+  year: 2007
+  month: 11월
+  venue: 서울
+  description: ""
+  type: 0
+- title: 얼굴과 발걸음을 결합한 인식
+  authors:
+    I. F. Nizami, 홍성준, 이희성, K.-A. Toh, 김은태, 박민용
+  conference: 한국퍼지 및 지능시스템 학회 2007년도 추계학술대회
+  year: 2007
+  month: 11월
+  venue: 서울
+  description: ""
+  type: 0
+- title: RLS 를 사용한 레이다 데이터의 가려지는 물체 분리
+  authors:
+    류경진, 박성근, 황재필, 김은태, 박민용
+  conference: 한국퍼지 및 지능시스템 학회 2007년도 추계학술대회
+  year: 2007
+  month: 11월
+  venue: 서울
+  description: ""
+  type: 0
+- title: 유전자 알고리즘을 이용하여 설계된 ECC회로의 uniform distribution memory data에서의 성능분석
+  authors:
+    이희성, 김은태
+  conference: 2007년도 대한전자공학회 하계종합학술대회
+  year: 2007
+  month: 7월
+  venue: 부산
+  description: ""
+  type: 0
+- title: 최소자승법을 이용한 레이더 센서 데이터에서 자동차 선별 시스템
+  authors:
+    류경진, 박성근, 김은태, 강형진
+  conference: 한국자동차공학회 2007년도 춘계학술대회
+  year: 2007
+  month: 6월
+  venue: 경남
+  description: ""
+  type: 0
+- title: 물체 인식을 위한 레이더 센서 데이터의 그룹핑
+  authors:
+    류경진, 박성근, 황재필, 김은태, 강형진
+  conference: 한국퍼지 및 지능시스템 학회 2007년도 춘계학술대회
+  year: 2007
+  month: 4월
+  venue: 목포
+  description: ""
+  type: 0
+
+# Before 2007
+# KFIS 찾아봐도 없어서, 한국지능시스템학회로 추정되는데... 추계/춘계여부가 명확하지 않아서 기입하지 않았습니다.
+- title: 베이지안 네트워크에 기반한 스마트 홈에서의 상황인식 기법개발
+  authors:
+    정우용, 김은태, 김동연
+  conference: KFIS 2006
+  year: 2006
+  month:
+  venue:
+  description: ""
+  type: 0
+- title: 파티클 필터에 기반한 새로운 상태 예측 방법
+  authors:
+    박성근, 류경진, 황재필, 김은태
+  conference: 한국 퍼지 및 지능시스템 학회 2006년도 춘계학술대회
+  year: 2006
+  month: 5월
+  venue: 청주
+  description: ""
+  type: 0
+- title: CMACRRT를 이용한 로봇 매뉴플레이터 경로 계획
+  authors:
+    오경세, 김은태
+  conference: 한국 퍼지 및 지능시스템 학회 2006년도 춘계학술대회
+  year: 2006
+  month: 5월
+  venue: 청주
+  description: ""
+  type: 0
+- title: 개선된 움직임 실루엣 영상을 이용한 발걸음 인식에 관한 연구
+  authors:
+    홍성준, 이희성, 오경세, 김은태
+  conference: 한국 퍼지 및 지능시스템 학회 2006년도 춘계학술대회
+  year: 2006
+  month: 5월
+  venue: 청주
+  description: ""
+  type: 0
+- title: TSK 퍼지 시스템을 이용한 카메라 캘리브레이션
+  authors:
+    이희성, 홍성준, 오경세, 김은태
+  conference: 한국 퍼지 및 지능시스템 학회 2006년도 춘계학술대회
+  year: 2006
+  month: 5월
+  venue: 청주
+  description: ""
+  type: 0
+
+- title: 신경 회로망으로 구현된 상호 다모델 차량 추종 기법을 이용한 자동차 자동 항법 시스템
+  authors:
+    박성근, 류경진, 황재필, 김은태, 박민용, 강형진
+  conference: 한국 자동 제어 학술회의 논문집
+  year: 2005
+  month: 10월
+  venue: 대전
+  description: ""
+  type: 0
+- title: 유전 알고리즘을 이용한 다수 AGV 시스템 환경에서의 실시간 작업 할당에 관한 연구
+  authors:
+    정승일, 김은태
+  conference: 한국 자동 제어 학술회의 논문집
+  year: 2005
+  month: 10월
+  venue: 대전
+  description: ""
+  type: 0
+- title: CMACRRT 를 이용한 학습기반 실버 메이트의 경로 계획
+  authors:
+    오경세, 박성근, 김은태, 이순걸
+  conference: 한국 자동 제어 학술회의 논문집
+  year: 2005
+  month: 10월
+  venue: 대전
+  description: ""
+  type: 0
+- title: 새로운 유전자 알고리즘을 사용한 베이시안 네트워크 구조의 학습
+  authors:
+    이제헌, 정우용, 김은태, 박민용
+  conference: 한국 자동 제어 학술회의 논문집
+  year: 2005
+  month: 10월
+  venue: 대전
+  description: ""
+  type: 0
+
+- title: 영상차이를 이용한 움직임 검출에 필요한 배경영상 모델링 및 갱신 기법 연구
+  authors:
+    장일권, 김경중, 김은태, 박민용
+  conference: 제2회 정보 및 제어 학술대회(CICS)
+  year: 2004
+  month: 10월
+  venue: 천안
+  description: ""
+  type: 0
+- title: Mendel의 법칙을 이용한 새로운 유전자 알고리즘
+  authors:
+    정우용, 김은태, 박민용
+  conference: 제2회 정보 및 제어 학술대회(CICS)
+  year: 2004
+  month: 10월
+  venue: 천안
+  description: ""
+  type: 0
+- title: GA를 이용한 특징 가중치 알고리즘과 Modified KNN규칙을 결합한 Classifier 설계
+  authors:
+    이희성, 김은태, 박민용
+  conference: 제2회 정보 및 제어 학술대회(CICS)
+  year: 2004
+  month: 10월
+  venue: 천안
+  description: ""
+  type: 0
+- title: ANFIS를 이용한 이족 보행 로봇 제어
+  authors:
+    황재필, 김은태, 박민용
+  conference: 제2회 정보 및 제어 학술대회(CICS)
+  year: 2004
+  month: 10월
+  venue: 천안
+  description: ""
+  type: 0
+- title: 신경회로망 과 칼만필터를 결합한 새로운 방식의 로봇 위치인식 알고리즘
+  authors:
+    이희성, 김은태, 박민용
+  conference: 한국퍼지 및 지능시스템 학회 춘계대회 논문집
+  year: 2004
+  month: 4월30일-5월1일
+  venue: 군산
+  description: ""
+  type: 0
+
+- title: Eigenspace를 이용한 신경회로망 기반의 로봇 위치 인식 시스템
+  authors:
+    이희성, 이윤희, 김은태, 박민용
+  conference: 정보 및 제어 학술회의 논문집
+  year: 2003
+  month: 11월
+  venue: 춘천
+  description: ""
+  type: 0
+- title: 비선형 시스템의 이원적 합성 적응 퍼지 제어
+  authors:
+    김성완, 김은태, 박민용
+  conference: 한국퍼지 및 지능시스템 학회 추계대회 논문집
+  year: 2003
+  month: 9월
+  venue: 제주
+  description: ""
+  type: 0
+- title: 빠른학습을 기반으로 한 미지의 비선형 시스템의 퍼지 신경망 적응 제어
+  authors:
+    김혜령, 김재훈, 김은태, 박민용
+  conference: 한국퍼지 및 지능시스템 학회 추계대회 논문집
+  year: 2003
+  month: 9월
+  venue: 제주
+  description: ""
+  type: 0
+- title: 소형 이족 보행 로봇 개발에 관한 연구
+  authors:
+    황재필, 김은태, 박민용
+  conference: 대한전자공학회 하계종합학술대회 논문집
+  year: 2003
+  month: 7월
+  venue: 평창
+  description: ""
+  type: 0
+- title: 신경망 외란 관측기를 이용한 교류 전동 모터의 강인 제어
+  authors:
+    현창호, 김은태, 박민용
+  conference: 대한전자공학회 하계종합학술대회 논문집
+  year: 2003
+  month: 7월
+  venue: 평창
+  description: ""
+  type: 0
+- title: 하드웨어 테스트를 위한 새로운 인공 면역 시스템
+  authors:
+    이상형, 김은태, 박민용
+  conference: 대한전자공학회 하계종합학술대회 논문집
+  year: 2003
+  month: 7월
+  venue: 평창
+  description: ""
+  type: 0
+
+- title: 배경 영역의 변화를 효과적으로 갱신하는 배경화면 Modeling 방법 연구
+  authors:
+    도명환, 현창호, 김은태, 박민용
+  conference: 대한전자공학회/대한전기학회 추계대회 논문집
+  year: 2002
+  month: 11월
+  venue: 서울
+  description: ""
+  type: 0
+- title: 기동표적에 대한 슬라이딩 모드 유도법칙을 이용한 미사일 강인유도
+  authors:
+    이점효, 김경중, 김은태, 박민용
+  conference: 대한전자공학회/대한전기학회 추계대회 논문집
+  year: 2002
+  month: 11월
+  venue: 서울
+  description: ""
+  type: 0
+
+# 2006년 이전에 대한 정보가 홈페이지에 없어서, DBpia에 나오는 conference와 year 그리고 month까지만 작성하였습니다.
+- title: "컴퓨터 연산을 통한 언어형 퍼지 제어 시스템의 새로운 안정도 해석: 2부 - 안정도 해석"
+  authors:
+    김은태, 박순형, 박민용
+  conference: 대한전자공학회 하계대회 논문집
+  year: 2001
+  month: 6월
+  venue:
+  description: ""
+  type: 0
+# 2006년 이전에 대한 정보가 홈페이지에 없어서, DBpia에 나오는 conference와 year 그리고 month까지만 작성하였습니다.
+- title: "컴퓨터 연산을 통한 언어형 퍼지 제어 시스템의 새로운 안정도 해석: 1부 - 퍼지 시스템의 모델링"
+  authors:
+    김은태, 박순형, 박민용
+  conference: 대한전자공학회 하계대회 논문집
+  year: 2001
+  month: 6월
+  venue:
+  description: ""
+  type: 0
+# 2006년 이전에 대한 정보가 홈페이지에 없어서, DBpia에 나오는 conference와 year 그리고 month까지만 작성하였습니다.
+- title: "완화된 퍼지 제어 시스템의 안정도 해석 II: 단일 행렬을 이용한 방식"
+  authors:
+    김은태
+  conference: 대한 전자 공학회 추계대회 논문집
+  year: 2000
+  month: 11월
+  venue:
+  description: ""
+  type: 0
+# 2006년 이전에 대한 정보가 홈페이지에 없어서, DBpia에 나오는 conference와 year 그리고 month까지만 작성하였습니다.
+- title: "완화된 퍼지 제어 시스템의 안정도 해석 I: 전건부 정보를 이용한 해석"
+  authors:
+    김은태
+  conference: 대한 전자 공학회 추계대회 논문집
+  year: 2000
+  month: 11월
+  venue:
+  description: ""
+  type: 0
+
+# 2006년 이전에 대한 정보가 홈페이지에 없어서, DBpia에 나오는 conference와 year 그리고 month까지만 작성하였습니다.
+- title: 연속 시간 어핀 Takagi-Sugeno 퍼지 제어 시스템의 안정도
+  authors:
+    김은태, 이희진, 김동연
+  conference: 대한 전자 공학회 추계대회
+  year: 1999
+  month: 11월
+  venue:
+  description: ""
+  type: 0
+- title: 퍼지 제어기를 이용한 차량 반능동 현가 시스템의 개발
+  authors:
+    이상형, 김은태, 권철, 박민용
+  conference: 한국퍼지 및 지능시스템학회 추계대회
+  year: 1999
+  month: 11월
+  venue: 서울
+  description: ""
+  type: 0
+# 2006년 이전에 대한 정보가 홈페이지에 없어서, DBpia에 나오는 conference와 year 그리고 month까지만 작성하였습니다.
+- title: 범용 퍼지 제어기 자동 생성 시스템 개발 및 구현
+  authors:
+    이상형, 김은태, 권철, 박민용
+  conference: 대한 전자 공학회 하계대회
+  year: 1999
+  month: 6월
+  venue:
+  description: ""
+  type: 0
+# 2006년 이전에 대한 정보가 홈페이지에 없어서, DBpia에 나오는 conference와 year 그리고 month까지만 작성하였습니다.
+- title: 싱글톤 퍼지 제어 시스템의 새로운 안정도 해석법
+  authors:
+    김은태, 이희진, 이상형, 박민용
+  conference: 대한 전자 공학회 하계대회
+  year: 1999
+  month: 6월
+  venue:
+  description: ""
+  type: 0
+
+# 2006년 이전에 대한 정보가 홈페이지에 없어서, DBpia에 나오는 conference와 year 그리고 month까지만 작성하였습니다.
+- title: 안정한 신경회로망 제어기
+  authors:
+    김은태, 손홍엽, 이희진, 김은태
+  conference: 대한 전자 공학회 추계 대회
+  year: 1998
+  month:
+  venue:
+  description: ""
+  type: 0
+
+- title: 비선형 퍼지 슬라이딩면을 이용한 가변 구조 제어기의 설계
+  authors:
+    이희진, 손홍엽, 김은태, 조영완, 박민용
+  conference: 한국퍼지 및 지능시스템학회 추계대회
+  year: 1997
+  month: 11월
+  venue: 경기도
+  description: ""
+  type: 0
+- title: 이중클러스터링 기법을 이용한 퍼지 시스템의 새로운 동정법
+  authors:
+    김은태, 김경욱, 이기철, 박민기, 박민용
+  conference: 한국퍼지 및 지능시스템학회 추계대회
+  year: 1997
+  month: 11월
+  venue: 경기도
+  description: ""
+  type: 0
+- title: 입력 공간의 변환을 이용한 새로운 방식의 퍼지 모델링
+  authors:
+    김은태, 박민기, 박민용
+  conference: 한국퍼지 및 지능시스템학회 춘계대회
+  year: 1997
+  month: 3월
+  venue: 포항
+  description: ""
+  type: 0
+
+- title: 퍼지 제어기를 포함한 시스템의 자기 진동에 관한 연구 - MISO 경우
+  authors:
+    김은태, 박민기, 김승우, 박민용
+  conference: 한국퍼지 및 지능시스템학회 춘계대회
+  year: 1996
+  month: 3월
+  venue: 경기도
+  description: ""
+  type: 0
+- title: 퍼지 제어기를 포함한 시스템의 자기 진동에 관한 연구 - SISO 경우
+  authors:
+    김은태, 이희진, 김승우, 박민용
+  conference: 한국퍼지 및 지능시스템학회 춘계대회
+  year: 1996
+  month: 3월
+  venue: 경기도
+  description: ""
+  type: 0
+
+# 2006년 이전에 대한 정보가 홈페이지에 없어서, DBpia에 나오는 conference와 year 그리고 month까지만 작성하였습니다.
+- title: Nonlinear model-based stiffness control
+  authors:
+    Min Kee Park, Eun Tai Kim, Mig Non Park
+  conference: 대한전자공학회 학술대회
+  year: 1995
+  month:
+  venue:
+  description: ""
+  type: 0
