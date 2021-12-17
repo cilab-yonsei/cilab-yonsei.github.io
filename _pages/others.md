@@ -6,7 +6,7 @@ sitemap: false
 permalink: /others/
 ---
 
-# International Journal
+# Others
 
 {% assign last_year = site.data.year_information.current_year %}
 {% assign first_year = site.data.year_information.pub_first_showing_year %}
@@ -19,7 +19,7 @@ Jump to
 
 {% for current_year in (first_year..last_year) reversed %}
   {% assign data_exist = false %}
-  {% for publi in site.data.publications.int_journal_list %}
+  {% for publi in site.data.publications.others %}
     {% if publi.year == current_year %}
       {% assign data_exist = true %}
     {% endif %}
@@ -27,7 +27,7 @@ Jump to
   
   {% if data_exist %}
 ## {{ current_year }}
-    {% for publi in site.data.publications.int_journal_list %}
+    {% for publi in site.data.publications.others %}
 
       {% if publi.year == {{current_year}} %}
         {% if publi.type == 0%}
@@ -75,7 +75,7 @@ Jump to
 {% endfor %}
 
 ## Before {{ first_year }}
-{% for publi in site.data.publications.int_journal_list %}
+{% for publi in site.data.publications.others %}
 
   {% if publi.year < {{first_year}} %}
     {% if publi.type == 0%}
