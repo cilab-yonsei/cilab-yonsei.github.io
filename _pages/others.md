@@ -1,9 +1,9 @@
 ---
-title: "CILAB - International Journal"
+title: "CILAB - Others"
 layout: gridlay
-excerpt: "CILAB -- International Journal."
+excerpt: "CILAB -- Others"
 sitemap: false
-permalink: /int_journal/
+permalink: /others/
 ---
 
 # International Journal

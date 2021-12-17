@@ -1,7 +1,7 @@
 ---
-title: "CILAB - International Conference"
+title: "CILAB - International Flagship Conference"
 layout: gridlay
-excerpt: "CILAB -- International Conference."
+excerpt: "CILAB -- International Flagship Conference."
 sitemap: false
 permalink: /int_conference/
 ---
