@@ -32,56 +32,63 @@ We are a dynamic research group at the [School of Electrical and Electronic Engi
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-          <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/TMECH_CHM.png" alt="Slide 1" />
+          <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/TSMCS_HJH.png" alt="Slide 1" />
+            <div class="carousel-caption bg-dark mb-4">
+              <h3>IEEE Transactions on Systems, Man, and Cybernetics: Systems</h3>
+              <p>Adjacent Feature Propagation Network (AFPNet) for Real-Time Semantic Segmentation</p>
+            </div>
+        </div>
+        <div class="item">
+          <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/TMECH_CHM.png" alt="Slide 2" />
             <div class="carousel-caption bg-dark mb-4">
               <h3>IEEE Transactions on Mechatronics</h3>
               <p>SP-SLAM: Surfel-Point Simultaneous Localization and Mapping</p>
             </div>
         </div>
         <div class="item">
-          <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ICCV_SHJ.png" alt="Slide 2" />
+          <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ICCV_SHJ.png" alt="Slide 3" />
             <div class="carousel-caption bg-dark mb-4">
               <h3>ICCV 2021</h3>
               <p>Hierarchical Memory Matching Network for Video Object Segmentation</p>
             </div>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/JAS_JWJ.png" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/JAS_JWJ.png" alt="Slide 4" />
             <div class="carousel-caption bg-dark mb-4">
               <h3>IEEE/CAA Journal of Automatica Sinica</h3>
               <p>A Lane-level Road Marking Map using a Monocular Camera</p>
             </div>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/TCYB_CSW.png" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/TCYB_CSW.png" alt="Slide 5" />
             <div class="carousel-caption bg-dark mb-4">
               <h3>IEEE Transactions on Cybernetics</h3>
               <p>Indoor Place Category Recognition for a Cleaning Robot by Fusing a Probabilistic Approach and Deep Learning</p>
             </div>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/AAAI_LSH.png" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/AAAI_LSH.png" alt="Slide 6" />
             <div class="carousel-caption bg-dark mb-4">
               <h3>AAAI 2021</h3>
               <p>Unsupervised Domain Adaptation for Semantic Segmentation by Content Transfer</p>
             </div>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ECCV_SHJ.png" alt="Slide 6" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ECCV_SHJ.png" alt="Slide 7" />
             <div class="carousel-caption bg-dark mb-4">
               <h3>ECCV 2020</h3>
               <p>Kernelized Memory Network for Video Object Segmentation</p>
             </div>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/TITS_AJH.png" alt="Slide 7" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/TITS_AJH.png" alt="Slide 8" />
             <div class="carousel-caption bg-dark mb-4">
               <h3>IEEE Transactions on Intelligent Transportation Systems (TITS)</h3>
               <p>Novel Vehicle Bounding Box Tracking Using a Low-End 3D Laser Scanner</p>
             </div>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/TII_JHG.png" alt="Slide 8" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/TII_JHG.png" alt="Slide 9" />
             <div class="carousel-caption bg-dark mb-4">
               <h3>IEEE Transactions on Industrial Informatics (TII)</h3>
               <p>Mixture Density-PoseNet and Its Application to Monocular Camera-based Global Localization</p>
@@ -98,7 +105,7 @@ We are a dynamic research group at the [School of Electrical and Electronic Engi
   </a>
 </div>
 
-We are grateful for funding from [Yonsei University](https://ee.yonsei.ac.kr/ee_en/index.do), [National Research Foundation (NRF) of Korea](https://www.nrf.re.kr/eng/index), [Korea Evaluation Institute of Industrial Technology](https://www.keit.re.kr/eng/), [LG Electronics](https://www.lg.com/us), [LG U+](http://www.uplus.co.kr/com/main/pemain/PeMain.hpi), [Hyundai Motors](https://www.hyundai.com/kr/en/main), [Hyundai Mobis](https://en.mobis.co.kr/main/index.do) and [Hyundai MnSOFT](http://www.hyundai-mnsoft.com/EN/index.mms).
+We are grateful for funding from [Yonsei University](https://ee.yonsei.ac.kr/ee_en/index.do), [National Research Foundation (NRF) of Korea](https://www.nrf.re.kr/eng/index), [Korea Evaluation Institute of Industrial Technology](https://www.keit.re.kr/eng/), [LG Electronics](https://www.lg.com/us), [LG U+](http://www.uplus.co.kr/com/main/pemain/PeMain.hpi), [Hyundai Motors](https://www.hyundai.com/kr/en/main), [Hyundai Mobis](https://en.mobis.co.kr/main/index.do), [Hyundai MnSOFT](http://www.hyundai-mnsoft.com/EN/index.mms), and [Avikus](https://avikus.ai/default/).
 <br/>
 
 
