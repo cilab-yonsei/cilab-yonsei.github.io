@@ -1,5 +1,5 @@
 # international conference - type: 2
-#- title:
+# - title:
 #  authors:
 #  Conference:
 #  year:
@@ -8,7 +8,7 @@
 #  vol:
 #  page:
 #  description:
-# type: 2
+#  type: 2
 
 
 
@@ -1761,7 +1761,7 @@
 
 # domestic journal - type: 1
 
-#- title:
+# - title:
 #  authors:
 #  journal:
 #  year:
@@ -1771,7 +1771,7 @@
 #  page:
 #  description: 
 #  accepted:
-# type: 1
+#  type: 1
 
 - title: "A Deep Convolutional Neural Network Based 6-DOF Relocalization with Sensor Fusion System"
   authors:
@@ -2328,14 +2328,14 @@
 
 
 # domestic conference -type: 0
-#- title:
+# - title:
 #  authors:
 #  Conference:
 #  year:
 #  month:
 #  venue: 
 #  description:
-# type: 0
+#  type: 0
 
 - title: Depth map이 Semantic Segmentation에 끼치는 영향
   authors:
