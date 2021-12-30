@@ -10,6 +10,19 @@
 #  year: 20
 #  month: 월
 #  description: ""
+
+- title: 광학 흐름을 이용한 합성 동영상 생성 방법
+  authors: 김은태, 이수현
+  application_number: 10-2021-0189365
+  year: 2021
+  month: 12월
+  description: ""
+- title: 특징점-서펠 융합을 이용한 이동체의 위치 추정 및 지도 작성 방법 및 장치
+  authors: 김은태, 조해민
+  application_number: 10-2021-0111212
+  year: 2021
+  month: 8월
+  description: ""
 - title: 적대적 생성 신경망을 이용한 배경에 문맥적으로 적합한 포트홀 영상 생성 방법 및 장치
   authors: 김은태, 이상용, 이수현
   application_number: 10-2021-0034638
