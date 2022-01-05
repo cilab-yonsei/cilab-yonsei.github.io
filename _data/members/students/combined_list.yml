@@ -135,4 +135,23 @@
   cv:
     url:
     exist: 0
- 
+
+- name: Kyusik Cho
+  photo: 
+  info: Master's/Doctoral Combined Programs
+  email: ks.cho@yonsei.ac.kr
+  research: Machine Vision Technology
+  affiliation: 
+  cv:
+    url:
+    exist: 0
+
+- name: Jangwon Oh
+  photo: 
+  info: Master's/Doctoral Combined Programs
+  email: dy567@yonsei.ac.kr
+  research: Intelligent Vehicle System
+  affiliation: 
+  cv:
+    url:
+    exist: 0

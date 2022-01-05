@@ -39,56 +39,63 @@ We are a dynamic research group at the [School of Electrical and Electronic Engi
             </div>
         </div>
         <div class="item">
-          <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/TMECH_CHM.png" alt="Slide 2" />
+          <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/AAAI_PMS_LYJ.png" alt="Slide 2" />
+            <div class="carousel-caption bg-dark mb-4">
+              <h3>AAAI 2022</h3>
+              <p>Graph-Based Point Tracker for 3D Object Tracking in Point Clouds / Iteratively Selecting an Easy Reference Frame Makes Unsupervised Video Object Segmentation Easier</p>
+            </div>
+        </div>
+        <div class="item">
+          <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/TMECH_CHM.png" alt="Slide 3" />
             <div class="carousel-caption bg-dark mb-4">
               <h3>IEEE Transactions on Mechatronics</h3>
               <p>SP-SLAM: Surfel-Point Simultaneous Localization and Mapping</p>
             </div>
         </div>
         <div class="item">
-          <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ICCV_SHJ.png" alt="Slide 3" />
+          <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ICCV_SHJ.png" alt="Slide 4" />
             <div class="carousel-caption bg-dark mb-4">
               <h3>ICCV 2021</h3>
               <p>Hierarchical Memory Matching Network for Video Object Segmentation</p>
             </div>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/JAS_JWJ.png" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/JAS_JWJ.png" alt="Slide 5" />
             <div class="carousel-caption bg-dark mb-4">
               <h3>IEEE/CAA Journal of Automatica Sinica</h3>
               <p>A Lane-level Road Marking Map using a Monocular Camera</p>
             </div>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/TCYB_CSW.png" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/TCYB_CSW.png" alt="Slide 6" />
             <div class="carousel-caption bg-dark mb-4">
               <h3>IEEE Transactions on Cybernetics</h3>
               <p>Indoor Place Category Recognition for a Cleaning Robot by Fusing a Probabilistic Approach and Deep Learning</p>
             </div>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/AAAI_LSH.png" alt="Slide 6" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/AAAI_LSH.png" alt="Slide 7" />
             <div class="carousel-caption bg-dark mb-4">
               <h3>AAAI 2021</h3>
               <p>Unsupervised Domain Adaptation for Semantic Segmentation by Content Transfer</p>
             </div>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ECCV_SHJ.png" alt="Slide 7" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ECCV_SHJ.png" alt="Slide 8" />
             <div class="carousel-caption bg-dark mb-4">
               <h3>ECCV 2020</h3>
               <p>Kernelized Memory Network for Video Object Segmentation</p>
             </div>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/TITS_AJH.png" alt="Slide 8" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/TITS_AJH.png" alt="Slide 9" />
             <div class="carousel-caption bg-dark mb-4">
               <h3>IEEE Transactions on Intelligent Transportation Systems (TITS)</h3>
               <p>Novel Vehicle Bounding Box Tracking Using a Low-End 3D Laser Scanner</p>
             </div>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/TII_JHG.png" alt="Slide 9" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/TII_JHG.png" alt="Slide 10" />
             <div class="carousel-caption bg-dark mb-4">
               <h3>IEEE Transactions on Industrial Informatics (TII)</h3>
               <p>Mixture Density-PoseNet and Its Application to Monocular Camera-based Global Localization</p>
