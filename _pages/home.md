@@ -42,7 +42,7 @@ We are a dynamic research group at the [School of Electrical and Electronic Engi
           <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/AAAI_PMS_LYJ.png" alt="Slide 2" />
             <div class="carousel-caption bg-dark mb-4">
               <h3>AAAI 2022</h3>
-              <p>Graph-Based Point Tracker for 3D Object Tracking in Point Clouds / Iteratively Selecting an Easy Reference Frame Makes Unsupervised Video Object Segmentation Easier</p>
+              <p>Graph-Based Point Tracker for 3D Object Tracking in Point Clouds <br>Iteratively Selecting an Easy Reference Frame Makes Unsupervised Video Object Segmentation Easier</p>
             </div>
         </div>
         <div class="item">
