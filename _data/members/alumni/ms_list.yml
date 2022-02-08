@@ -339,3 +339,21 @@
   cv:
     url:
     exist: 0
+
+- name: Young Joo Kim
+  photo: youngjookim.jpg
+  info: Master's Degree Programs
+  email: youngjoo.kim@yonsei.ac.kr
+  affiliation: Hyundai Mobis
+  cv:
+    url:
+    exist: 0
+
+- name: Jang Yoon Kim
+  photo: jangyoonkim.jpg
+  info: Master's Degree Programs
+  email: jyoonkim@yonsei.ac.kr
+  affiliation: Hyundai Motors Company
+  cv:
+    url:
+    exist: 0

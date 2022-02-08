@@ -6,26 +6,6 @@
 #    url:
 #    exist: 0 or 1    
 
-- name: Young Joo Kim
-  photo: youngjookim.jpg
-  info: Master's Degree Programs
-  email: youngjoo.kim@yonsei.ac.kr
-  research: Intelligent Vehicle System
-  affiliation: 
-  cv:
-    url:
-    exist: 0
-
-- name: Jang Yoon Kim
-  photo: jangyoonkim.jpg
-  info: Master's Degree Programs
-  email: jyoonkim@yonsei.ac.kr
-  research: Machine Vision Technology
-  affiliation: 
-  cv:
-    url:
-    exist: 0
-
 - name: Minwoo Park
   photo: minwoopark.jpg
   info: Master's Degree Programs
@@ -71,6 +51,26 @@
   info: Master's Degree Programs
   email: jhj216@yonsei.ac.kr
   research: Intelligent Vehicle System
+  affiliation: HYUNDAI MOBIS
+  cv:
+    url:
+    exist: 0
+
+- name: TaeYoung Kim
+  photo: taeyoungkkim.jpg
+  info: Master's Degree Programs
+  email: tyoung96@yonsei.ac.kr
+  research: Mobile Robotics
+  affiliation: HYUNDAI MOBIS
+  cv:
+    url:
+    exist: 0
+
+- name: Suyeon Kim
+  photo: suyeonkim.jpg
+  info: Master's Degree Programs
+  email: su-yeon.kim@yonsei.ac.kr
+  research: Machine Vision Technology
   affiliation: HYUNDAI MOBIS
   cv:
     url:
