@@ -43,8 +43,8 @@
   research: Mobile Robotics
   affiliation: 
   cv:
-    url:
-    exist: 0
+    url: cv_haemincho.pdf
+    exist: 1
 
 - name: Wonje Jang
   photo: wonjejang.jpg
