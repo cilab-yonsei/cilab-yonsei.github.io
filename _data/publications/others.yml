@@ -148,7 +148,7 @@
   description: ""
   type: 2
 
-- title: Odometry Estimation CNN Using Sparse LiDAR Data
+- title: Odometry Estimation via CNN Using Sparse LiDAR Data
   authors:
     Hae Min Cho, HyungGi Jo, Seongwon Lee and Euntai Kim
   conference: Proc. of the 16th International Conference on Ubiquitous Robots (UR 2019)
