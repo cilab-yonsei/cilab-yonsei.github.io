@@ -1,3 +1,27 @@
+- title: "Correlation Verification for Image Retrieval"
+  authors:
+   Seongwon Lee, Hongje Seong, Suhyeon Lee and Euntai Kim
+  conference: Proc. of the 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2022)
+  year: 2022
+  month: June
+  venue: Louisiana, United States
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+- title: "WildNet: Learning Domain Generalized Semantic Segmentation from the Wild"
+  authors:
+   Suhyeon Lee, Hongje Seong, Seongwon Lee Lee and Euntai Kim
+  conference: Proc. of the 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2022)
+  year: 2022
+  month: June
+  venue: Louisiana, United States
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
 - title: "Graph-Based Point Tracker for 3D Object Tracking in Point Clouds"
   authors:
     Minseong Park, Hongje Seong, Wonje Jang and Euntai Kim
