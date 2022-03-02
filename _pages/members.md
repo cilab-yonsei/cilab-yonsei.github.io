@@ -56,7 +56,7 @@ Jump to [Master's/Doctoral Combined Program Students](#combined-students), [PhD 
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: center" />
   <h4>{{ member.name }}</h4>
   <i>email: <{{ member.email }}><br>Affiliation: {{ member.affiliation }}</i>
-  <br>CV: <a href="{ member.cv.url }">download</a>
+  <br>CV: <a href="{ member.cv.url }">{member.cv.url} download</a>
   <ul style="overflow: hidden">
   </ul>
 </div>
