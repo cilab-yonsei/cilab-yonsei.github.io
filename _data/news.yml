@@ -76,10 +76,10 @@
   headline: Our homepage has been renewed.
 - category: PUBLICATIONS
   date: 03. Jul. 2020
-  headline: A paper about video object segmentation has been accepted to ECCV 2020.
+  headline: A paper about video object segmentation has been accepted to <a href=\"https://eccv2020.eu/\" target=\"_blank\">ECCV 2020</a>.
 - category: PUBLICATIONS
   date: 21. May. 2020
-  headline: A paper about video object segmentation has been accepted to CVPRW 2020.
+  headline: A paper about video object segmentation has been accepted to <a href=\"https://davischallenge.org/challenge2020/index.html\" target=\"_blank\">CVPRW 2020</a>.
 - category: PUBLICATIONS
   date: 09. May. 2020
   headline: A paper about vehicle tracking has been accepted to TITS.
