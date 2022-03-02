@@ -1,4 +1,10 @@
-﻿- category: Welcome
+- category: PUBLICATIONS
+  date: 02. Mar. 2022
+  headline: "Congratulations!! Mr. Seongwon Lee’s paper titled “Correlation Verification for Image Retrieval” was accepted for presentation in CVPR 2022, Louisiana, United States."
+- category: PUBLICATIONS
+  date: 02. Mar. 2022
+  headline: "Congratulations!! Ms. Suhyeon Lee’s paper titled “WildNet: Learning Domain Generalized Semantic Segmentation from the Wild” was accepted for presentation in CVPR 2022, Louisiana, United States."
+- category: Welcome
   date: 30. Dec. 2021
   headline: Mr. Kyusik Cho and Mr. Jangwon Oh joined our lab as new members.
 - category: PUBLICATIONS
@@ -54,8 +60,8 @@
   headline: Prof. Kim was awarded an outstanding service award from KROS (Korea Robotics Society).
 - category: PUBLICATIONS
   date: 02. Dec. 2020
-  headline: Congratulations!! Ms. Suhyeon Lee’s paper titled "Unsupervised Domain Adaptation for Semantic Segmentation by Content Transfer" was accepted for the presentation in  AAAI 2021.  
-            AAAI  is one of the top-tier conferences on AI, and the conference  will be held on Feb 2-9 in Vancouver, Canada.
+  headline: Congratulations!! Ms. Suhyeon Lee’s paper titled "Unsupervised Domain Adaptation for Semantic Segmentation by Content Transfer" was accepted for the presentation in AAAI 2021.  
+            AAAI is one of the top-tier conferences on AI, and the conference  will be held on Feb 2-9 in Vancouver, Canada.
 - category: AWARDS
   date: 15. Oct. 2020
   headline: Prof. Kim was awarded Ko Myoung-Sam prize from ICROS (Institute of Control, Robotics and Systems).
