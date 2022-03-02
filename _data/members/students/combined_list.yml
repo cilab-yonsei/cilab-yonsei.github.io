@@ -33,7 +33,7 @@
   research: Machine Vision Technology
   affiliation: 
   cv:
-    url: cv_junhyukhyun.pdf
+    url: https://cilab.yonsei.ac.kr/cv/cv_junhyukhyun.pdf
     exist: 1
 
 - name: Hae Min Cho
@@ -43,7 +43,7 @@
   research: Mobile Robotics
   affiliation: 
   cv:
-    url: cv_haemincho.pdf
+    url: https://cilab.yonsei.ac.kr/cv/cv_haemincho.pdf
     exist: 1
 
 - name: Wonje Jang
@@ -93,7 +93,7 @@
   research: Machine Vision Technology
   affiliation: 
   cv:
-    url: cv_hongjeseong.pdf
+    url: https://cilab.yonsei.ac.kr/cv/cv_hongjeseong.pdf
     exist: 1
 
 - name: Minseong Park
@@ -113,7 +113,7 @@
   research: Machine Vision Technology
   affiliation: 
   cv:
-    url: cv_youngjolee.pdf
+    url: https://cilab.yonsei.ac.kr/cv/cv_youngjolee.pdf
     exist: 1
 
 - name: Gyu Hyeon Pak

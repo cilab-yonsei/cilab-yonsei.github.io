@@ -103,7 +103,7 @@
   email:
   affiliation: Agency for Defense Development (ADD)
   cv:
-    url: cv_jhonghyunan.pdf
+    url: https://cilab.yonsei.ac.kr/cv/cv_jhonghyunan.pdf
     exist: 1
 
 - name: Jeong Min Kang
@@ -121,7 +121,7 @@
   email: hygijo@yonsei.ac.kr
   affiliation: Assistant Professor, Jeonbuk National University
   cv:
-    url: cv_hyunggijo.pdf
+    url: https://docs.google.com/document/d/1GMb7VEcvYbPZFobvqw-dwhn53XFpR8IaLmiOKwuYu7Y/edit?usp=sharing
     exist: 1
 
 - name: Jisu Kim
