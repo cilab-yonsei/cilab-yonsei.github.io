@@ -12,7 +12,7 @@
   headline: "Congratulations!! Mr. Junhyuk Hyun’s paper titled “Adjacent Feature Propagation Network (AFPNet) for Real-Time Semantic Segmentation” was accepted for publication in IEEE Transactions on Systems, Man, and Cybernetics: Systems."
 - category: PUBLICATIONS
   date: 03. Dec. 2021
-  headline: Congratulations!! Two papers are accepted for presentation at <a href=\"https://aaai.org/Conferences/AAAI-22/\" target=\"_blank\">AAAI-22</a>.<br>- M. Park et al., "Graph-Based Point Tracker for 3D Object Tracking in Point Clouds"<br>- Y. Lee et al., "Iteratively Selecting an Easy Reference Frame Makes Unsupervised Video Object Segmentation Easier"
+  headline: "Congratulations!! Two papers are accepted for presentation at <a href=\"https://aaai.org/Conferences/AAAI-22/\" target=\"_blank\">AAAI-22</a>.<br>- M. Park et al., \"Graph-Based Point Tracker for 3D Object Tracking in Point Clouds\"<br>- Y. Lee et al., \"Iteratively Selecting an Easy Reference Frame Makes Unsupervised Video Object Segmentation Easier\""
 - category: PUBLICATIONS
   date: 02. Oct. 2021
   headline: "Congratulations!! Ms. Hae Min Cho’s paper titled “SP-SLAM: Surfel-Point Simultaneous Localization and Mapping” was accepted for publication in IEEE/ASME Transactions on Mechatronics."
@@ -60,8 +60,8 @@
   headline: Prof. Kim was awarded an outstanding service award from KROS (Korea Robotics Society).
 - category: PUBLICATIONS
   date: 02. Dec. 2020
-  headline: Congratulations!! Ms. Suhyeon Lee’s paper titled "Unsupervised Domain Adaptation for Semantic Segmentation by Content Transfer" was accepted for the presentation in <a href=\"https://aaai.org/Conferences/AAAI-21/\" target=\"_blank\">AAAI-21</a>.  
-            AAAI is one of the top-tier conferences on AI, and the conference  will be held on Feb 2-9 in Vancouver, Canada.
+  headline: "Congratulations!! Ms. Suhyeon Lee’s paper titled "Unsupervised Domain Adaptation for Semantic Segmentation by Content Transfer" was accepted for the presentation in <a href=\"https://aaai.org/Conferences/AAAI-21/\" target=\"_blank\">AAAI-21</a>.  
+            AAAI is one of the top-tier conferences on AI, and the conference  will be held on Feb 2-9 in Vancouver, Canada."
 - category: AWARDS
   date: 15. Oct. 2020
   headline: Prof. Kim was awarded Ko Myoung-Sam prize from ICROS (Institute of Control, Robotics and Systems).
@@ -76,10 +76,10 @@
   headline: Our homepage has been renewed.
 - category: PUBLICATIONS
   date: 03. Jul. 2020
-  headline: A paper about video object segmentation has been accepted to <a href=\"https://eccv2020.eu/\" target=\"_blank\">ECCV 2020</a>.
+  headline: "A paper about video object segmentation has been accepted to <a href=\"https://eccv2020.eu/\" target=\"_blank\">ECCV 2020</a>."
 - category: PUBLICATIONS
   date: 21. May. 2020
-  headline: A paper about video object segmentation has been accepted to <a href=\"https://davischallenge.org/challenge2020/index.html\" target=\"_blank\">CVPRW 2020</a>.
+  headline: "A paper about video object segmentation has been accepted to <a href=\"https://davischallenge.org/challenge2020/index.html\" target=\"_blank\">CVPRW 2020</a>."
 - category: PUBLICATIONS
   date: 09. May. 2020
   headline: A paper about vehicle tracking has been accepted to TITS.
