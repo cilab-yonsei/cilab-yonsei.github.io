@@ -51,7 +51,7 @@ Jump to [PhD Degree](#phd-degree), [Master Degree](#master-degree).
   <h4>{{ member.name }}</h4>
   <i>{{ member.affiliation }}</i>
   <br>CV: <a href="{{ member.cv.url }}">download</a>
-  <br>LAB: <a href="{{ member.labpage.url }}">Hompage</a>
+  <br>LAB: <a href="{{ member.labpage.url }}"><img src="{{ site.url }}{{ site.baseurl }}/images/icon/home.jpg" class="img-responsive" width="5%" style="float: center" /></a>
   <ul style="overflow: hidden">
   </ul>
 </div>
