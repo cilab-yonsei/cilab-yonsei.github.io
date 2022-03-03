@@ -49,9 +49,9 @@ Jump to [PhD Degree](#phd-degree), [Master Degree](#master-degree).
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: center" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.affiliation }}</i>
+  <i>{{ member.affiliation }} <a href="{{ member.labpage.url }}"><img src="{{ site.url }}{{ site.baseurl }}/images/icon/home.jpg" class="img-responsive" width="10%" /></a></i>
   <br>CV: <a href="{{ member.cv.url }}">download</a>
-  <br>LAB: <a href="{{ member.labpage.url }}"><img src="{{ site.url }}{{ site.baseurl }}/images/icon/home.jpg" class="img-responsive" width="5%" style="float: center" /></a>
+  <br>LAB: <a href="{{ member.labpage.url }}">Hompage</a>
   <ul style="overflow: hidden">
   </ul>
 </div>
