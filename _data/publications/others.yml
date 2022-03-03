@@ -205,7 +205,7 @@
   type: 2
 - title: Large Scale Representation of Volumetric Fusion using ICP
   authors:
-    HyungGi Cho, Hae Min Cho, Seongwon Lee and Euntai Kim
+    HyungGi Jo, Hae Min Cho, Seongwon Lee and Euntai Kim
   conference: Proc. of the 18th International Conference on Control, Automation and Systems (ICCAS 2018)
   year: 2018
   month: October
@@ -245,7 +245,7 @@
   type: 2
 - title: "Robust 6-DOF Localization Using Sensor Fusion System in Indoor-Outdoor Environments"
   authors:
-    HyungGi Cho, Hae Min Cho, Seongwon Lee and Euntai Kim
+    HyungGi Jo, Hae Min Cho, Seongwon Lee and Euntai Kim
   conference: Proc. of the 15th International Conference on Ubiquitous Robots (UR 2018)
   year: 2018
   month: June
@@ -300,7 +300,7 @@
   type: 2
 - title: Multi-Resolution Point Cloud Generation Based on Heterogeneous Sensor Fusion System
   authors:
-    HyungGi Cho, Hae Min Cho, Seongwon Lee and Euntai Kim
+    HyungGi Jo, Hae Min Cho, Seongwon Lee and Euntai Kim
   conference: Proc. of the 2017 14th International Conference on Ubiquitous Robots and Ambient Intelligence (URAI 2017)
   year: 2017
   month: June
