@@ -6,6 +6,9 @@
   cv:
     url:
     exist: 0
+  labpage:
+    url:
+    exist: 0
        
 - name: Jae Pil Hwang
   photo: Jae Pil Hwang.jpg
@@ -13,6 +16,9 @@
   email:
   affiliation: Hyundai Motors Company
   cv:
+    url:
+    exist: 0
+  labpage:
     url:
     exist: 0
 
@@ -24,6 +30,9 @@
   cv:
     url:
     exist: 0
+  labpage:
+    url:
+    exist: 0
 
 - name: Jae Hun Lee
   photo: Jae Hun Lee.jpg
@@ -31,6 +40,9 @@
   email:
   affiliation: Korea Institute for Defence Analyses (KIDA)
   cv:
+    url:
+    exist: 0
+  labpage:
     url:
     exist: 0
 
@@ -42,6 +54,9 @@
   cv:
     url:
     exist: 0
+  labpage:
+    url:
+    exist: 0
 
 - name: Hyuk Doo Choi
   photo: Hyuk Doo Choi.jpg
@@ -49,6 +64,12 @@
   email:
   affiliation: Assistant Professor, Soonchunhyang University
   cv:
+    url:
+    exist: 0
+  labpage:
+    url:
+    exist: 0
+  labpage:
     url:
     exist: 0
 
@@ -60,6 +81,9 @@
   cv:
     url:
     exist: 0
+  labpage:
+    url:
+    exist: 0
 
 - name: Baehoon Choi
   photo: Baehoon Choi.jpg
@@ -67,6 +91,9 @@
   email:
   affiliation: Phantom AI, SanFrancisco
   cv:
+    url:
+    exist: 0
+  labpage:
     url:
     exist: 0
 
@@ -78,6 +105,9 @@
   cv:
     url:
     exist: 0
+  labpage:
+    url:
+    exist: 0
 
 - name: Sangyun Lee
   photo: Sangyun Lee.jpg
@@ -85,6 +115,9 @@
   email:
   affiliation: Assistant Professor, Sungkonghoe University
   cv:
+    url:
+    exist: 0
+  labpage:
     url:
     exist: 0
 
@@ -96,6 +129,9 @@
   cv:
     url:
     exist: 0
+  labpage:
+    url:
+    exist: 0
 
 - name: Jhonghyun An
   photo: Jhonghyun An.jpg
@@ -105,6 +141,9 @@
   cv:
     url: https://drive.google.com/file/d/1iS_sthqjpG7ReuFP4xz1MRcpihR_de_0/view?usp=sharing
     exist: 1
+  labpage:
+    url: https://sites.google.com/view/vip-lab/
+    exist: 1
 
 - name: Jeong Min Kang
   photo: Jeong Min Kang.jpg
@@ -112,6 +151,9 @@
   email: kangjm@yonsei.ac.kr
   affiliation: Stryx
   cv:
+    url:
+    exist: 0
+  labpage:
     url:
     exist: 0
 
@@ -123,6 +165,9 @@
   cv:
     url: https://docs.google.com/document/d/1GMb7VEcvYbPZFobvqw-dwhn53XFpR8IaLmiOKwuYu7Y/edit?usp=sharing
     exist: 1
+  labpage:
+    url: https://sites.google.com/view/jair-lab
+    exist: 1
 
 - name: Jisu Kim
   photo: jisukim.jpg
@@ -130,5 +175,8 @@
   email: jisukim2000@yonsei.ac.kr
   affiliation: SkyAutoNet  
   cv:
+    url:
+    exist: 0
+  labpage:
     url:
     exist: 0
