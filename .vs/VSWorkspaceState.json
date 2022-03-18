@@ -1,17 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\images",
-    "\\images\\teampic",
     "\\_data",
     "\\_data\\members",
-    "\\_data\\members\\students",
-    "\\_data\\patents",
-    "\\_data\\publications",
-    "\\_includes",
-    "\\_layouts",
-    "\\_pages"
+    "\\_data\\members\\alumni"
   ],
-  "SelectedNode": "\\_data\\publications\\int_conference_list.yml",
+  "SelectedNode": "\\_data\\members\\alumni\\ms_list.yml",
   "PreviewInSolutionExplorer": false
 }
