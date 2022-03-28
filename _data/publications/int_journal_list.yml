@@ -10,6 +10,16 @@
 #  accepted:  
 
 #2022
+- title: "Video Object Segmentation using Kernelized Memory Network with Multiple Kernels"
+  authors: Hongje Seong, Junhyuk Hyun, and Euntai Kim
+  journal: "IEEE Transactions on Pattern Analysis and Machine Intelligence"
+  year: 2022
+  month:
+  vol:
+  issue:
+  page:
+  description: "Accepted"
+  accepted: 1
 - title: "Adjacent Feature Propagation Network (AFPNet) for Real-Time Semantic Segmentation"
   authors: Junhyuk Hyun, Hongje Seong, Sangki Kim, and Euntai Kim
   journal: "IEEE Transactions on Systems, Man, and Cybernetics: Systems"
