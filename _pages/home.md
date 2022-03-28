@@ -46,8 +46,8 @@ We are a dynamic research group at the [School of Electrical and Electronic Engi
         <div class="item">
           <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/AJH_gachon.png" alt="Slide 2" />
             <div class="carousel-caption bg-dark mb-4">
-              <--! <h3>IEEE Transactions on Systems, Man, and Cybernetics: Systems</h3>
-              <p>Adjacent Feature Propagation Network (AFPNet) for Real-Time Semantic Segmentation</p> -->
+              <h3></h3>
+              <p></p>
             </div>
         </div>
         <div class="item">
