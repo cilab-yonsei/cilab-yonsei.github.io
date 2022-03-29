@@ -9,7 +9,7 @@
   vol_exist: 0
   page:
   page_exist: 0
-  description: ""
+  description: "test"
 - title: "WildNet: Learning Domain Generalized Semantic Segmentation from the Wild"
   authors:
    Suhyeon Lee, Hongje Seong, Seongwon Lee and Euntai Kim
