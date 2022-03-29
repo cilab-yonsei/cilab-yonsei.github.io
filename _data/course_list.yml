@@ -1,5 +1,27 @@
 - title: INTELLIGENT CONTROL
   number: EEE4110
+  year: 2022
+  semester: Spring
+- title: ELECTRICAL AND ELECTRONIC ENGINEERING CAPSTONE DESIGN
+  number: EEE4610
+  year: 2022
+  semester: Spring
+- title: PROBABILISTIC ROBOTICS 2
+  number: EEE7761
+  year: 2022
+  semester: Spring
+
+- title: CONTROL ENGINEERING
+  number: EEE3310
+  year: 2021
+  semester: Fall
+- title: PROBABILISTIC ROBOTICS 1
+  number: EEE7760
+  year: 2021
+  semester: Fall
+
+- title: INTELLIGENT CONTROL
+  number: EEE4110
   year: 2021
   semester: Spring
 - title: INTRODUCTORY DIGITAL LABS
