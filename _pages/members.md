@@ -56,7 +56,7 @@ Jump to [Master's/Doctoral Combined Program Students](#combined-students), [PhD 
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: center" />
   <h4>{{ member.name }}</h4>
   <i>email: <{{ member.email }}><br>research interest: {{ member.research }}</i>
-  <br><a href="{{ member.cv.url }}">[CV] </a>
+  <br><i>link: </i><a href="{{ member.cv.url }}">[CV] </a>
   <a href="{{ member.homepage.url }}">[Homepage]</a>
   <ul style="overflow: hidden">
   </ul>
@@ -68,8 +68,7 @@ Jump to [Master's/Doctoral Combined Program Students](#combined-students), [PhD 
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: center" />
   <h4>{{ member.name }}</h4>
   <i>email: <{{ member.email }}><br>research interest: {{ member.research }}</i>
-  <br><a href="{{ member.cv.url }}">[CV] </a>
-  <br>
+  <br><i>link: </i><a href="{{ member.cv.url }}">[CV] </a>
   <ul style="overflow: hidden">
   </ul>
 </div>
@@ -81,8 +80,7 @@ Jump to [Master's/Doctoral Combined Program Students](#combined-students), [PhD 
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: center" />
   <h4>{{ member.name }}</h4>
   <i>email: <{{ member.email }}><br>research interest: {{ member.research }}</i>
-  <br><a href="{{ member.homepage.url }}">[Homepage]</a>
-  <br>
+  <br><i>link: </i><a href="{{ member.homepage.url }}">[Homepage]</a>
   <ul style="overflow: hidden">
   </ul>
 </div>
@@ -93,7 +91,6 @@ Jump to [Master's/Doctoral Combined Program Students](#combined-students), [PhD 
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: center" />
   <h4>{{ member.name }}</h4>
   <i>email: <{{ member.email }}><br>research interest: {{ member.research }}</i>
-  <br>
   <br>
   <ul style="overflow: hidden">
   </ul>

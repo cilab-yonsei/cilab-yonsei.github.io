@@ -50,7 +50,7 @@ Jump to [PhD Degree](#phd-degree), [Master Degree](#master-degree).
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: center" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.affiliation }} </i>
-  <br><a href="{{ member.cv.url }}">[CV] </a>
+  <br><i>link: </i><a href="{{ member.cv.url }}">[CV] </a>
   <a href="{{ member.homepage.url }}">[Homepage]</a>
   <ul style="overflow: hidden">
   </ul>
@@ -62,8 +62,7 @@ Jump to [PhD Degree](#phd-degree), [Master Degree](#master-degree).
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: center" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.affiliation }}</i>
-  <br><a href="{{ member.cv.url }}">[CV] </a>
-  <br>
+  <br><i>link: </i><a href="{{ member.cv.url }}">[CV] </a>
   <ul style="overflow: hidden">
   </ul>
 </div>
@@ -75,8 +74,7 @@ Jump to [PhD Degree](#phd-degree), [Master Degree](#master-degree).
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: center" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.affiliation }}</i>
-  <br><a href="{{ member.homepage.url }}">[Homepage]</a>
-  <br>
+  <br><i>link: </i><a href="{{ member.homepage.url }}">[Homepage]</a>
   <ul style="overflow: hidden">
   </ul>
 </div>
@@ -87,7 +85,6 @@ Jump to [PhD Degree](#phd-degree), [Master Degree](#master-degree).
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: center" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.affiliation }}</i>
-  <br>
   <br>
   <ul style="overflow: hidden">
   </ul>
