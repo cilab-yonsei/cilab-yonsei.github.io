@@ -82,7 +82,7 @@
     exist: 1
   homepage:
     url: https://suhyeonlee.github.io
-    exist: 0
+    exist: 1
 
 - name: Seongwon Lee
   photo: seongwonlee.jpg
