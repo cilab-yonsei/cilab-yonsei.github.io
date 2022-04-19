@@ -55,7 +55,7 @@ Jump to [Master's/Doctoral Combined Program Students](#combined-students), [PhD 
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: center" />
   <h4>{{ member.name }}</h4>
-  <i>email: <{{ member.email }}><br>Affiliation: {{ member.affiliation }}</i>
+  <i>email: <{{ member.email }}><br>research interest: {{ member.research }}</i>
   <br><a href="{{ member.cv.url }}">[CV] </a>
   <a href="{{ member.homepage.url }}">[Homepage]</a>
   <ul style="overflow: hidden">
@@ -67,7 +67,7 @@ Jump to [Master's/Doctoral Combined Program Students](#combined-students), [PhD 
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: center" />
   <h4>{{ member.name }}</h4>
-  <i>email: <{{ member.email }}><br>Affiliation: {{ member.affiliation }}</i>
+  <i>email: <{{ member.email }}><br>research interest: {{ member.research }}</i>
   <br><a href="{{ member.cv.url }}">[CV] </a>
   <br>
   <ul style="overflow: hidden">
@@ -80,7 +80,7 @@ Jump to [Master's/Doctoral Combined Program Students](#combined-students), [PhD 
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: center" />
   <h4>{{ member.name }}</h4>
-  <i>email: <{{ member.email }}><br>Affiliation: {{ member.affiliation }}</i>
+  <i>email: <{{ member.email }}><br>research interest: {{ member.research }}</i>
   <br><a href="{{ member.homepage.url }}">[Homepage]</a>
   <br>
   <ul style="overflow: hidden">
@@ -92,7 +92,7 @@ Jump to [Master's/Doctoral Combined Program Students](#combined-students), [PhD 
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: center" />
   <h4>{{ member.name }}</h4>
-  <i>email: <{{ member.email }}><br>Affiliation: {{ member.affiliation }}</i>
+  <i>email: <{{ member.email }}><br>research interest: {{ member.research }}</i>
   <br>
   <br>
   <ul style="overflow: hidden">
