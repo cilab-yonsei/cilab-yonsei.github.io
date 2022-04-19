@@ -1,7 +1,13 @@
-- title: 5G 엣지 기반 이송, 조작을 위한 모바일 매니퓰레이터  핵심기술 개발
+- title: 5G 엣지 기반 이송, 조작을 위한 모바일 매니퓰레이터 핵심기술 개발
   start: 2022.04.01
   end: 2025.12.31
   company: 과학기술정보통신부/전자부품연구원
+  description: ""
+
+- title: ToF Depth 센서를 이용한 Fine Image Matching 기술 개발
+  start: 2022.04.15
+  end: 2022.12.15
+  company: LG전자(주)
   description: ""
 
 - title: 임상의사 부족 시대의 1인 수술(sole surgery)이 가능한 AI 수술실 환경 구현을 위한 핵심 요소기술 개발

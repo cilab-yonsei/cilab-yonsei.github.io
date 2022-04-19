@@ -15,6 +15,9 @@
   cv:
     url: 
     exist: 0
+  homepage:
+    url:
+    exist: 0
 
 - name: Minho Cho
   photo: minhocho.jpg
@@ -23,6 +26,9 @@
   research: Intelligent Vehicle System
   affiliation: 
   cv:
+    url:
+    exist: 0
+  homepage:
     url:
     exist: 0
 
@@ -35,6 +41,9 @@
   cv:
     url: https://cilab.yonsei.ac.kr/cv/cv_junhyukhyun.pdf
     exist: 1
+  homepage:
+    url:
+    exist: 0
 
 - name: Hae Min Cho
   photo: haemincho.jpg
@@ -45,6 +54,9 @@
   cv:
     url: https://cilab.yonsei.ac.kr/cv/cv_haemincho.pdf
     exist: 1
+  homepage:
+    url:
+    exist: 0
 
 - name: Wonje Jang
   photo: wonjejang.jpg
@@ -53,6 +65,9 @@
   research: Intelligent Vehicle System
   affiliation: 
   cv:
+    url:
+    exist: 0
+  homepage:
     url:
     exist: 0
 
@@ -65,6 +80,9 @@
   cv:
     url: https://drive.google.com/file/d/1BdeR633bTYXYoMqY3X3wTh67CG6bsjDa/view?usp=sharing
     exist: 1
+  homepage:
+    url: https://suhyeonlee.github.io
+    exist: 0
 
 - name: Seongwon Lee
   photo: seongwonlee.jpg
@@ -75,6 +93,9 @@
   cv:
     url: https://drive.google.com/file/d/1RjcLqpcsGlgZ7X9hUAV8mX7n1NG1fU-r/view?usp=sharing
     exist: 1
+  homepage:
+    url: https://sungonce.github.io
+    exist: 1
 
 - name: Suhan Woo
   photo: suhanwoo.jpg
@@ -83,6 +104,9 @@
   research: Machine Vision Technology
   affiliation: 
   cv:
+    url:
+    exist: 0
+  homepage:
     url:
     exist: 0
 
@@ -95,6 +119,9 @@
   cv:
     url: https://drive.google.com/file/d/1_zTYfTYeUUrEp1YUK-G1YY_7ITcB6OR4/view?usp=sharing # https://cilab.yonsei.ac.kr/cv/cv_hongjeseong.pdf
     exist: 1
+  homepage:
+    url: https://hongje.github.io
+    exist: 1
 
 - name: Minseong Park
   photo: minseongpark.jpg
@@ -103,6 +130,9 @@
   research: Intelligent Vehicle System
   affiliation: 
   cv:
+    url:
+    exist: 0
+  homepage:
     url:
     exist: 0
 
@@ -115,6 +145,9 @@
   cv:
     url: https://cilab.yonsei.ac.kr/cv/cv_youngjolee.pdf
     exist: 1
+  homepage:
+    url:
+    exist: 0
 
 - name: Gyu Hyeon Pak
   photo: gyuhyeonpak.jpg
@@ -123,6 +156,9 @@
   research: Mobile Robotics
   affiliation: 
   cv:
+    url:
+    exist: 0
+  homepage:
     url:
     exist: 0
 
@@ -135,6 +171,9 @@
   cv:
     url:
     exist: 0
+  homepage:
+    url:
+    exist: 0
 
 - name: Kyusik Cho
   photo: kyusikcho.jpg
@@ -145,6 +184,9 @@
   cv:
     url:
     exist: 0
+  homepage:
+    url:
+    exist: 0
 
 - name: Jangwon Oh
   photo: jangwonoh.jpg
@@ -153,5 +195,8 @@
   research: Intelligent Vehicle System
   affiliation: 
   cv:
+    url:
+    exist: 0
+  homepage:
     url:
     exist: 0

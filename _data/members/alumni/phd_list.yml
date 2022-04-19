@@ -6,7 +6,7 @@
   cv:
     url:
     exist: 0
-  labpage:
+  homepage:
     url:
     exist: 0
        
@@ -18,7 +18,7 @@
   cv:
     url:
     exist: 0
-  labpage:
+  homepage:
     url:
     exist: 0
 
@@ -30,7 +30,7 @@
   cv:
     url:
     exist: 0
-  labpage:
+  homepage:
     url:
     exist: 0
 
@@ -42,7 +42,7 @@
   cv:
     url:
     exist: 0
-  labpage:
+  homepage:
     url:
     exist: 0
 
@@ -54,7 +54,7 @@
   cv:
     url:
     exist: 0
-  labpage:
+  homepage:
     url:
     exist: 0
 
@@ -66,10 +66,10 @@
   cv:
     url:
     exist: 0
-  labpage:
+  homepage:
     url:
     exist: 0
-  labpage:
+  homepage:
     url:
     exist: 0
 
@@ -81,7 +81,7 @@
   cv:
     url:
     exist: 0
-  labpage:
+  homepage:
     url:
     exist: 0
 
@@ -93,7 +93,7 @@
   cv:
     url:
     exist: 0
-  labpage:
+  homepage:
     url:
     exist: 0
 
@@ -105,7 +105,7 @@
   cv:
     url:
     exist: 0
-  labpage:
+  homepage:
     url:
     exist: 0
 
@@ -117,7 +117,7 @@
   cv:
     url:
     exist: 0
-  labpage:
+  homepage:
     url:
     exist: 0
 
@@ -129,7 +129,7 @@
   cv:
     url:
     exist: 0
-  labpage:
+  homepage:
     url:
     exist: 0
 
@@ -141,7 +141,7 @@
   cv:
     url: https://drive.google.com/file/d/1iS_sthqjpG7ReuFP4xz1MRcpihR_de_0/view?usp=sharing
     exist: 1
-  labpage:
+  homepage:
     url: https://sites.google.com/view/vip-lab/
     exist: 1
 
@@ -153,7 +153,7 @@
   cv:
     url:
     exist: 0
-  labpage:
+  homepage:
     url:
     exist: 0
 
@@ -165,7 +165,7 @@
   cv:
     url: https://docs.google.com/document/d/1GMb7VEcvYbPZFobvqw-dwhn53XFpR8IaLmiOKwuYu7Y/edit?usp=sharing
     exist: 1
-  labpage:
+  homepage:
     url: https://sites.google.com/view/jair-lab
     exist: 1
 
@@ -177,6 +177,6 @@
   cv:
     url:
     exist: 0
-  labpage:
+  homepage:
     url:
     exist: 0

@@ -27,7 +27,7 @@ Jump to [PhD Degree](#phd-degree), [Master Degree](#master-degree).
   <h4>{{ member.name }}</h4>
   <i>{{ member.affiliation }}</i>
   <br>CV: <a href="{{ member.cv.url }}">download</a>
-  <br>LAB: <a href="{{ member.labpage.url }}">download</a>
+  <br>LAB: <a href="{{ member.homepage.url }}">download</a>
   <ul style="overflow: hidden">
   </ul>
 </div>
@@ -45,24 +45,24 @@ Jump to [PhD Degree](#phd-degree), [Master Degree](#master-degree).
 {% endif %}
 -->
 
-{% if member.cv.exist == 1 and member.labpage.exist == 1 %}
+{% if member.cv.exist == 1 and member.homepage.exist == 1 %}
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: center" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.affiliation }} </i>
-  <br>CV: <a href="{{ member.cv.url }}">download</a>
-  <br>LAB: <a href="{{ member.labpage.url }}">Homepage</a>
+  <br><a href="{{ member.cv.url }}">[CV] </a>
+  <a href="{{ member.homepage.url }}">[Homepage]</a>
   <ul style="overflow: hidden">
   </ul>
 </div>
 {% endif %}
 
-{% if member.cv.exist == 1 and member.labpage.exist == 0 %}
+{% if member.cv.exist == 1 and member.homepage.exist == 0 %}
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: center" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.affiliation }}</i>
-  <br>CV: <a href="{{ member.cv.url }}">download</a>
+  <br><a href="{{ member.cv.url }}">[CV] </a>
   <br>
   <ul style="overflow: hidden">
   </ul>
@@ -70,19 +70,19 @@ Jump to [PhD Degree](#phd-degree), [Master Degree](#master-degree).
 {% endif %}
 
 
-{% if member.cv.exist == 0 and member.labpage.exist == 1 %}
+{% if member.cv.exist == 0 and member.homepage.exist == 1 %}
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: center" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.affiliation }}</i>
-  <br>LAB: <a href="{{ member.labpage.url }}">Homepage</a>
+  <br><a href="{{ member.homepage.url }}">[Homepage]</a>
   <br>
   <ul style="overflow: hidden">
   </ul>
 </div>
 {% endif %}
 
-{% if member.cv.exist == 0 and member.labpage.exist == 0 %}
+{% if member.cv.exist == 0 and member.homepage.exist == 0 %}
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: center" />
   <h4>{{ member.name }}</h4>

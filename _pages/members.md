@@ -51,7 +51,56 @@ Jump to [Master's/Doctoral Combined Program Students](#combined-students), [PhD 
 <div class="row">
 {% endif %}
 
-{% if member.research == nil and member.cv.exist == 1 %}
+{% if member.cv.exist == 1 and member.homepage.exist == 1 %}
+<div class="col-sm-6 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: center" />
+  <h4>{{ member.name }}</h4>
+  <i>email: <{{ member.email }}><br>Affiliation: {{ member.affiliation }}</i>
+  <br><a href="{{ member.cv.url }}">[CV] </a>
+  <a href="{{ member.homepage.url }}">[Homepage]</a>
+  <ul style="overflow: hidden">
+  </ul>
+</div>
+{% endif %}
+
+{% if member.cv.exist == 1 and member.homepage.exist == 0 %}
+<div class="col-sm-6 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: center" />
+  <h4>{{ member.name }}</h4>
+  <i>email: <{{ member.email }}><br>Affiliation: {{ member.affiliation }}</i>
+  <br><a href="{{ member.cv.url }}">[CV] </a>
+  <br>
+  <ul style="overflow: hidden">
+  </ul>
+</div>
+{% endif %}
+
+
+{% if member.cv.exist == 0 and member.homepage.exist == 1 %}
+<div class="col-sm-6 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: center" />
+  <h4>{{ member.name }}</h4>
+  <i>email: <{{ member.email }}><br>Affiliation: {{ member.affiliation }}</i>
+  <br><a href="{{ member.homepage.url }}">[Homepage]</a>
+  <br>
+  <ul style="overflow: hidden">
+  </ul>
+</div>
+{% endif %}
+
+{% if member.cv.exist == 0 and member.homepage.exist == 0 %}
+<div class="col-sm-6 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: center" />
+  <h4>{{ member.name }}</h4>
+  <i>email: <{{ member.email }}><br>Affiliation: {{ member.affiliation }}</i>
+  <br>
+  <br>
+  <ul style="overflow: hidden">
+  </ul>
+</div>
+{% endif %}
+
+<!-- {% if member.research == nil and member.cv.exist == 1 %}
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: center" />
   <h4>{{ member.name }}</h4>
@@ -93,7 +142,7 @@ Jump to [Master's/Doctoral Combined Program Students](#combined-students), [PhD 
   <ul style="overflow: hidden">
   </ul>
 </div>
-{% endif %}
+{% endif %} -->
 
 
 {% assign number_printed = number_printed | plus: 1 %}
