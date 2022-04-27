@@ -15,14 +15,9 @@ We are a dynamic research group at the [School of Electrical and Electronic Engi
 <br/> -->
 
 <!-- <div markdown="0" class="container-fluid d-none d-sm-block" style="text-align:center">
-  <p><img src="{{ site.url }}{{ site.baseurl }}/images/recruite/22-1_HyundaiMobis_recruite_poster.jpg" style="max-width: 50%"></p>
-</div>
-<br/> -->
-
-<div markdown="0" class="container-fluid d-none d-sm-block" style="text-align:center">
   <p><img src="{{ site.url }}{{ site.baseurl }}/images/recruite/22_HyundaiCar_recruite_poseter.jpg" style="max-width: 50%"></p>
 </div>
-<br/>
+<br/> -->
 
 <div markdown="0" class="video-container"> 
     <iframe width="100%" src="https://www.youtube.com/embed/nBtD0NP0qrw" frameborder="0" allowfullscreen></iframe>
