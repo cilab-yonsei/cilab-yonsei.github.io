@@ -1,3 +1,15 @@
+- title: Spatial-Channel Transformers for Scene Recognition
+  authors:
+    Seunghyun Baik, Hongje Seong, Youngjo Lee, and Euntai Kim
+  conference: Proc. of The International Joint Conference on Neural Networks (IJCNN 2022).
+  year: 2022
+  month: July
+  venue: Padova, Italy
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
 - title: "Correlation Verification for Image Retrieval"
   authors:
    Seongwon Lee, Hongje Seong, Suhyeon Lee and Euntai Kim
