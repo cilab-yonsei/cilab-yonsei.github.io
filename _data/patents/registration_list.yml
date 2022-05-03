@@ -4,6 +4,20 @@
 #  year: 2020
 #  month: 3월
 #  description: ""
+- title: 인공 신경망 기반의 비정제 동영상에서의 행동 인식 방법 및 장치
+  authors: 김은태, 성홍제, 현준혁
+  registration_number: 10-2357000
+  year: 2022
+  month: 1월
+  description: ""\
+
+- title: 딥러닝 기반의 자세 추정을 이용한 3차원 전역 위치 인식 장치 및 이동 로봇
+  authors: 김은태, 조형기
+  registration_number: 10-2352088
+  year: 2022
+  month: 1월
+  description: ""
+
 - title: 상관관계 점수 행렬 생성 알고리즘을 이용한 인공 신경망 기반의 장소 인식 장치 및 방법
   authors: 김은태, 성홍제, 현준혁, 이수현, 우수한, 장현배
   registration_number: 10-2211842
