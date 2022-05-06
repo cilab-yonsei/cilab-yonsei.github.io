@@ -14,12 +14,12 @@
   authors: Hongje Seong, Seunghyun Baik, Youngjo Lee, Suhyeon Lee and Euntai Kim
   journal: Sensors
   year: 2022
-  month: 
-  vol: 
-  issue: 
-  page: 
-  description: 
-  accepted: 1
+  month: May
+  vol: 22
+  issue: 9
+  page: 3494
+  description: ""
+  accepted: 0
 - title: "Video Object Segmentation using Kernelized Memory Network with Multiple Kernels"
   authors: Hongje Seong, Junhyuk Hyun, and Euntai Kim
   journal: "IEEE Transactions on Pattern Analysis and Machine Intelligence"
