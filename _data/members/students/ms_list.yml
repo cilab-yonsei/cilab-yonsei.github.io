@@ -6,26 +6,6 @@
 #    url:
 #    exist: 0 or 1    
 
-- name: Sangje Park
-  photo: sangjepark.jpg
-  info: 
-  email: sangjaepark4s@gmail.com
-  research:
-  affiliation: Korean Electronics Technology Institute (KETI)
-  cv:
-    url:
-    exist: 0    
-
-- name: Doyeon Kim
-  photo: doyeonkim.jpg
-  info: 
-  email: vlzjtm@gmail.com
-  research:
-  affiliation: Korean Electronics Technology Institute (KETI)
-  cv:
-    url:
-    exist: 0 
-
 - name: Minwoo Park
   photo: minwoopark.jpg
   info: Master's Degree Programs
@@ -95,3 +75,23 @@
   cv:
     url:
     exist: 0
+
+- name: Sangje Park
+  photo: sangjepark.jpg
+  info: 
+  email: sangjaepark4s@gmail.com
+  research:
+  affiliation: Korean Electronics Technology Institute (KETI)
+  cv:
+    url:
+    exist: 0    
+
+- name: Doyeon Kim
+  photo: doyeonkim.jpg
+  info: 
+  email: vlzjtm@gmail.com
+  research:
+  affiliation: Korean Electronics Technology Institute (KETI)
+  cv:
+    url:
+    exist: 0 
