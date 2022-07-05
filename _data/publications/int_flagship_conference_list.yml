@@ -9,7 +9,6 @@
   page:
   page_exist: 0
   description: ""
-
 - title: Spatial-Channel Transformers for Scene Recognition
   authors:
     Seunghyun Baik, Hongje Seong, Youngjo Lee, and Euntai Kim
