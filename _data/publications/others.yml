@@ -2341,6 +2341,7 @@
   month: 6월
   venue: 제주
   description: ""
+  type: 0
 - title: Illumination Adaptive Image to Image Translation in Adverse Weather
   authors: 이영조, 송석범, 박민성, 김은태
   Conference: 대한전자공학회 2022년도 하계종합학술대회
@@ -2348,6 +2349,7 @@
   month: 6월
   venue: 제주
   description: ""
+  type: 0
 
 - title: Depth map이 Semantic Segmentation에 끼치는 영향
   authors:
