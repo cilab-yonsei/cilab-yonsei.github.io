@@ -1,3 +1,10 @@
+- title: "One-Trimap Video Matting"
+  authors: Hongje Seong, Seoung Wug Oh, Brian Price, Euntai Kim and Joon-Young Lee
+  conference: Proc. of the European Conference on Computer Vision (ECCV 2022)
+  year: 2022
+  month: October
+  venue: Tel-Aviv, Israel
+  description: ""
 - title: Spatial-Channel Transformers for Scene Recognition
   authors:
     Seunghyun Baik, Hongje Seong, Youngjo Lee, and Euntai Kim
