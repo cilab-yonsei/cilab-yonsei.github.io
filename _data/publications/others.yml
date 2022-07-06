@@ -2328,7 +2328,7 @@
 # domestic conference -type: 0
 # - title:
 #  authors:
-#  Conference:
+#  conference:
 #  year:
 #  month:
 #  venue: 
@@ -2336,7 +2336,7 @@
 #  type: 0
 - title: Day to Night Image Translation with Brightness Discriminator
   authors: 송석범, 이수현, 성홍제, 이영조, 김은태
-  Conference: 대한전자공학회 2022년도 하계종합학술대회
+  conference: 대한전자공학회 2022년도 하계종합학술대회
   year: 2022
   month: 6월
   venue: 제주
@@ -2344,7 +2344,7 @@
   type: 0
 - title: Illumination Adaptive Image to Image Translation in Adverse Weather
   authors: 이영조, 송석범, 박민성, 김은태
-  Conference: 대한전자공학회 2022년도 하계종합학술대회
+  conference: 대한전자공학회 2022년도 하계종합학술대회
   year: 2022
   month: 6월
   venue: 제주
