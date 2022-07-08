@@ -10,8 +10,8 @@ permalink: /
 We are a dynamic research group at the [School of Electrical and Electronic Engineering](https://ee.yonsei.ac.kr/ee_en/index.do) in [Yonsei University](https://ee.yonsei.ac.kr/ee_en/index.do).
 
 <div markdown="0" class="container-fluid d-none d-sm-block" style="text-align:center">
-  <p><img src="{{ site.url }}{{ site.baseurl }}/images/recruite/2023-1_YU-KIST.png" style="max-width: 50%"></p>
-  <h3>[RECRUITE LINK](https://ee.yonsei.ac.kr/ee/community/academic_notice.do?mode=view&articleNo=140057&article.offset=0&articleLimit=10&srSearchVal=KIST)</h3>
+  <p><img src="{{ site.url }}{{ site.baseurl }}/images/recruite/2023-1_YU-KIST.png" style="max-width: 75%"></p>
+  <!--<h3>https://ee.yonsei.ac.kr/ee/community/academic_notice.do?mode=view&articleNo=140057&article.offset=0&articleLimit=10&srSearchVal=KIST</h3>-->
 </div>
 <br/>
 
@@ -27,7 +27,7 @@ We are a dynamic research group at the [School of Electrical and Electronic Engi
 
 <div markdown="0" class="video-container"> 
     <iframe width="100%" src="https://www.youtube.com/embed/nBtD0NP0qrw" frameborder="0" allowfullscreen></iframe>
-</div> 
+</div>
 <br/>
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
@@ -71,7 +71,7 @@ We are a dynamic research group at the [School of Electrical and Electronic Engi
             </div>
         </div>
         <div class="item">
-          <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/TSMCS_HJH.png" alt="Slide 4" />
+          <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/TSMCS_HJH.png" alt="Slide " />
             <div class="carousel-caption bg-dark mb-4">
               <h3>IEEE Transactions on Systems, Man, and Cybernetics: Systems</h3>
               <p>Adjacent Feature Propagation Network (AFPNet) for Real-Time Semantic Segmentation</p>
