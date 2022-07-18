@@ -11,6 +11,13 @@
 #  month: 월
 #  description: ""
 
+- title: 포인트 클라우드에 포함된 잡음 제거 방법 및 장치
+  authors: 김은태, 김영주
+  application_number: 10-2022-0069003
+  year: 2022
+  month: 6월
+  description: ""
+
 - title: 광학 흐름을 이용한 합성 동영상 생성 방법
   authors: 김은태, 이수현
   application_number: 10-2021-0189365
@@ -22,6 +29,12 @@
   application_number: 10-2021-0111212
   year: 2021
   month: 8월
+  description: ""
+- title: 객체 분류 방법 및 장치와, 이 방법을 실행하기 위한 프로그램을 기록한 기록 매체
+  authors: 김은태, 박민성, 장원제
+  application_number: 10-2021-0080955
+  year: 2021
+  month: 6월
   description: ""
 - title: 적대적 생성 신경망을 이용한 배경에 문맥적으로 적합한 포트홀 영상 생성 방법 및 장치
   authors: 김은태, 이상용, 이수현
@@ -40,6 +53,13 @@
   application_number: 10-2021-0003078
   year: 2021
   month: 1월
+  description: ""
+
+- title: 캐스케이드 분류기(cascade classifier)를 이용한 3D 포인트 클라우드에서의 도로 경계 검출 방법 및 장치
+  authors: 김은태, 박민성, 장원제
+  application_number: 10-2020-0175227
+  year: 2020
+  month: 12월
   description: ""
 - title: 박스-레벨 객체 위치 정보만을 이용한 박스-레벨 객체 이동 예측 장치
   authors: 김은태, 이영조, 성홍제, 현준혁

@@ -126,7 +126,7 @@
   authors: Hongje Seong, Junhyuk Hyun and Euntai Kim
   journal: IEEE Access
   year: 2020
-  month: Dec
+  month: Apr # access 특성상 12월로 통칭하지만, 논문상 published 된 날짜로 수정
   vol: 8
   issue: 1
   page: 82066-82077
@@ -136,7 +136,7 @@
   authors: HyungGi Jo and Euntai Kim
   journal: IEEE Access
   year: 2020
-  month: Dec
+  month: Apr # access 특성상 12월로 통칭하지만, 논문상 published 된 날짜로 수정
   vol: 8
   issue: 1
   page: 74485-74496
