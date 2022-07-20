@@ -9,7 +9,49 @@
 #  description: 
 #  accepted:  
 
-#2022
+#2023
+- title: "Video Object Segmentation using Kernelized Memory Network with Multiple Kernels"
+  authors: Hongje Seong, Junhyuk Hyun, and Euntai Kim
+  journal: "IEEE Transactions on Pattern Analysis and Machine Intelligence"
+  year: 2023
+  month:
+  vol:
+  issue:
+  page:
+  description: "Accepted"
+  accepted: 1
+- title: "Adjacent Feature Propagation Network (AFPNet) for Real-Time Semantic Segmentation"
+  authors: Junhyuk Hyun, Hongje Seong, Sangki Kim, and Euntai Kim
+  journal: "IEEE Transactions on Systems, Man, and Cybernetics: Systems"
+  year: 2023
+  month:
+  vol:
+  issue:
+  page:
+  description: "Accepted"
+  accepted: 1
+- title: "SP-SLAM: Surfel-Point Simultaneous Localization and Mapping"
+  authors: Hae Min Cho, HyungGi Jo and Euntai Kim
+  journal: IEEE/ASME Transactions on Mechatronics
+  year: 2023
+  month:
+  vol:
+  issue:
+  page:
+  description: "Accepted"
+  accepted: 1
+
+# 2022
+- title: "Indoor Place Category Recognition for a Cleaning Robot by Fusing a Probabilistic Approach and Deep Learning"
+  authors: Soowook Choe\*, Hongje Seong\* and Euntai Kim (\*equal contribution)
+  journal: IEEE Transactions on Cybernetics
+  year: 2022
+  month: Aug
+  vol: 52
+  issue: 8
+  page: 7265-7276
+  description: ""
+  accepted: 0
 - title: "Content Swapping: A New Image Synthesis for Construction Sign Detection in Autonomous Vehicles"
   authors: Hongje Seong, Seunghyun Baik, Youngjo Lee, Suhyeon Lee and Euntai Kim
   journal: Sensors
@@ -20,46 +62,6 @@
   page: 3494
   description: ""
   accepted: 0
-- title: "Video Object Segmentation using Kernelized Memory Network with Multiple Kernels"
-  authors: Hongje Seong, Junhyuk Hyun, and Euntai Kim
-  journal: "IEEE Transactions on Pattern Analysis and Machine Intelligence"
-  year: 2022
-  month:
-  vol:
-  issue:
-  page:
-  description: "Accepted"
-  accepted: 1
-- title: "Adjacent Feature Propagation Network (AFPNet) for Real-Time Semantic Segmentation"
-  authors: Junhyuk Hyun, Hongje Seong, Sangki Kim, and Euntai Kim
-  journal: "IEEE Transactions on Systems, Man, and Cybernetics: Systems"
-  year: 2022
-  month:
-  vol:
-  issue:
-  page:
-  description: "Accepted"
-  accepted: 1
-- title: "SP-SLAM: Surfel-Point Simultaneous Localization and Mapping"
-  authors: Hae Min Cho, HyungGi Jo and Euntai Kim
-  journal: IEEE/ASME Transactions on Mechatronics
-  year: 2022
-  month:
-  vol:
-  issue:
-  page:
-  description: "Accepted"
-  accepted: 1
-- title: "Indoor Place Category Recognition for a Cleaning Robot by Fusing a Probabilistic Approach and Deep Learning"
-  authors: Soowook Choe\*, Hongje Seong\* and Euntai Kim (\*equal contribution)
-  journal: IEEE Transactions on Cybernetics
-  year: 2022
-  month:
-  vol:
-  issue:
-  page:
-  description: "Accepted"
-  accepted: 1
 - title: "A Lane-level Road Marking Map using a Monocular Camera"
   authors: Wonje Jang, Junhyuk Hyun, Jhonghyun An, Minho Cho and Euntai Kim
   journal: IEEE/CAA Journal of Automatica Sinica
