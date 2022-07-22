@@ -42,6 +42,13 @@ We are a dynamic research group at the [School of Electrical and Electronic Engi
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
+          <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ECCV22_SHJ.png" alt="Slide" />
+            <div class="carousel-caption bg-dark mb-4">
+              <h3>ECCV 2022</h3>
+              <p>One-Trimap Video Matting</p>
+            </div>
+        </div>
+		<div class="item">
           <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/TPAMI_SHJ.png" alt="Slide" />
             <div class="carousel-caption bg-dark mb-4">
               <h3>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</h3>
