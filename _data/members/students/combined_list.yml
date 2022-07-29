@@ -149,7 +149,7 @@
     url:
     exist: 0
 
-- name: Gyu Hyeon Pak
+- name: Gyuhyeon Pak
   photo: gyuhyeonpak.jpg
   info: Master's/Doctoral Combined Programs
   email: ghpak1002@yonsei.ac.kr
@@ -193,6 +193,19 @@
   info: Master's/Doctoral Combined Programs
   email: dy567@yonsei.ac.kr
   research: Intelligent Vehicle System
+  affiliation: 
+  cv:
+    url:
+    exist: 0
+  homepage:
+    url:
+    exist: 0
+
+- name: Mankyu Kong
+  photo: bio-photo.jpg
+  info: Master's/Doctoral Combined Programs
+  email: mangyu0929@yonsei.ac.kr
+  research: Mobile Robotics
   affiliation: 
   cv:
     url:
