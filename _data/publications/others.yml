@@ -2334,6 +2334,15 @@
 #  venue: 
 #  description:
 #  type: 0
+
+- title: "Efficient sensor fusion using Transformer"
+  authors: Junhyuk Jang, Wonje Jang, and Euntai Kim
+  Conference: Proc. of the 13th Asian Control Conference (ASCC 2022)
+  year: 2022
+  month: May
+  venue: 제주
+  description: ""
+  type: 0
 - title: Day to Night Image Translation with Brightness Discriminator
   authors: 송석범, 이수현, 성홍제, 이영조, 김은태
   conference: 대한전자공학회 2022년도 하계종합학술대회
