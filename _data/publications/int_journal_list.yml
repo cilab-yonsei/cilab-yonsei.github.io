@@ -32,16 +32,6 @@
   accepted: 1
 
 # 2022
-- title: Real-time Driving Scene Understanding via Efficient 3-Dimensional LIDAR Processing
-  authors: Wonje Jang, Minseong Park and Euntai Kim
-  journal: IEEE Transactions on Instrumentation & Measurement
-  year: 2022
-  month: Aug
-  vol: 71
-  issue: 
-  page: 1-14
-  description: ""
-  accepted: 0
 - title: Adjacent Feature Propagation Network (AFPNet) for Real-Time Semantic Segmentation
   authors: Junhyuk Hyun, Hongje Seong, Sangki Kim and Euntai Kim
   journal: "IEEE Transactions on Systems, Man, and Cybernetics: Systems"
@@ -50,6 +40,16 @@
   vol: 52
   issue: 9
   page: 5877-5888
+  description: ""
+  accepted: 0
+- title: Real-time Driving Scene Understanding via Efficient 3-Dimensional LIDAR Processing
+  authors: Wonje Jang, Minseong Park and Euntai Kim
+  journal: IEEE Transactions on Instrumentation & Measurement
+  year: 2022
+  month: Aug
+  vol: 71
+  issue: 
+  page: 1-14
   description: ""
   accepted: 0
 - title: "Indoor Place Category Recognition for a Cleaning Robot by Fusing a Probabilistic Approach and Deep Learning"
