@@ -32,19 +32,6 @@
     url:
     exist: 0
 
-- name: Junhyuk Hyun
-  photo: junhyukhyun.jpg
-  info: Master's/Doctoral Combined Programs
-  email: jhhyun@yonsei.ac.kr
-  research: Machine Vision Technology
-  affiliation: 
-  cv:
-    url: https://cilab.yonsei.ac.kr/cv/cv_junhyukhyun.pdf
-    exist: 1
-  homepage:
-    url:
-    exist: 0
-
 - name: Hae Min Cho
   photo: haemincho.jpg
   info: Master's/Doctoral Combined Programs
