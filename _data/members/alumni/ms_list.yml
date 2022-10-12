@@ -277,6 +277,15 @@
     url:
     exist: 0
 
+- name: Okjoon Lee
+  photo: bio-photo.jpg
+  info: Master Student
+  email: 
+  affiliation: Korea Electronics Technology Institute (KETI)
+  cv:
+    url:
+    exist: 0
+
 - name: Kwanghyun Kim
   photo: Kwanghyun Kim.jpg
   info: Master Student
