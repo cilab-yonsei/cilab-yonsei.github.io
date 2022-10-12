@@ -1,3 +1,14 @@
+- title: "Domain Adaptive Video Semantic Segmentation via Cross-Domain Moving Object Mixing"
+  authors: Kyusik Cho, Suhyeon Lee, Hongje Seong and Euntai Kim
+  conference: IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2023)
+  year: 2023
+  month: January
+  venue: Waikoloa, Hawaii
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
 - title: "One-Trimap Video Matting"
   authors: Hongje Seong, Seoung Wug Oh, Brian Price, Euntai Kim and Joon-Young Lee
   conference: Proc. of the European Conference on Computer Vision (ECCV 2022)
