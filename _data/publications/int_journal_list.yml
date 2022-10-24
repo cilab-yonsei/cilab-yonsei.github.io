@@ -20,16 +20,17 @@
   page:
   description: "Accepted"
   accepted: 1
+
 - title: "SP-SLAM: Surfel-Point Simultaneous Localization and Mapping"
   authors: Hae Min Cho, HyungGi Jo and Euntai Kim
   journal: IEEE/ASME Transactions on Mechatronics
-  year: 2023
+  year: 2022
   month:
-  vol:
-  issue:
-  page:
-  description: "Accepted"
-  accepted: 1
+  vol: 27
+  issue: 5
+  page: 2568-2579
+  description: ""
+  accepted: 0
 
 # 2022
 - title: Adjacent Feature Propagation Network (AFPNet) for Real-Time Semantic Segmentation
