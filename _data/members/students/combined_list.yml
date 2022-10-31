@@ -39,7 +39,8 @@
   research: Mobile Robotics
   affiliation: 
   cv:
-    url: https://cilab.yonsei.ac.kr/cv/cv_haemincho.pdf
+    # url: https://cilab.yonsei.ac.kr/cv/cv_haemincho.pdf
+    url : https://drive.google.com/file/d/1JdzgcCRaTDYMFwCKOSoIecaq5g0VMp8p/view?usp=sharing
     exist: 1
   homepage:
     url:
