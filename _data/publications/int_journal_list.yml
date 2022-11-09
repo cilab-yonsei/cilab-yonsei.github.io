@@ -10,6 +10,17 @@
 #  accepted:  
 
 #2023
+- title: Fallen Person Detection for Autonomous Driving
+  authors: Suhyeon Lee, Sangyong Lee, Hongje Seong, Junhyuk Hyun and Euntai Kim
+  journal: Expert Systems With Applications
+  year: 2023
+  month:
+  vol:
+  issue:
+  page:
+  description: "Early Access"
+  accepted: 1
+
 - title: "Video Object Segmentation using Kernelized Memory Network with Multiple Kernels"
   authors: Hongje Seong, Junhyuk Hyun and Euntai Kim
   journal: "IEEE Transactions on Pattern Analysis and Machine Intelligence"
