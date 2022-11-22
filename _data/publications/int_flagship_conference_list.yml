@@ -1,3 +1,14 @@
+- title: "SHUNIT: Style Harmonization for Unpaired Image-to-Image Translation"
+  authors: Seokbeom Song, Suhyeon Lee, Hongje Seong, Kyoungwon Min and Euntai Kim
+  conference: Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI 2023)
+  year: 2023
+  month: February
+  venue: Washington, DC, USA
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
 - title: "Domain Adaptive Video Semantic Segmentation via Cross-Domain Moving Object Mixing"
   authors: Kyusik Cho, Suhyeon Lee, Hongje Seong and Euntai Kim
   conference: IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2023)
@@ -9,6 +20,7 @@
   page:
   page_exist: 0
   description: ""
+
 - title: "One-Trimap Video Matting"
   authors: Hongje Seong, Seoung Wug Oh, Brian Price, Euntai Kim and Joon-Young Lee
   conference: Proc. of the European Conference on Computer Vision (ECCV 2022)
