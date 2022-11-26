@@ -14,12 +14,12 @@
   authors: Suhyeon Lee, Sangyong Lee, Hongje Seong, Junhyuk Hyun and Euntai Kim
   journal: Expert Systems With Applications
   year: 2023
-  month:
-  vol:
+  month: Mar
+  vol: 213
   issue:
-  page:
-  description: "Accepted"
-  accepted: 1
+  page: 119242
+  description: ""
+  accepted: 0
 
 - title: "Video Object Segmentation using Kernelized Memory Network with Multiple Kernels"
   authors: Hongje Seong, Junhyuk Hyun and Euntai Kim
