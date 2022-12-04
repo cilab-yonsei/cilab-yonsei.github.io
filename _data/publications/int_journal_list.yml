@@ -10,6 +10,17 @@
 #  accepted:  
 
 #2023
+- title: "Street Floor Segmentation for a Wheeled Mobile Robot"
+  authors: Junhyuk Hyun, Suhan Woo and Euntai Kim
+  journal: "IEEE Access"
+  year: 2022
+  month:
+  vol:
+  issue:
+  page:
+  description: "Accepted"
+  accepted: 1
+
 - title: Fallen Person Detection for Autonomous Driving
   authors: Suhyeon Lee, Sangyong Lee, Hongje Seong, Junhyuk Hyun and Euntai Kim
   journal: Expert Systems With Applications
