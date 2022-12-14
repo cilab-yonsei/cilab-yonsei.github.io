@@ -10,6 +10,31 @@
 #  description:
 #  type: 2
 
+# 2022
+- title: Robust Feature Tracking for Better Visual-Inertial System using Dynamic Mask        
+  authors: Gyuhyeon Pak, Taeyoung Kim and Euntai Kim
+  conference: The 22nd International Conference on Control, Automation and Systems (ICCAS 2022)
+  year: 2022
+  month: November
+  venue: Busan, Korea
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+- title: RGB-D Semantic Segmentation for Mobile Robots        
+  authors:  Suyeon Kim, Suhyeon Lee and Euntai Kim
+  conference: The 22nd International Conference on Control, Automation and Systems (ICCAS 2022)
+  year: 2022
+  month: November
+  venue: Busan, Korea
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
 #2021
 - title: Improving Nighttime Object Detection by Generating Synthetic Nighttime Dataset from Daytime Dataset
   authors:
@@ -2334,7 +2359,6 @@
 #  venue: 
 #  description:
 #  type: 0
-
 - title: Day to Night Image Translation with Brightness Discriminator
   authors: 송석범, 이수현, 성홍제, 이영조, 김은태
   conference: 대한전자공학회 2022년도 하계종합학술대회
