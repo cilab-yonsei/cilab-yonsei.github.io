@@ -4,6 +4,18 @@
 #  year: 2020
 #  month: 3월
 #  description: ""
+- title: 제로 스타일 로스를 이용한 도메인 적응 장치 및 방법
+  authors: 김은태, 이수현, 현준혁, 성홍제
+  registration_number: 10-2483738
+  year: 2022
+  month: 12월
+  description: ""
+- title: 다중 객체의 박스-레벨 위치 정보만을 이용한 박스-레벨 다중 객체 동선 예측 장치
+  authors: 김은태, 이영조, 성홍제, 현준혁
+  registration_number: 10-2454281
+  year: 2022
+  month: 10월
+  description: ""
 - title: 인공 신경망 기반의 비정제 동영상에서의 행동 인식 방법 및 장치
   authors: 김은태, 성홍제, 현준혁
   registration_number: 10-2357000
