@@ -32,16 +32,16 @@
   description: ""
   accepted: 0
 
-- title: "Video Object Segmentation using Kernelized Memory Network with Multiple Kernels"
+- title: Video Object Segmentation Using Kernelized Memory Network With Multiple Kernels
   authors: Hongje Seong, Junhyuk Hyun and Euntai Kim
-  journal: "IEEE Transactions on Pattern Analysis and Machine Intelligence"
+  journal: IEEE Transactions on Pattern Analysis and Machine Intelligence
   year: 2023
-  month:
-  vol:
-  issue:
-  page:
-  description: "Accepted"
-  accepted: 1
+  month: February
+  vol: 45
+  issue: 2
+  page: 2595-2612
+  description: ""
+  accepted: 0
 
 - title: "SP-SLAM: Surfel-Point Simultaneous Localization and Mapping"
   authors: Hae Min Cho, HyungGi Jo and Euntai Kim
