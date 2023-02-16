@@ -146,6 +146,13 @@ We are a dynamic research group at the [School of Electrical and Electronic Engi
               <p>Mixture Density-PoseNet and Its Application to Monocular Camera-based Global Localization</p>
             </div>
         </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/IEEEAccess_CHM.png" alt="Slide" />
+            <div class="carousel-caption bg-dark mb-4">
+              <h3>IEEE Access</h3>
+              <p>Dynamic Object-Aware Visual Odometry (VO) Estimation Based on Optical Flow Matching</p>
+            </div>
+        </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
