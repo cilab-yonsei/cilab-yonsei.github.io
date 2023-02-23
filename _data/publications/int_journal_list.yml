@@ -10,6 +10,17 @@
 #  accepted:  
 
 #2023
+- title: Dynamic Object-Aware Visual Odometry (VO) Estimation Based on Optical Flow Matching
+  authors: Haemin Cho and Euntai Kim
+  journal: IEEE Access
+  year: 2023
+  month: Feb
+  vol: 11
+  issue:
+  page: 11642-11651
+  description: ""
+  accepted: 0
+
 - title: "Street Floor Segmentation for a Wheeled Mobile Robot"
   authors: Junhyuk Hyun, Suhan Woo and Euntai Kim
   journal: "IEEE Access"
