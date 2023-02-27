@@ -366,3 +366,33 @@
   cv:
     url:
     exist: 0
+
+- name: Minsung Kim
+  photo: minsungkim.jpg
+  info: Master's Degree Programs
+  email: planis43@yonsei.ac.kr
+  research:
+  affiliation: Samsung SDI
+  cv:
+    url:
+    exist: 0
+
+- name: Seokbeom Song
+  photo: seokbeomsong2.jpg
+  info: Master's Degree Programs
+  email: lgs5751@yonsei.ac.kr
+  research: Machine Vision Technology
+  affiliation: Hyundai Motors Company
+  cv:
+    url:
+    exist: 0
+
+- name: Junhyuk Jang
+  photo: junhyukjang.jpg
+  info: Master's Degree Programs
+  email: jhj216@yonsei.ac.kr
+  research: Intelligent Vehicle System
+  affiliation: Hyundai Mobis
+  cv:
+    url:
+    exist: 0

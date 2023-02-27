@@ -16,42 +16,12 @@
     url:
     exist: 0
 
-- name: Minsung Kim
-  photo: minsungkim.jpg
-  info: Master's Degree Programs
-  email: planis43@yonsei.ac.kr
-  research:
-  affiliation: SAMSUNG SDI
-  cv:
-    url:
-    exist: 0
-
 - name: Seokjin Bang
   photo: bio-photo.jpg
   info: Master's Degree Programs
   email: 
   research:
   affiliation: LG Electronics
-  cv:
-    url:
-    exist: 0
-
-- name: Seokbeom Song
-  photo: seokbeomsong2.jpg
-  info: Master's Degree Programs
-  email: lgs5751@yonsei.ac.kr
-  research: Machine Vision Technology
-  affiliation: HMC
-  cv:
-    url:
-    exist: 0
-
-- name: Junhyuk Jang
-  photo: junhyukjang.jpg
-  info: Master's Degree Programs
-  email: jhj216@yonsei.ac.kr
-  research: Intelligent Vehicle System
-  affiliation: HYUNDAI MOBIS
   cv:
     url:
     exist: 0
@@ -78,7 +48,7 @@
 
 - name: Sangje Park
   photo: sangjepark.jpg
-  info: 
+  info: Master's Degree Programs
   email: sangjaepark4s@gmail.com
   research:
   affiliation: Korean Electronics Technology Institute (KETI)
@@ -88,8 +58,48 @@
 
 - name: Doyeon Kim
   photo: doyeonkim.jpg
-  info: 
+  info: Master's Degree Programs
   email: vlzjtm@gmail.com
+  research:
+  affiliation: Korean Electronics Technology Institute (KETI)
+  cv:
+    url:
+    exist: 0
+
+- name: Kayeon Kim
+  photo: KayeonKim.jpg
+  info: Master's Degree Programs
+  email: Intelligent Vehicle System
+  research: 
+  affiliation: Hyundai Motors Company
+  cv:
+    url:
+    exist: 0 
+
+- name: Yechan Park
+  photo: YechanPark.jpg
+  info: Master's Degree Programs
+  email: 
+  research: Mobile Robotics
+  affiliation: Hyundai Motors Company
+  cv:
+    url:
+    exist: 0
+
+- name: Seokwon Choi
+  photo: SeokwonChoi.jpg
+  info: Master's Degree Programs
+  email: 
+  research: Intelligent Vehicle System
+  affiliation: Hyundai Mobis
+  cv:
+    url:
+    exist: 0
+
+- name: Jungmo Yang
+  photo: JungmoYang.jpg
+  info: Master's Degree Programs
+  email: 
   research:
   affiliation: Korean Electronics Technology Institute (KETI)
   cv:

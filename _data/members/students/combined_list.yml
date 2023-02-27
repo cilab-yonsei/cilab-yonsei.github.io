@@ -151,7 +151,7 @@
     exist: 0
 
 - name: Seunghyun Baik
-  photo: seunghyunbaik.jpg
+  photo: SeunghyunBaik2.jpg
   info: Master's/Doctoral Combined Programs
   email: shbaik104@yonsei.ac.kr
   research: Machine Vision Technology
@@ -206,6 +206,19 @@
   photo: jinwoojang.jpg
   info: Master’s/Doctoral Combined Program Students
   email: 0126jang@yonsei.ac.kr
+  research:
+  affiliation: 
+  cv:
+    url:
+    exist: 0
+  homepage:
+    url:
+    exist: 0
+
+- name: YooJin Kim
+  photo: YooJinKim.jpg
+  info: Master’s/Doctoral Combined Program Students
+  email: 
   research:
   affiliation: 
   cv:
