@@ -70,7 +70,7 @@
   photo: KayeonKim.jpg
   info: Master's Degree Programs
   email: Intelligent Vehicle System
-  research: 
+  research:
   affiliation: Hyundai Motors Company
   cv:
     url:
@@ -79,7 +79,7 @@
 - name: Yechan Park
   photo: YechanPark.jpg
   info: Master's Degree Programs
-  email: 
+  email:
   research: Mobile Robotics
   affiliation: Hyundai Motors Company
   cv:
@@ -89,7 +89,7 @@
 - name: Seokwon Choi
   photo: SeokwonChoi.jpg
   info: Master's Degree Programs
-  email: 
+  email:
   research: Intelligent Vehicle System
   affiliation: Hyundai Mobis
   cv:
@@ -99,7 +99,7 @@
 - name: Jungmo Yang
   photo: JungmoYang.jpg
   info: Master's Degree Programs
-  email: 
+  email:
   research:
   affiliation: Korean Electronics Technology Institute (KETI)
   cv:
