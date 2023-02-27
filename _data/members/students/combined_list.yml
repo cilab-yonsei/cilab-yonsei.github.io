@@ -154,7 +154,7 @@
   info: Master's/Doctoral Combined Programs
   email: mangyu0929@yonsei.ac.kr
   research: Mobile Robotics
-  affiliation: 
+  affiliation:
   cv:
     url:
     exist: 0
@@ -167,7 +167,7 @@
   info: Master’s/Doctoral Combined Program Students
   email: 0126jang@yonsei.ac.kr
   research:
-  affiliation: 
+  affiliation:
   cv:
     url:
     exist: 0
@@ -178,9 +178,9 @@
 - name: YooJin Kim
   photo: YooJinKim.jpg
   info: Master’s/Doctoral Combined Program Students
-  email: 
+  email:
   research:
-  affiliation: 
+  affiliation:
   cv:
     url:
     exist: 0
