@@ -32,33 +32,6 @@
     url:
     exist: 0
 
-- name: Hae Min Cho
-  photo: haemincho.jpg
-  info: Master's/Doctoral Combined Programs
-  email: hm.cho@yonsei.ac.kr
-  research: Mobile Robotics
-  affiliation: 
-  cv:
-    # url: https://cilab.yonsei.ac.kr/cv/cv_haemincho.pdf
-    url : https://drive.google.com/file/d/1JdzgcCRaTDYMFwCKOSoIecaq5g0VMp8p/view?usp=sharing
-    exist: 1
-  homepage:
-    url:
-    exist: 0
-
-- name: Wonje Jang
-  photo: wonjejang.jpg
-  info: Master's/Doctoral Combined Programs
-  email: jangwj1256@yonsei.ac.kr
-  research: Intelligent Vehicle System
-  affiliation: 
-  cv:
-    url:
-    exist: 0
-  homepage:
-    url:
-    exist: 0
-
 - name: Suhyeon Lee
   photo: suhyeonlee.jpg
   info: Master's/Doctoral Combined Programs
@@ -97,19 +70,6 @@
   homepage:
     url:
     exist: 0
-
-- name: Hongje Seong
-  photo: hongjeseong.jpg
-  info: Master's/Doctoral Combined Programs
-  email: hjseong@yonsei.ac.kr
-  research: Machine Vision Technology
-  affiliation: 
-  cv:
-    url: https://drive.google.com/file/d/1_zTYfTYeUUrEp1YUK-G1YY_7ITcB6OR4/view?usp=sharing # https://cilab.yonsei.ac.kr/cv/cv_hongjeseong.pdf
-    exist: 1
-  homepage:
-    url: https://hongje.github.io
-    exist: 1
 
 - name: Minseong Park
   photo: minseongpark.jpg
