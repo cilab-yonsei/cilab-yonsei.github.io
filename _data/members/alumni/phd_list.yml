@@ -173,7 +173,7 @@
   photo: jisukim.jpg
   info: Master's/Doctoral Combined Programs
   email: jisukim2000@yonsei.ac.kr
-  affiliation: SkyAutoNet  
+  affiliation: Alchera 
   cv:
     url:
     exist: 0
@@ -186,7 +186,7 @@
   info: Master's/Doctoral Combined Programs
   email: jhhyun@yonsei.ac.kr
   research: Machine Vision Technology
-  affiliation: 
+  affiliation: Phantom AI, SanFrancisco
   cv:
     url: https://cilab.yonsei.ac.kr/cv/cv_junhyukhyun.pdf
     exist: 1
@@ -199,7 +199,7 @@
   info: Master's/Doctoral Combined Programs
   email: hm.cho@yonsei.ac.kr
   research: Mobile Robotics
-  affiliation: 
+  affiliation: Hyundai Robotics
   cv:
     # url: https://cilab.yonsei.ac.kr/cv/cv_haemincho.pdf
     url : https://drive.google.com/file/d/1JdzgcCRaTDYMFwCKOSoIecaq5g0VMp8p/view?usp=sharing
@@ -226,7 +226,7 @@
   info: Master's/Doctoral Combined Programs
   email: hjseong@yonsei.ac.kr
   research: Machine Vision Technology
-  affiliation: 
+  affiliation: Samsung Advanced Institute of Technology (SAIT)
   cv:
     url: https://drive.google.com/file/d/1_zTYfTYeUUrEp1YUK-G1YY_7ITcB6OR4/view?usp=sharing # https://cilab.yonsei.ac.kr/cv/cv_hongjeseong.pdf
     exist: 1
