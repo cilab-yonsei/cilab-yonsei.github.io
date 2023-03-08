@@ -10,27 +10,6 @@
 #  accepted:  
 
 #2023
-- title: Dynamic Object-Aware Visual Odometry (VO) Estimation Based on Optical Flow Matching
-  authors: Haemin Cho and Euntai Kim
-  journal: IEEE Access
-  year: 2023
-  month: Feb
-  vol: 11
-  issue:
-  page: 11642-11651
-  description: ""
-  accepted: 0
-
-- title: "Street Floor Segmentation for a Wheeled Mobile Robot"
-  authors: Junhyuk Hyun, Suhan Woo and Euntai Kim
-  journal: "IEEE Access"
-  year: 2022
-  month: Dec
-  vol: 10
-  issue:
-  page: 127601-127609
-  description: ""
-  accepted: 0
 
 - title: Fallen Person Detection for Autonomous Driving
   authors: Suhyeon Lee, Sangyong Lee, Hongje Seong, Junhyuk Hyun and Euntai Kim
@@ -43,14 +22,38 @@
   description: ""
   accepted: 0
 
+- title: Dynamic Object-Aware Visual Odometry (VO) Estimation Based on Optical Flow Matching
+  authors: Haemin Cho and Euntai Kim
+  journal: IEEE Access
+  year: 2023
+  month: Feb
+  vol: 11
+  issue:
+  page: 11642-11651
+  description: ""
+  accepted: 0
+
 - title: Video Object Segmentation Using Kernelized Memory Network With Multiple Kernels
   authors: Hongje Seong, Junhyuk Hyun and Euntai Kim
   journal: IEEE Transactions on Pattern Analysis and Machine Intelligence
   year: 2023
-  month: February
+  month: Feb
   vol: 45
   issue: 2
   page: 2595-2612
+  description: ""
+  accepted: 0
+
+# 2022
+
+- title: "Street Floor Segmentation for a Wheeled Mobile Robot"
+  authors: Junhyuk Hyun, Suhan Woo and Euntai Kim
+  journal: "IEEE Access"
+  year: 2022
+  month: Dec
+  vol: 10
+  issue:
+  page: 127601-127609
   description: ""
   accepted: 0
 
@@ -65,7 +68,6 @@
   description: ""
   accepted: 0
 
-# 2022
 - title: Adjacent Feature Propagation Network (AFPNet) for Real-Time Semantic Segmentation
   authors: Junhyuk Hyun, Hongje Seong, Sangki Kim and Euntai Kim
   journal: "IEEE Transactions on Systems, Man, and Cybernetics: Systems"
