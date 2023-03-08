@@ -78,6 +78,7 @@
   page: 5877-5888
   description: ""
   accepted: 0
+
 - title: Real-time Driving Scene Understanding via Efficient 3-Dimensional LIDAR Processing
   authors: Wonje Jang, Minseong Park and Euntai Kim
   journal: IEEE Transactions on Instrumentation & Measurement
@@ -88,6 +89,7 @@
   page: 1-14
   description: ""
   accepted: 0
+
 - title: "Indoor Place Category Recognition for a Cleaning Robot by Fusing a Probabilistic Approach and Deep Learning"
   authors: Soowook Choe\*, Hongje Seong\* and Euntai Kim (\*equal contribution)
   journal: IEEE Transactions on Cybernetics
@@ -98,6 +100,7 @@
   page: 7265-7276
   description: ""
   accepted: 0
+
 - title: "Content Swapping: A New Image Synthesis for Construction Sign Detection in Autonomous Vehicles"
   authors: Hongje Seong, Seunghyun Baik, Youngjo Lee, Suhyeon Lee and Euntai Kim
   journal: Sensors
@@ -108,11 +111,12 @@
   page: 3494
   description: ""
   accepted: 0
+
 - title: "A Lane-level Road Marking Map using a Monocular Camera"
   authors: Wonje Jang, Junhyuk Hyun, Jhonghyun An, Minho Cho and Euntai Kim
   journal: IEEE/CAA Journal of Automatica Sinica
   year: 2022
-  month: Jaunuary
+  month: Jan
   vol: 9
   issue: 1
   page: 187-204
@@ -130,6 +134,7 @@
   page: 115084
   description: ""
   accepted: 0
+
 - title: "Novel On-Road Vehicle Detection System Using Multi-Stage Convolutional Neural Network"
   authors: Jisu Kim, Sungjun Hong and Euntai Kim
   journal: IEEE Access
@@ -140,6 +145,7 @@
   page: 94371-94385
   description: ""
   accepted: 0
+
 - title: "Novel Vehicle Bounding Box Tracking Using a Low-End 3D Laser Scanner"
   authors: Jhonghyun An and Euntai Kim
   journal: IEEE Transactions on Intelligent Transportation Systems
@@ -150,6 +156,7 @@
   page: 3403-3419
   description: ""
   accepted: 0
+
 - title: "Evidence-Theoretic Reentry Target Classification Using Radar: A Fuzzy Logic Approach"
   authors: Kwangyong Jung, Sawon Min, Jeongwoo Kim, Nammoon Kim, and Euntai Kim
   journal: IEEE Access
@@ -160,6 +167,7 @@
   page: 55567-55580
   description: ""
   accepted: 0
+
 - title: "Mixture Density-PoseNet and Its Application to Monocular Camera-based Global Localization"
   authors: HyungGi Jo, Woosub Lee and Euntai Kim
   journal: IEEE Transactions on Industrial Informatics
@@ -170,6 +178,7 @@
   page: 388-397
   description: ""
   accepted: 0
+  
 - title: "FOSNet: An End-to-End Trainable Deep Neural Network for Scene Recognition"
   authors: Hongje Seong, Junhyuk Hyun and Euntai Kim
   journal: IEEE Access
