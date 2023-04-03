@@ -40,35 +40,42 @@ We are a dynamic research group at the [School of Electrical and Electronic Engi
 
     </ol>
     <!-- Items -->
+
     <div class="carousel-inner" markdown="0">
+
         <div class="item active">
-          <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ECCV22_SHJ.png" alt="Slide" />
-            <div class="carousel-caption bg-dark mb-4">
-              <h3>ECCV 2022</h3>
-              <p>One-Trimap Video Matting</p>
-            </div>
-        </div>
-		<div class="item">
           <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/TPAMI_SHJ.png" alt="Slide" />
             <div class="carousel-caption bg-dark mb-4">
-              <h3>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</h3>
+              <h3>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI 2023)</h3>
               <p>Video Object Segmentation using Kernelized Memory Network with Multiple Kernels</p>
             </div>
         </div>
+
+    <div class="item">
+          <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ECCV22_SHJ.png" alt="Slide" />
+            <div class="carousel-caption bg-dark mb-4">
+              <h3>European Conference on Computer Vision (ECCV 2022)</h3>
+              <p>One-Trimap Video Matting</p>
+            </div>
+        </div>
+
 		<div class="item">
           <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/CVPR2022_LSH.png" alt="Slide" />
             <div class="carousel-caption bg-dark mb-4">
-              <h3>CVPR 2022</h3>
+              <h3>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2022)</h3>
               <p>WildNet: Learning Domain Generalized Semantic Segmentation from the Wild</p>
             </div>
         </div>
+
 		<div class="item">
           <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/CVPR2022_LSW.jpg" alt="Slide" />
             <div class="carousel-caption bg-dark mb-4">
-              <h3>CVPR 2022 <b>(Oral Presentation)</b></h3>
+              <h3>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2022)<b>(Oral Presentation)</b></h3>
               <p>Correlation Verification for Image Retrieval</p>
             </div>
         </div>
+
+        <!-- 조교수 임명 내용 -->
         <div class="item">
           <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/AJH_gachon.png" alt="Slide" />
             <div class="carousel-caption bg-dark mb-4">
@@ -76,83 +83,87 @@ We are a dynamic research group at the [School of Electrical and Electronic Engi
               <p></p>
             </div>
         </div>
+
         <div class="item">
           <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/TSMCS_HJH.png" alt="Slide " />
             <div class="carousel-caption bg-dark mb-4">
-              <h3>IEEE Transactions on Systems, Man, and Cybernetics: Systems</h3>
+              <h3>IEEE Transactions on Systems, Man, and Cybernetics: Systems 2022</h3>
               <p>Adjacent Feature Propagation Network (AFPNet) for Real-Time Semantic Segmentation</p>
             </div>
         </div>
+
         <div class="item">
           <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/AAAI_PMS_LYJ.png" alt="Slide" />
             <div class="carousel-caption bg-dark mb-4">
-              <h3>AAAI 2022</h3>
+              <h3>AAAI Conference on Artificial Intelligence (AAAI 2022)</h3>
               <p>Graph-Based Point Tracker for 3D Object Tracking in Point Clouds <br>Iteratively Selecting an Easy Reference Frame Makes Unsupervised Video Object Segmentation Easier</p>
             </div>
         </div>
         <div class="item">
           <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/TMECH_CHM.png" alt="Slide" />
             <div class="carousel-caption bg-dark mb-4">
-              <h3>IEEE Transactions on Mechatronics</h3>
+              <h3>IEEE Transactions on Mechatronics 2022</h3>
               <p>SP-SLAM: Surfel-Point Simultaneous Localization and Mapping</p>
             </div>
         </div>
         <div class="item">
           <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ICCV_SHJ.png" alt="Slide" />
             <div class="carousel-caption bg-dark mb-4">
-              <h3>ICCV 2021</h3>
+              <h3>International Conference on Computer Vision (ICCV 2021)</h3>
               <p>Hierarchical Memory Matching Network for Video Object Segmentation</p>
             </div>
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/JAS_JWJ.png" alt="Slide" />
             <div class="carousel-caption bg-dark mb-4">
-              <h3>IEEE/CAA Journal of Automatica Sinica</h3>
+              <h3>IEEE/CAA Journal of Automatica Sinica 2022</h3>
               <p>A Lane-level Road Marking Map using a Monocular Camera</p>
             </div>
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/TCYB_CSW.png" alt="Slide" />
             <div class="carousel-caption bg-dark mb-4">
-              <h3>IEEE Transactions on Cybernetics</h3>
+              <h3>IEEE Transactions on Cybernetics 2022</h3>
               <p>Indoor Place Category Recognition for a Cleaning Robot by Fusing a Probabilistic Approach and Deep Learning</p>
             </div>
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/AAAI_LSH.png" alt="Slide" />
             <div class="carousel-caption bg-dark mb-4">
-              <h3>AAAI 2021</h3>
+              <h3>AAAI Conference on Artificial Intelligence (AAAI 2021)</h3>
               <p>Unsupervised Domain Adaptation for Semantic Segmentation by Content Transfer</p>
             </div>
         </div>
-        <div class="item">
+
+        <!-- <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ECCV_SHJ.png" alt="Slide" />
             <div class="carousel-caption bg-dark mb-4">
               <h3>ECCV 2020</h3>
               <p>Kernelized Memory Network for Video Object Segmentation</p>
             </div>
-        </div>
+        </div> -->
+
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/TITS_AJH.png" alt="Slide" />
             <div class="carousel-caption bg-dark mb-4">
-              <h3>IEEE Transactions on Intelligent Transportation Systems (TITS)</h3>
+              <h3>IEEE Transactions on Intelligent Transportation Systems (TITS 2021)</h3>
               <p>Novel Vehicle Bounding Box Tracking Using a Low-End 3D Laser Scanner</p>
             </div>
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/TII_JHG.png" alt="Slide" />
             <div class="carousel-caption bg-dark mb-4">
-              <h3>IEEE Transactions on Industrial Informatics (TII)</h3>
+              <h3>IEEE Transactions on Industrial Informatics (TII 2021)</h3>
               <p>Mixture Density-PoseNet and Its Application to Monocular Camera-based Global Localization</p>
             </div>
         </div>
-        <div class="item">
+        <!-- <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/IEEEAccess_CHM.png" alt="Slide" />
             <div class="carousel-caption bg-dark mb-4">
               <h3>IEEE Access</h3>
               <p>Dynamic Object-Aware Visual Odometry (VO) Estimation Based on Optical Flow Matching</p>
             </div>
-        </div>
+        </div> -->
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>

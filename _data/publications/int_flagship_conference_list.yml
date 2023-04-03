@@ -1,3 +1,15 @@
+- title: "WiFi-Based Localization forFail-Aware Autonomous Driving in Urban Scenarios"
+  authors: Carlos Guindel, Adrián García Sánchez, NoeliaHernández, Ignacio Parra and Euntai Kim
+  conference: IEEE Intelligent Vehicles Symposium (IEEE IV 2023)
+  year: 2023
+  month: June
+  venue: Anchorage, Alaske
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+
 - title: "Revisiting Self-Similarity: Structural Embedding for Image Retrieval"
   authors: Seongwon Lee, Suhyeon Lee, Hongje Seong and Euntai Kim
   conference: Proc. of the 2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2023)
