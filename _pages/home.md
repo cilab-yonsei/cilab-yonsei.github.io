@@ -99,7 +99,6 @@ We are a dynamic research group at the [School of Electrical and Electronic Engi
               <p>Adjacent Feature Propagation Network (AFPNet) for Real-Time Semantic Segmentation</p>
             </div>
         </div>
-
         <div class="item">
           <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/AAAI_PMS_LYJ.png" alt="Slide" />
             <div class="carousel-caption bg-dark mb-4">
@@ -112,13 +111,6 @@ We are a dynamic research group at the [School of Electrical and Electronic Engi
             <div class="carousel-caption bg-dark mb-4">
               <h3>IEEE Transactions on Mechatronics 2022</h3>
               <p>SP-SLAM: Surfel-Point Simultaneous Localization and Mapping</p>
-            </div>
-        </div>
-        <div class="item">
-          <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ICCV_SHJ.png" alt="Slide" />
-            <div class="carousel-caption bg-dark mb-4">
-              <h3>International Conference on Computer Vision (ICCV 2021)</h3>
-              <p>Hierarchical Memory Matching Network for Video Object Segmentation</p>
             </div>
         </div>
         <div class="item">
@@ -135,6 +127,14 @@ We are a dynamic research group at the [School of Electrical and Electronic Engi
               <p>Indoor Place Category Recognition for a Cleaning Robot by Fusing a Probabilistic Approach and Deep Learning</p>
             </div>
         </div>
+
+        <div class="item">
+          <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ICCV_SHJ.png" alt="Slide" />
+            <div class="carousel-caption bg-dark mb-4">
+              <h3>International Conference on Computer Vision (ICCV 2021)</h3>
+              <p>Hierarchical Memory Matching Network for Video Object Segmentation</p>
+            </div>
+        </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/AAAI_LSH.png" alt="Slide" />
             <div class="carousel-caption bg-dark mb-4">
@@ -142,7 +142,6 @@ We are a dynamic research group at the [School of Electrical and Electronic Engi
               <p>Unsupervised Domain Adaptation for Semantic Segmentation by Content Transfer</p>
             </div>
         </div>
-
         <!-- <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ECCV_SHJ.png" alt="Slide" />
             <div class="carousel-caption bg-dark mb-4">
