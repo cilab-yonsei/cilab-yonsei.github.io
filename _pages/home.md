@@ -46,7 +46,7 @@ We are a dynamic research group at the [School of Electrical and Electronic Engi
         <div class="item active">
           <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/CVPR2023_LSW.png" alt="Slide" />
             <div class="carousel-caption bg-dark mb-4">
-              <h3>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2023)</h3>
+              <h3>Conference on Computer Vision and Pattern Recognition (CVPR 2023)</h3>
               <p>Revisiting Self-Similarity: Structural Embedding for Image Retrieval</p>
             </div>
         </div>
@@ -70,7 +70,7 @@ We are a dynamic research group at the [School of Electrical and Electronic Engi
 		<div class="item">
           <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/CVPR2022_LSH.png" alt="Slide" />
             <div class="carousel-caption bg-dark mb-4">
-              <h3>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2022)</h3>
+              <h3>Conference on Computer Vision and Pattern Recognition (CVPR 2022)</h3>
               <p>WildNet: Learning Domain Generalized Semantic Segmentation from the Wild</p>
             </div>
         </div>
@@ -78,7 +78,7 @@ We are a dynamic research group at the [School of Electrical and Electronic Engi
 		<div class="item">
           <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/CVPR2022_LSW.jpg" alt="Slide" />
             <div class="carousel-caption bg-dark mb-4">
-              <h3>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2022)<b>(Oral Presentation)</b></h3>
+              <h3>Conference on Computer Vision and Pattern Recognition (CVPR 2022)<b>(Oral Presentation)</b></h3>
               <p>Correlation Verification for Image Retrieval</p>
             </div>
         </div>
