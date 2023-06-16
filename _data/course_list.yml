@@ -1,3 +1,23 @@
+- title: SPECIAL TOPICS IN COTROL AND SYSTEMS (I)
+  number: EEE9710
+  year: 2023
+  semester: Spring
+
+- title: ELECTRICAL AND ELECTRONIC ENGINEERING CAPSTONE DESIGN
+  number: EEE4610
+  year: 2023
+  semester: Spring
+
+- title: INTELLIGENT CONTROL
+  number: EEE4110
+  year: 2023
+  semester: Spring
+
+- title: INTELLIGENT CONTROL
+  number: EEE4110
+  year: 2023
+  semester: Spring
+
 - title: INTRODUCTION ARTIFICIAL INTELLIGENCE
   number: EEE3314
   year: 2022
@@ -15,10 +35,12 @@
   number: EEE4110
   year: 2022
   semester: Spring
+
 - title: ELECTRICAL AND ELECTRONIC ENGINEERING CAPSTONE DESIGN
   number: EEE4610
   year: 2022
   semester: Spring
+
 - title: PROBABILISTIC ROBOTICS 2
   number: EEE7761
   year: 2022
@@ -37,6 +59,7 @@
   number: EEE4110
   year: 2021
   semester: Spring
+
 - title: INTRODUCTORY DIGITAL LABS
   number: EEE3313
   year: 2021
@@ -223,14 +246,17 @@
   number: EEE3310
   year: 2011
   semester: Fall
+
 - title: ELECTRIC POWER AND CONTROL ENGINEERING LAB
   number: EEE4476
   year: 2011
   semester: Fall
+
 - title: ROBOT CONTROL SYSTEM
   number: EEE5720
   year: 2011
   semester: Fall
+
 - title: SPECIAL TOPICS IN COTROL AND SYSTEMS (I)
   number: EEE9710
   year: 2011
