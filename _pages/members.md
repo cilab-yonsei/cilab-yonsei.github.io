@@ -291,7 +291,7 @@ Jump to [Master's/Doctoral Combined Program Students](#combined-students), [PhD 
 {% endif %}
 
 
-## PhD Program Students <a id="undergraduate-students"></a>
+## Undergraduate Students <a id="undergraduate-students"></a>
 {% assign number_printed = 0 %}
 {% for member in site.data.members.students.under_list %}
 
