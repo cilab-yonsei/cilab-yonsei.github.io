@@ -105,3 +105,13 @@
   cv:
     url:
     exist: 0 
+
+- name: Hongchan Jo
+  photo: johongchan.jpg
+  info: Master's Degree Programs
+  email: 
+  research: Machine Vision Technology
+  affiliation: 
+  cv:
+    url:
+    exist: 0 
