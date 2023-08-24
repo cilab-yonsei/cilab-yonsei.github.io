@@ -1,3 +1,11 @@
+- title: "RoomNeRF: Representing Empty Room as Neural Radiance Fields for View Synthesis"
+  authors: Mangyu Kong ,Seongwon Lee and Euntai Kim
+  conference: The 34th British Machine Vision Conference (BMVC 2023)
+  year: 2023
+  month: November
+  venue:  Aberdeen, UK 
+  description: ""
+
 - title: "WiFi-Based Localization for Fail-Aware Autonomous Driving in Urban Scenarios"
   authors: Carlos Guindel, Adrián García Sánchez, Noelia Hernández, Ignacio Parra and Euntai Kim
   conference: Proc. of the IEEE Intelligent Vehicle Symposium (IV 2023)
