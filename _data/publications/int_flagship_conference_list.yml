@@ -4,6 +4,10 @@
   year: 2023
   month: November
   venue:  Aberdeen, UK 
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
   description: ""
 
 - title: "WiFi-Based Localization for Fail-Aware Autonomous Driving in Urban Scenarios"
