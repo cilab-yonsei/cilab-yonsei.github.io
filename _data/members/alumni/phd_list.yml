@@ -233,3 +233,30 @@
   homepage:
     url: https://hongje.github.io
     exist: 1
+
+    
+- name: Suhyeon Lee
+  photo: suhyeonlee.jpg
+  info: Master's/Doctoral Combined Programs
+  email: hyeon93@yonsei.ac.kr
+  research: Machine Vision Technology
+  affiliation: Korea Electronics Technology Institute (KETI)
+  cv:
+    url: https://drive.google.com/file/d/1BdeR633bTYXYoMqY3X3wTh67CG6bsjDa/view?usp=sharing
+    exist: 1
+  homepage:
+    url: https://suhyeonlee.github.io
+    exist: 1
+
+- name: Seongwon Lee
+  photo: seongwonlee.jpg
+  info: Master's/Doctoral Combined Programs
+  email: won4113@yonsei.ac.kr
+  research: Mobile Robotics
+  affiliation: Electronics and Telecommunications Research Institute (ETRI)
+  cv:
+    url: https://drive.google.com/file/d/11JOSPNvPueqDmAP_dmNoHoNHaKVTLIqX/view?usp=sharing
+    exist: 1
+  homepage:
+    url: https://sungonce.github.io
+    exist: 1
