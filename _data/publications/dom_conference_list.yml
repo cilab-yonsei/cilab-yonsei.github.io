@@ -6,7 +6,9 @@
 #  venue: 
 #  description:
 
-
+############################################
+# 이 파일 수정하지 말고 others.yml에 적을 것 #
+############################################
 
 #2022
 - title: Day to Night Image Translation with Brightness Discriminator

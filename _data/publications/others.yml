@@ -2359,7 +2359,25 @@
 #  venue: 
 #  description:
 #  type: 0
+
 #2023
+- title: 도로 환경에서 촬영된 영상 데이터에서 이동 평균 필터를 이용한 촬영 차량의 움직이는 속도 추정
+  authors: 이영조, 조홍찬, 김은태
+  conference: 대한전자공학회 추계학술대회
+  year: 2023
+  month: 11월
+  venue: 시흥
+  description:
+  type: 0
+
+- title: Image-to-Image Translation in Adverse Weather for HQ Images
+  authors: 이영조, 박민성, 김은태
+  conference: 한국 ITS 추계학술대회
+  year: 2023
+  month: 11월
+  venue: 제주도
+  description:
+  type: 0
 
 - title: "지상 로봇을 위한 라이다-관성 주행 거리 기록계/슬램 알고리즘 성능 비교 분석"
   authors: 김태영, 박예찬, 김은태
@@ -2369,6 +2387,25 @@
   venue: 삼척
   description: ""
   type: 0
+
+- title: 자율주행차량을 위한 라이다 안개 데이터 생성 알고리즘
+  authors: 박민성, 이영조, 오장원, 최석원, 김은태
+  conference: 한국 ITS 춘계학술대회
+  year: 2023
+  month: 4월
+  venue: 여수
+  description:
+  type: 0
+
+- title: 단일 이미지 3차원화를 통한 단일 이미지의 시점 변환
+  authors: 이영조, 김수연, 박민성, 김은태
+  conference: 한국 ITS 춘계학술대회
+  year: 2023
+  month: 4월
+  venue: 여수
+  description:
+  type: 0
+
 
 - title: Day to Night Image Translation with Brightness Discriminator
   authors: 송석범, 이수현, 성홍제, 이영조, 김은태

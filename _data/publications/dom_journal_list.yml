@@ -9,6 +9,10 @@
 #  description: 
 #  accepted:
 
+############################################
+# 이 파일 수정하지 말고 others.yml에 적을 것 #
+############################################
+
 
 - title: "A Deep Convolutional Neural Network Based 6-DOF Relocalization with Sensor Fusion System"
   authors:
