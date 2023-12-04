@@ -10,6 +10,16 @@
 #  accepted:  
 
 #2023
+- title : 3D LiDAR Multi-Object Tracking with Short-Term and Long-Term Multi-Level Associations
+  author : Minho Cho and Euntai Kim
+  journal : Remote Sensing
+  vol : 15
+  issue : 23
+  page : 5486
+  year : 2023
+  description: ""
+  accepted: 0
+
 - title: Implicit Point Function for LiDAR Super-Resolution in Autonomous Driving
   authors: Minseong Park, Haengseon Son and Euntai Kim
   journal: IEEE Robotics and Automation Letters

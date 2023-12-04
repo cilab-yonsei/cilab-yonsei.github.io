@@ -2360,6 +2360,7 @@
 #  description:
 #  type: 0
 #2023
+
 - title: "지상 로봇을 위한 라이다-관성 주행 거리 기록계/슬램 알고리즘 성능 비교 분석"
   authors: 김태영, 박예찬, 김은태
   conference: 제 38회 제어로봇시스템학회 학술대회(ICROS 2023)
@@ -2391,6 +2392,15 @@
   year: 2022
   month: May
   venue: Jeju
+  description: ""
+  type: 0
+
+- title: 점 군에서의 3차원 단일 물체 추적을 위한 모듈
+  authors: 박민성, 성홍제, 장원제, 김은태
+  conference: 한국지능시스템학회 2022년 춘계학술대회
+  year: 2022
+  month: 5
+  venue: 한경대학교
   description: ""
   type: 0
 
