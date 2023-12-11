@@ -44,6 +44,14 @@ We are a dynamic research group at the [School of Electrical and Electronic Engi
     <div class="carousel-inner" markdown="0">
 
         <div class="item active">
+          <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ICCV2023SLAM_KTY.png" alt="Slide" />
+            <div class="carousel-caption bg-dark mb-4">
+              <h3>International Conference on Computer Vision 2023 Workshop (ICCV 2023 Workshop)</h3>
+              <p>Ranked 4th place in LiDAR-inertial track, ICCV 2023 SLAM Challenge</p>
+            </div>
+        </div>
+        
+    <div class="item">
           <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/CVPR2023_LSW.png" alt="Slide" />
             <div class="carousel-caption bg-dark mb-4">
               <h3>Conference on Computer Vision and Pattern Recognition (CVPR 2023)</h3>
