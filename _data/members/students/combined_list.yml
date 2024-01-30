@@ -171,6 +171,9 @@
   cv:
     url:
     exist: 0
+  homepage:
+    url:
+    exist: 0
     
 - name: Jaewon Lee  
   photo: LeeJaewon.jpg
@@ -179,5 +182,8 @@
   research: Mobile Robotics
   affiliation: 
   cv:
+    url:
+    exist: 0
+  homepage:
     url:
     exist: 0
