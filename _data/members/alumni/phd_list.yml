@@ -270,6 +270,9 @@
   cv:
     url:
     exist: 0
+  homepage:
+    url:
+    exist: 0
     
 - name: Yong Hoon Jang
   photo: yonghoonjang.jpg
@@ -278,6 +281,9 @@
   research: 
   affiliation: Korea Automotive Technology Institute (Katech)
   cv:
+    url:
+    exist: 0
+  homepage:
     url:
     exist: 0
     
