@@ -26,16 +26,6 @@
     url:
     exist: 0
 
-- name: Yong Hoon Jang
-  photo: yonghoonjang.jpg
-  info: Doctoral Degree Programs
-  email: matice1116@gmail.com
-  research: Fuzzy Control
-  affiliation: 
-  cv:
-    url:
-    exist: 0
-
 - name: Moon Hwan Kim
   photo: moonhwankim.jpg
   info: Doctoral Degree Programs
@@ -56,13 +46,3 @@
     url:
     exist: 0
      
-- name: KwangYong Jung
-  photo: kwangyongjung.jpg
-  info: Doctoral Degree Programs
-  email: kyjung@yonsei.ac.kr
-  research: 
-  affiliation: Hanwha Systems
-  cv:
-    url:
-    exist: 0
-    
