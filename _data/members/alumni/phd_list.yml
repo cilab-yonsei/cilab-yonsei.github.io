@@ -260,3 +260,24 @@
   homepage:
     url: https://sungonce.github.io
     exist: 1
+
+- name: KwangYong Jung
+  photo: kwangyongjung.jpg
+  info: Doctoral Degree Programs
+  email: kyjung@yonsei.ac.kr
+  research: 
+  affiliation: Hanwha Systems
+  cv:
+    url:
+    exist: 0
+    
+- name: Yong Hoon Jang
+  photo: yonghoonjang.jpg
+  info: Doctoral Degree Programs
+  email: matice1116@gmail.com
+  research: 
+  affiliation: Korea Automotive Technology Institute (Katech)
+  cv:
+    url:
+    exist: 0
+    

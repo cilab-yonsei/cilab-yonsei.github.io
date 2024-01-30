@@ -161,3 +161,23 @@
   homepage:
     url:
     exist: 0
+    
+- name: Sangho Kim
+  photo: kimsangho2.jpg
+  info: Master’s/Doctoral Combined Program Students
+  email: lastwinner97@yonsei.ac.kr
+  research: Machine Vision Technology
+  affiliation: 
+  cv:
+    url:
+    exist: 0
+    
+- name: Jaewon Lee  
+  photo: LeeJaewon.jpg
+  info: Master’s/Doctoral Combined Program Students
+  email: jawwoni@naver.com
+  research: Mobile Robotics
+  affiliation: 
+  cv:
+    url:
+    exist: 0

@@ -26,36 +26,6 @@
     url:
     exist: 0
 
-- name: TaeYoung Kim
-  photo: taeyoungkim.jpg
-  info: Master's Degree Programs
-  email: tyoung96@yonsei.ac.kr
-  research: Mobile Robotics
-  affiliation: HYUNDAI MOBIS
-  cv:
-    url:
-    exist: 0
-
-- name: Suyeon Kim
-  photo: suyeonkim2.jpg
-  info: Master's Degree Programs
-  email: su-yeon.kim@yonsei.ac.kr
-  research: Machine Vision Technology
-  affiliation: HYUNDAI MOBIS
-  cv:
-    url:
-    exist: 0
-
-- name: Sangje Park
-  photo: sangjepark.jpg
-  info: Master's Degree Programs
-  email: sangjaepark4s@gmail.com
-  research:
-  affiliation: Korean Electronics Technology Institute (KETI)
-  cv:
-    url:
-    exist: 0    
-
 - name: Doyeon Kim
   photo: doyeonkim.jpg
   info: Master's Degree Programs
@@ -115,3 +85,34 @@
   cv:
     url:
     exist: 0 
+
+- name: Youjin Jeon  
+  photo: JeonYoujin.png
+  info: Master's Degree Programs
+  email: ngbrjyj@naver.com
+  research: Machine Vision Technology
+  affiliation: 
+  cv:
+    url:
+    exist: 0 
+
+- name: Seunghan Yu   
+  photo: YuSeunghan.jpg
+  info: Master's Degree Programs
+  email: starysh000@gmail.com
+  research: Mobile Robotics
+  affiliation: LG Electronics
+  cv:
+    url:
+    exist: 0 
+
+- name: Beomjun Kim   
+  photo: KimBeomjun.jpg
+  info: Master's Degree Programs
+  email: three0330@naver.com
+  research: Intelligent Vehicle System
+  affiliation: Hyundai Motors Company
+  cv:
+    url:
+    exist: 0 
+\

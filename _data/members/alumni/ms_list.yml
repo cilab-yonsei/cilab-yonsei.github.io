@@ -396,3 +396,33 @@
   cv:
     url:
     exist: 0
+    
+- name: Sangje Park
+  photo: sangjepark.jpg
+  info: Master's Degree Programs
+  email: sangjaepark4s@gmail.com
+  research:
+  affiliation: Korean Electronics Technology Institute (KETI)
+  cv:
+    url:
+    exist: 0    
+    
+- name: TaeYoung Kim
+  photo: taeyoungkim.jpg
+  info: Master's Degree Programs
+  email: tyoung96@yonsei.ac.kr
+  research: 
+  affiliation: HYUNDAI MOBIS
+  cv:
+    url:
+    exist: 0
+
+- name: Suyeon Kim
+  photo: suyeonkim2.jpg
+  info: Master's Degree Programs
+  email: su-yeon.kim@yonsei.ac.kr
+  research: 
+  affiliation: HL Klemov
+  cv:
+    url:
+    exist: 0
