@@ -4,6 +4,24 @@
 #  year: 2020
 #  month: 3월
 #  description: ""
+
+- title: 적대적 생성 신경망을 이용한 배경에 문맥적으로 적합한 포트홀 영상 생성 방법 및 장치
+  authors: 김은태,이상용,이수현
+  registration_number: 10-2607905
+  year: 2023
+  month: 11월
+  description: ""
+  - title: 컨텐츠 전송을 이용한 도메인 적응에서의 클래스 불균형 해결 장치 및 방법
+  authors: 김은태,이수현,성홍제,현준혁
+  registration_number: 10-2595207
+  year: 2023
+  month: 10월
+  description: ""- title: 광학 흐름을 이용한 합성 동영상 생성 방법
+  authors: 김은태,이수현
+  registration_number: 10-2586637
+  year: 2023
+  month: 10월
+  description: ""
 - title: 레이저 스캔 데이터를 이용한 물체의 속도 검출 장치 및 그 방법
   authors: 이승목,김현주,장형선,유민균,박성근,김은태,안종현,장원제,조민호
   registration_number: 10-2506844
