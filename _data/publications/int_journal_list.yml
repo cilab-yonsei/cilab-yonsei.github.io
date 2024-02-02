@@ -9,6 +9,16 @@
 #  description: 
 #  accepted:  
 
+- title : Drivable Region Completion via a 3D LiDAR
+  authors : Wonje Jang and Euntai Kim
+  journal : Transactions on Intelligent Transportation Systems
+  vol : 
+  issue : 
+  page : 
+  year : 2024
+  description: ""
+  accepted: 0
+  
 #2023
 - title : 3D LiDAR Multi-Object Tracking with Short-Term and Long-Term Multi-Level Associations
   authors : Minho Cho and Euntai Kim
