@@ -37,7 +37,7 @@
   description: ""
   type: 2
 
-  - title: "Tilted Image Problem in Outdoor Semantic Segmentation"
+- title: "Tilted Image Problem in Outdoor Semantic Segmentation"
   authors: Suhan Woo, Sungjin Jo, Minho Cho, Junhyuk Hyun and Euntai Kim
   conference: Proc. of the 19th International Conference on Ubiquitous Robots (UR 2022)
   year: 2022
@@ -49,6 +49,7 @@
   page_exist: 0
   description: ""
   type: 2
+
 #2021
 - title: Improving Nighttime Object Detection by Generating Synthetic Nighttime Dataset from Daytime Dataset
   authors:
