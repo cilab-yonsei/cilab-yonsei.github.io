@@ -23,6 +23,7 @@
   page_exist: 0
   description: ""
   type: 2
+
 - title: RGB-D Semantic Segmentation for Mobile Robots        
   authors:  Suyeon Kim, Suhyeon Lee and Euntai Kim
   conference: The 22nd International Conference on Control, Automation and Systems (ICCAS 2022)
@@ -35,6 +36,20 @@
   page_exist: 0
   description: ""
   type: 2
+
+- title: "Tilted Image Problem in Outdoor Semantic Segmentation"
+  authors: Suhan Woo, Sungjin Jo, Minho Cho, Junhyuk Hyun and Euntai Kim
+  conference: Proc. of the 19th International Conference on Ubiquitous Robots (UR 2022)
+  year: 2022
+  month: July
+  venue: Jeju, Korea
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
+
 #2021
 - title: Improving Nighttime Object Detection by Generating Synthetic Nighttime Dataset from Daytime Dataset
   authors:
