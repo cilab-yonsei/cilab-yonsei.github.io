@@ -2375,40 +2375,6 @@
 #  description:
 #  type: 0
 
-#2024
-- title: Fine to Coarse: A Multi-Decoder Approach for Detailed 3D Mapping in Grid-Based NeRF
-  authors: 공만규, 장진우, 김은태
-  conference: 제 19회 한국로봇종합학술대회
-  year: 2024
-  month: 2월
-  venue: 평창
-  description:
-  type: 0
-- title: 공장 환경에서의 전역 설명자를 활용한 이동 로봇의 초기 위치 추정
-  authors: 박예찬, 박규현, 김은태
-  conference: 제 19회 한국로봇종합학술대회
-  year: 2024
-  month: 2월
-  venue: 평창
-  description:
-  type: 0
-- title: Image feature resolution에 따른 bird's eye view semantic segmentation 성능 분석
-  authors: 우수한, 김태영, 김은태
-  conference: 제 19회 한국로봇종합학술대회
-  year: 2024
-  month: 2월
-  venue: 평창
-  description:
-  type: 0
-- title: 제조 공장을 위한 가상‑현실 도메인 적응
-  authors: 김수연, 조규식, 김은태
-  conference: 제 19회 한국로봇종합학술대회
-  year: 2024
-  month: 2월
-  venue: 평창
-  description:
-  type: 0
-
 #2023
 
 - title: 시계열 모델들을 활용한 촬영 차량의 움직이는 속도 추정
