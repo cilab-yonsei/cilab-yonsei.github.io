@@ -10,6 +10,17 @@
 #  accepted:  
 
 #2024
+- title: "GRIL-Calib: Targetless Ground Robot IMU-LiDAR Extrinsic Calibration Method using Ground Plane Motion Constraints"
+  authors: TaeYoung Kim, Gyuhyeon Pak and Euntai Kim
+  journal: IEEE Robotics and Automation Letters
+  year: 2024
+  month:
+  vol:
+  issue:
+  page:
+  description: ""
+  accepted: 1
+  
 - title : Drivable Region Completion via a 3D LiDAR
   authors : Wonje Jang and Euntai Kim
   journal : IEEE Transactions on Intelligent Transportation Systems

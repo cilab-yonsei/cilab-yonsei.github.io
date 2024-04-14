@@ -1,3 +1,15 @@
+- title: "Implicit Point Function for LiDAR Super-Resolution in Autonomous Driving"
+  authors: Minseong Park, Haengseon Son and Euntai Kim
+  conference: 2024 IEEE International Conference on Robotics and Automation
+  year: 2024
+  month: May
+  venue: Yokohama, Japan
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: "(also published in IEEE RA-L)"
+
 - title: "RoomNeRF: Representing Empty Room as Neural Radiance Fields for View Synthesis"
   authors: Mangyu Kong ,Seongwon Lee and Euntai Kim
   conference: The 34th British Machine Vision Conference (BMVC 2023)
