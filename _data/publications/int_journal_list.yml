@@ -14,12 +14,12 @@
   authors: TaeYoung Kim, Gyuhyeon Pak and Euntai Kim
   journal: IEEE Robotics and Automation Letters
   year: 2024
-  month:
-  vol:
-  issue:
-  page:
+  month: JUNE
+  vol: 9
+  issue: 6
+  page: 5409-5416
   description: ""
-  accepted: 1
+  accepted: 0
   
 - title : Drivable Region Completion via a 3D LiDAR
   authors : Wonje Jang and Euntai Kim
