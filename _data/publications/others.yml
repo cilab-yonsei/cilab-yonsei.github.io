@@ -10,6 +10,7 @@
 #  description:
 #  type: 2
 
+
 # 2024
 - title: Anomaly Segmentation for Unmanned Ground Vehicle in Complex Scenes
   authors: Suyeon Kim, Youngjo Lee and Euntai Kim
@@ -17,7 +18,11 @@
   year: 2024
   month: January
   venue: Taipei, Taiwan
-  description:
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
   type: 2
 
 - title: BEV Perception Methods for Autonomous Driving
@@ -26,9 +31,12 @@
   year: 2024
   month: January
   venue: Taipei, Taiwan
-  description:
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
   type: 2
-
 
 # 2022
 - title: Robust Feature Tracking for Better Visual-Inertial System using Dynamic Mask        
