@@ -10,6 +10,17 @@
 #  accepted:  
 
 #2024
+- title: "Finite-Plane Simultaneous Localization and Mapping (FP-SLAM): A New RGB-D SLAM Exploiting Inter-Feature Relationship"
+  authors: Hae Min Cho and Euntai Kim
+  journal: IEEE Transactions on Instrumentation & Measurement
+  year: 2024
+  month:
+  vol:
+  issue:
+  page:
+  description: "Early Access"
+  accepted: 1"                                                
+
 - title: "GRIL-Calib: Targetless Ground Robot IMU-LiDAR Extrinsic Calibration Method using Ground Plane Motion Constraints"
   authors: TaeYoung Kim, Gyuhyeon Pak and Euntai Kim
   journal: IEEE Robotics and Automation Letters
