@@ -11,32 +11,7 @@
 #  type: 2
 
 
-# 2024
-- title: Anomaly Segmentation for Unmanned Ground Vehicle in Complex Scenes
-  authors: Suyeon Kim, Youngjo Lee and Euntai Kim
-  conference: International Conference on Electronics, Information, and Communication (ICEIC 2024)
-  year: 2024
-  month: January
-  venue: Taipei, Taiwan
-  vol:
-  vol_exist: 0
-  page:
-  page_exist: 0
-  description: ""
-  type: 2
 
-- title: BEV Perception Methods for Autonomous Driving
-  authors: Kayeon Kim, Minho Cho, Minseong Park, Jangwon Oh, Seokwon Choi and Euntai Kim
-  conference: International Conference on Electronics, Information, and Communication (ICEIC 2024)
-  year: 2024
-  month: January
-  venue: Taipei, Taiwan
-  vol:
-  vol_exist: 0
-  page:
-  page_exist: 0
-  description: ""
-  type: 2
 
 # 2022
 - title: Robust Feature Tracking for Better Visual-Inertial System using Dynamic Mask        
@@ -2404,7 +2379,31 @@
 #  type: 0
 
 #2024
+- title: Anomaly Segmentation for Unmanned Ground Vehicle in Complex Scenes
+  authors: Suyeon Kim, Youngjo Lee and Euntai Kim
+  conference: International Conference on Electronics, Information, and Communication (ICEIC 2024)
+  year: 2024
+  month: January
+  venue: Taipei, Taiwan
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
 
+- title: BEV Perception Methods for Autonomous Driving
+  authors: Kayeon Kim, Minho Cho, Minseong Park, Jangwon Oh, Seokwon Choi and Euntai Kim
+  conference: International Conference on Electronics, Information, and Communication (ICEIC 2024)
+  year: 2024
+  month: January
+  venue: Taipei, Taiwan
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+  type: 2
 
 - title: "Fine to Coarse: A Multi-Decoder Approach for Detailed 3D Mapping in Grid-Based NeRF"
   authors: 공만규, 장진우, 김은태
