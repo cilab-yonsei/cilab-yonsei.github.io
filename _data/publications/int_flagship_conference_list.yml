@@ -1,3 +1,15 @@
+- title: "Decomposition of Neural Discrete Representations for Large-Scale 3D Mapping"
+  authors: Minseong Park, Suhan Woo, Euntai Kim
+  conference: Proc. of the European Conference on Computer Vision (ECCV 2024)
+  year: 2024
+  month: 
+  venue: Milano, Italy
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: "Accepted"
+
 - title: "Implicit Point Function for LiDAR Super-Resolution in Autonomous Driving"
   authors: Minseong Park, Haengseon Son and Euntai Kim
   conference: 2024 IEEE International Conference on Robotics and Automation (also published in IEEE RA-L)

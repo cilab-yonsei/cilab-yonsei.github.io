@@ -15,10 +15,10 @@
   journal: IEEE Transactions on Instrumentation & Measurement
   year: 2024
   month:
-  vol:
+  vol: 73
   issue:
-  page:
-  description: "Early Access"
+  page: 1-15
+  description: ""
   accepted: 1                                               
 
 - title: "GRIL-Calib: Targetless Ground Robot IMU-LiDAR Extrinsic Calibration Method using Ground Plane Motion Constraints"
