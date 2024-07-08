@@ -10,6 +10,7 @@
   page_exist: 0
   description: "Accepted"
 
+
 - title: "Implicit Point Function for LiDAR Super-Resolution in Autonomous Driving"
   authors: Minseong Park, Haengseon Son and Euntai Kim
   conference: 2024 IEEE International Conference on Robotics and Automation (also published in IEEE RA-L)

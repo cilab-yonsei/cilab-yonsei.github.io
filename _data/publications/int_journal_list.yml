@@ -10,6 +10,7 @@
 #  accepted:  
 
 #2024
+
 - title: "Finite-Plane Simultaneous Localization and Mapping (FP-SLAM): A New RGB-D SLAM Exploiting Inter-Feature Relationship"
   authors: Hae Min Cho and Euntai Kim
   journal: IEEE Transactions on Instrumentation & Measurement
