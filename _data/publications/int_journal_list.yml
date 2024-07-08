@@ -20,7 +20,7 @@
   issue:
   page: 1-15
   description: ""
-  accepted: 1                                               
+  accepted: 0                                               
 
 - title: "GRIL-Calib: Targetless Ground Robot IMU-LiDAR Extrinsic Calibration Method using Ground Plane Motion Constraints"
   authors: TaeYoung Kim, Gyuhyeon Pak and Euntai Kim
