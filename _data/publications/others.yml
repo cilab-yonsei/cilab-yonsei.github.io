@@ -2379,6 +2379,15 @@
 #  type: 0
 
 #2024
+- title: 공간 및 시간 주의 집중 레이어가 있는 3D-CNN을 사용한 자차 속도 추정 모델
+  authors: 조홍찬, 이영조, 김은태
+  conference: The 19th IEMEK Symposium on Embedded Technology ( ISET2024 )
+  year: 2024
+  month: 5월
+  venue: 제주
+  description:
+  type: 0
+
 - title: Anomaly Segmentation for Unmanned Ground Vehicle in Complex Scenes
   authors: Suyeon Kim, Youngjo Lee and Euntai Kim
   conference: International Conference on Electronics, Information, and Communication (ICEIC 2024)
