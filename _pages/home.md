@@ -51,6 +51,15 @@ We are a dynamic research group at the [School of Electrical and Electronic Engi
             </div>
         </div>
 
+        <!-- 조교수 임명 내용 -->
+        <div class="item">
+          <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/LSW_kookmin.png" alt="Slide" />
+            <div class="carousel-caption bg-dark mb-4">
+              <h3></h3>
+              <p></p>
+            </div>
+        </div>
+
     <div class="item">
           <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ICCV2023SLAM_KTY.png" alt="Slide" />
             <div class="carousel-caption bg-dark mb-4">
