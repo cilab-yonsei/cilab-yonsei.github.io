@@ -11,7 +11,20 @@
 #  type: 2
 
 
+# 2024
 
+- title: Leveraging 2D Semantic Information for Dynamic Object Removal in Static 3D Point Cloud Map Construction
+  authors: Yechan Park, Gyuhyeon Pak, Euntai Kim
+  Conference: ICCAS 2024 (24nd International Conference on Control, Automation and Systems)
+  year: 2024
+  month: November
+  venue: Jeju, Korea
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description:
+  type: 2
 
 # 2022
 - title: Robust Feature Tracking for Better Visual-Inertial System using Dynamic Mask        
