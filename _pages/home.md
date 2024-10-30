@@ -51,7 +51,7 @@ We are a dynamic research group at the [School of Electrical and Electronic Engi
             </div>
         </div>
 
-        <div class="item active">
+        <div class="item">
           <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ECCV2024_PMS.png" alt="Slide" />
             <div class="carousel-caption bg-dark mb-4">
               <h3>European Conference on Computer Vision (ECCV 2024)</h3>
