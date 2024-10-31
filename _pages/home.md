@@ -42,7 +42,16 @@ We are a dynamic research group at the [School of Electrical and Electronic Engi
     <!-- Items -->
 
     <div class="carousel-inner" markdown="0">
+
         <div class="item active">
+          <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/TIV_SHW.png" alt="Slide" />
+            <div class="carousel-caption bg-dark mb-4">
+              <h3>IEEE Transactions on Intelligent Vehicles (TIV 2024)</h3>
+              <p>Location-Aware Transformer Network for Bird's Eye View Semantic Segmentation</p>
+            </div>
+        </div>
+
+        <div class="item">
           <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ECCV2024_PMS.png" alt="Slide" />
             <div class="carousel-caption bg-dark mb-4">
               <h3>European Conference on Computer Vision (ECCV 2024)</h3>
