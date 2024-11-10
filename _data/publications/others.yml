@@ -19,7 +19,9 @@
   month: November
   venue: Jeju, Korea
   vol:
+  vol_exist: 0
   page:
+  page_exist: 0
   description:
   type: 2
 
