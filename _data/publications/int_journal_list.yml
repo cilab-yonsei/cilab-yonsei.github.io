@@ -9,41 +9,54 @@
 #  description: 
 #  accepted:  
 
-#2024
+# 2025
 
 - title: "Correlation Verification for Image Retrieval and Its Memory Footprint Optimization"
   authors: Seongwon Lee, Hongje Seong, Suhyeon Lee, Euntai Kim
   journal: IEEE Transactions on Pattern Analysis and Machine Intelligence
-  year: 2024
+  year: 2025
   month:
   vol:
   issue:
   page:
   description: ""
   accepted: 0      
+
+  - title: "Location-Aware Transformer Network for Bird's Eye View Semantic Segmentation"
+  authors: Suhan Woo, Minseong Park, Youngjo Lee, Seongwon Lee and Euntai Kim
+  journal: IEEE Transactions on Intelligent Vehicles
+  year: 2025
+  month:
+  vol:
+  issue:
+  page:
+  description: ""
+  accepted: 0    
+
+#2024
 
 - title: "Mode Prediction and Adaptation for a Six-Wheeled Mobile Robot Capable of Curb-Crossing in Urban Environments"
   authors: Dong Yeop Kim, Tae-Keun Kim, Keunhwan Kim, Jung-Hoon Hwang, Euntai Kim
   journal: IEEE Access
   year: 2024
-  month:
-  vol:
-  issue:
-  page:
+  month: Nov
+  vol: 12
+  issue: 
+  page: 166474-166485
   description: ""
-  accepted: 0      
+  accepted: 0         
 
-- title: "Location-Aware Transformer Network for Bird's Eye View Semantic Segmentation"
-  authors: Suhan Woo, Minseong Park, Youngjo Lee, Seongwon Lee and Euntai Kim
-  journal: IEEE Transactions on Intelligent Vehicles
-  year: 2024
-  month:
-  vol:
-  issue:
-  page:
+- title : Drivable Region Completion via a 3D LiDAR
+  authors : Wonje Jang and Euntai Kim
+  journal : IEEE Transactions on Intelligent Transportation Systems
+  vol : 25
+  issue : 8
+  page : 9967-9978
+  year : 2024
+  month: Aug
   description: ""
-  accepted: 0       
-
+  accepted: 0
+  
 - title: "Finite-Plane Simultaneous Localization and Mapping (FP-SLAM): A New RGB-D SLAM Exploiting Inter-Feature Relationship"
   authors: Hae Min Cho and Euntai Kim
   journal: IEEE Transactions on Instrumentation & Measurement
@@ -63,17 +76,6 @@
   vol: 9
   issue: 6
   page: 5409-5416
-  description: ""
-  accepted: 0
-  
-- title : Drivable Region Completion via a 3D LiDAR
-  authors : Wonje Jang and Euntai Kim
-  journal : IEEE Transactions on Intelligent Transportation Systems
-  vol : 25
-  issue : 8
-  page : 9967-9978
-  year : 2024
-  month: Aug
   description: ""
   accepted: 0
   
