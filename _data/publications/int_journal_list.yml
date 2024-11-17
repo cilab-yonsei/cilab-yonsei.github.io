@@ -10,11 +10,10 @@
 #  accepted:  
 
 # 2025
-
 - title: "Correlation Verification for Image Retrieval and Its Memory Footprint Optimization"
   authors: Seongwon Lee, Hongje Seong, Suhyeon Lee, Euntai Kim
   journal: IEEE Transactions on Pattern Analysis and Machine Intelligence
-  year: 2025
+  year: 2024
   month:
   vol:
   issue:
@@ -25,7 +24,7 @@
   - title: "Location-Aware Transformer Network for Bird's Eye View Semantic Segmentation"
   authors: Suhan Woo, Minseong Park, Youngjo Lee, Seongwon Lee and Euntai Kim
   journal: IEEE Transactions on Intelligent Vehicles
-  year: 2025
+  year: 2024
   month:
   vol:
   issue:
@@ -34,7 +33,6 @@
   accepted: 0    
 
 #2024
-
 - title: "Mode Prediction and Adaptation for a Six-Wheeled Mobile Robot Capable of Curb-Crossing in Urban Environments"
   authors: Dong Yeop Kim, Tae-Keun Kim, Keunhwan Kim, Jung-Hoon Hwang, Euntai Kim
   journal: IEEE Access
@@ -56,7 +54,7 @@
   month: Aug
   description: ""
   accepted: 0
-  
+
 - title: "Finite-Plane Simultaneous Localization and Mapping (FP-SLAM): A New RGB-D SLAM Exploiting Inter-Feature Relationship"
   authors: Hae Min Cho and Euntai Kim
   journal: IEEE Transactions on Instrumentation & Measurement
