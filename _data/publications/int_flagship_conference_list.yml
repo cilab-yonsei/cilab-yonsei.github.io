@@ -1,3 +1,15 @@
+- title: "Zero-Shot Scene Change Detection"
+  authors: Kyusik Cho, Dong Yeop Kim, Euntai Kim
+  conference: The 39th Annual AAAI Conference on Artificial Intelligence (AAAI 2025)
+  year: 2025
+  month: February
+  venue: Philadelphia, Pennsylvania, USA
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+
 - title: "Decomposition of Neural Discrete Representations for Large-Scale 3D Mapping"
   authors: Minseong Park, Suhan Woo, Euntai Kim
   conference: Proc. of the European Conference on Computer Vision (ECCV 2024)
