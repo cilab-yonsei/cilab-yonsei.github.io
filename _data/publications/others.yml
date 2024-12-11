@@ -2404,6 +2404,15 @@
 #  type: 0
 
 #2024
+- title: 부분 셀프 어텐션을 활용한 보행자 이동경로 예측 성능 향상 
+  authors: 이영조, 조홍찬, 김은태
+  conference: 34회 인공지능신호처리 학술대회
+  year: 2024
+  month: 11월
+  venue: 서울
+  description:
+  type: 0
+
 - title: 공간 및 시간 주의 집중 레이어가 있는 3D-CNN을 사용한 자차 속도 추정 모델
   authors: 조홍찬, 이영조, 김은태
   conference: The 19th IEMEK Symposium on Embedded Technology ( ISET2024 )
@@ -2447,6 +2456,7 @@
   venue: 평창
   description:
   type: 0
+  
 - title: 공장 환경에서의 전역 설명자를 활용한 이동 로봇의 초기 위치 추정
   authors: 박예찬, 박규현, 김은태
   conference: 제 19회 한국로봇종합학술대회
