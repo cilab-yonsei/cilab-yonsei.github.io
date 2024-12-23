@@ -115,3 +115,13 @@
   cv:
     url:
     exist: 0 
+
+- name: Seunghyeon Joe
+  photo: Seunghyeon joe.jpg
+  info: Master's Degree Programs
+  email: apint0416@yonsei.ac.kr
+  research: 
+  affiliation: Korean Electronics Technology Institute (KETI)
+  cv:
+    url:
+    exist: 0 
