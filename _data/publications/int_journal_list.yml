@@ -14,7 +14,7 @@
   authors: Seongwon Lee, Hongje Seong, Suhyeon Lee, Euntai Kim
   journal: IEEE Transactions on Pattern Analysis and Machine Intelligence
   year: 2025
-  month:
+  month: Preprint
   vol:
   issue:
   page:
@@ -25,13 +25,13 @@
   authors: Suhan Woo, Minseong Park, Youngjo Lee, Seongwon Lee and Euntai Kim
   journal: IEEE Transactions on Intelligent Vehicles
   year: 2025
-  month:
+  month: Preprint
   vol:
   issue:
   page:
   description: ""
   accepted: 0   
-  
+
 - title: "Detection of Human Traffic Controllers Wearing Construction Workwear via Synthetic Data Generation"
   authors: Seunghyun Baik and Euntai Kim
   journal: Sensors
