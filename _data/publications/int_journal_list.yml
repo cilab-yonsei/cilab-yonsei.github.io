@@ -10,28 +10,6 @@
 #  accepted:  
 
 # 2024
-- title: "Detection of Human Traffic Controllers Wearing Construction Workwear via Synthetic Data Generation"
-  authors: Seunghyun Baik and Euntai Kim
-  journal: Sensors
-  year: 2025
-  month: Jan
-  vol: 25
-  issue: 3
-  page: 816
-  description: ""
-  accepted: 0
-
-- title: "3D LiDAR Multi-Object Tracking Using Multi Positive Contrastive Learning and Deep Reinforcement Learning"
-  authors: Minho Cho; Euntai Kim
-  journal: IEEE Access
-  year: 2025
-  month: Jan
-  vol: 13
-  issue: 
-  page: 12447-12457
-  description: ""
-  accepted: 0            
-
 - title: "Correlation Verification for Image Retrieval and Its Memory Footprint Optimization"
   authors: Seongwon Lee, Hongje Seong, Suhyeon Lee, Euntai Kim
   journal: IEEE Transactions on Pattern Analysis and Machine Intelligence
@@ -53,6 +31,28 @@
   page:
   description: ""
   accepted: 0   
+  
+- title: "Detection of Human Traffic Controllers Wearing Construction Workwear via Synthetic Data Generation"
+  authors: Seunghyun Baik and Euntai Kim
+  journal: Sensors
+  year: 2025
+  month: Jan
+  vol: 25
+  issue: 3
+  page: 816
+  description: ""
+  accepted: 0
+
+- title: "3D LiDAR Multi-Object Tracking Using Multi Positive Contrastive Learning and Deep Reinforcement Learning"
+  authors: Minho Cho; Euntai Kim
+  journal: IEEE Access
+  year: 2025
+  month: Jan
+  vol: 13
+  issue: 
+  page: 12447-12457
+  description: ""
+  accepted: 0            
 
 - title: "Mode Prediction and Adaptation for a Six-Wheeled Mobile Robot Capable of Curb-Crossing in Urban Environments"
   authors: Dong Yeop Kim, Tae-Keun Kim, Keunhwan Kim, Jung-Hoon Hwang, Euntai Kim
