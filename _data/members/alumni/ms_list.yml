@@ -426,3 +426,33 @@
   cv:
     url:
     exist: 0
+
+- name: Kayeon Kim
+  photo: KayeonKim.jpg
+  info: Master's Degree Programs
+  email: kky@yonsei.ac.kr
+  research: 
+  affiliation: 
+  cv:
+    url:
+    exist: 0 
+
+- name: Yechan Park
+  photo: YechanPark.jpg
+  info: Master's Degree Programs
+  email: pyc5714@yonsei.ac.kr 
+  research: 
+  affiliation: 
+  cv:
+    url:
+    exist: 0
+
+- name: Seokwon Choi
+  photo: SeokwonChoi.jpg
+  info: Master's Degree Programs
+  email: csw609@yonsei.ac.kr
+  research: 
+  affiliation: Hyundai Mobis
+  cv:
+    url:
+    exist: 0
