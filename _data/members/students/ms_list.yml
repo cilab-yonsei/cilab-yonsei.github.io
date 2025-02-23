@@ -36,36 +36,6 @@
     url:
     exist: 0
 
-- name: Kayeon Kim
-  photo: KayeonKim.jpg
-  info: Master's Degree Programs
-  email: kky@yonsei.ac.kr
-  research: Intelligent Vehicle System
-  affiliation: Hyundai Motors Company
-  cv:
-    url:
-    exist: 0 
-
-- name: Yechan Park
-  photo: YechanPark.jpg
-  info: Master's Degree Programs
-  email: pyc5714@yonsei.ac.kr 
-  research: Mobile Robotics
-  affiliation: Hyundai Motors Company
-  cv:
-    url:
-    exist: 0
-
-- name: Seokwon Choi
-  photo: SeokwonChoi.jpg
-  info: Master's Degree Programs
-  email: csw609@yonsei.ac.kr
-  research: Intelligent Vehicle System
-  affiliation: Hyundai Mobis
-  cv:
-    url:
-    exist: 0
-
 - name: Jungmo Yang
   photo: JungmoYang.jpg
   info: Master's Degree Programs
@@ -122,6 +92,16 @@
   email: apint0416@yonsei.ac.kr
   research: 
   affiliation: Korean Electronics Technology Institute (KETI)
+  cv:
+    url:
+    exist: 0 
+
+- name: Gihoon Kim
+  photo: Gihoon Kim.jpg
+  info: Master's Degree Programs
+  email: cobang0111@gmail.com
+  research: 
+  affiliation: Hyundai Motors Company
   cv:
     url:
     exist: 0 
