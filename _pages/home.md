@@ -44,6 +44,14 @@ We are a dynamic research group at the [School of Electrical and Electronic Engi
     <div class="carousel-inner" markdown="0">
 
         <div class="item active">
+          <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SHJ_seoul.png" alt="Slide" />
+           <div class="carousel-caption bg-dark mb-4">
+              <h3></h3>
+              <p></p>
+            </div>
+        </div>
+
+        <div class="item">
           <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/TIV_SHW.png" alt="Slide" />
             <div class="carousel-caption bg-dark mb-4">
               <h3>IEEE Transactions on Intelligent Vehicles (TIV 2024)</h3>
