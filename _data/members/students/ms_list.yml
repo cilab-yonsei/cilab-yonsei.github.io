@@ -26,26 +26,6 @@
     url:
     exist: 0
 
-- name: Doyeon Kim
-  photo: doyeonkim.jpg
-  info: Master's Degree Programs
-  email: vlzjtm@gmail.com
-  research:
-  affiliation: Korean Electronics Technology Institute (KETI)
-  cv:
-    url:
-    exist: 0
-
-- name: Jungmo Yang
-  photo: JungmoYang.jpg
-  info: Master's Degree Programs
-  email: yjm@yonsei.ac.kr
-  research:
-  affiliation: Korean Electronics Technology Institute (KETI)
-  cv:
-    url:
-    exist: 0 
-
 - name: Hongchan Cho
   photo: johongchan.jpg
   info: Master's Degree Programs
