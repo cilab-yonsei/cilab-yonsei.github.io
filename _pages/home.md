@@ -50,7 +50,20 @@ We are a dynamic research group at the [School of Electrical and Electronic Engi
               <p></p>
             </div>
         </div>
-
+        <div class="item">
+          <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/JWJ_hufs.png" alt="Slide" />
+           <div class="carousel-caption bg-dark mb-4">
+              <h3></h3>
+              <p></p>
+            </div>
+        </div>
+        <div class="item">
+          <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/JHM_gachon.png" alt="Slide" />
+           <div class="carousel-caption bg-dark mb-4">
+              <h3></h3>
+              <p></p>
+            </div>
+        </div>
         <div class="item">
           <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/TIV_SHW.png" alt="Slide" />
             <div class="carousel-caption bg-dark mb-4">
