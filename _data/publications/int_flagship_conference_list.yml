@@ -1,14 +1,14 @@
-- title: "GRIL-Calib: Targetless Ground Robot IMU-LiDAR Extrinsic Calibration Method using Ground Plane Motion Constraints"
-  authors: TaeYoung Kim, Gyuhyeon Pak and Euntai Kim
-  conference: 2025 IEEE International Conference on Robotics and Automation (also published in IEEE RA-L)
-  year: 2025
-  month: May
-  venue: Atlanta, USA
-  vol:
-  vol_exist: 0
-  page:
-  page_exist: 0
-  description: ""
+# - title: "GRIL-Calib: Targetless Ground Robot IMU-LiDAR Extrinsic Calibration Method using Ground Plane Motion Constraints"
+#   authors: TaeYoung Kim, Gyuhyeon Pak and Euntai Kim
+#   conference: 2025 IEEE International Conference on Robotics and Automation (also published in IEEE RA-L)
+#   year: 2025
+#   month: May
+#   venue: Atlanta, USA
+#   vol:
+#   vol_exist: 0
+#   page:
+#   page_exist: 0
+#   description: ""
 
 - title: "RE-TRIP : Reflectivity Instance Augmented Triangle Descriptor for 3D Place Recognition"
   authors: Yechan Park, Gyuhyeon Pak and Euntai Kim
