@@ -3,7 +3,7 @@ title: "CILAB - Others"
 layout: gridlay
 excerpt: "CILAB -- Others."
 sitemap: false
-permalink: /others/
+permalink: /Extended Abstracts/
 ---
 
 # Extended Abstracts
@@ -19,7 +19,7 @@ Jump to
 
 {% for current_year in (first_year..last_year) reversed %}
   {% assign data_exist = false %}
-  {% for publi in site.data.publications.others %}
+  {% for publi in site.data.publications.Extended Abstracts %}
     {% if publi.year == current_year %}
       {% assign data_exist = true %}
     {% endif %}
@@ -27,7 +27,7 @@ Jump to
   
   {% if data_exist %}
 ## {{ current_year }}
-    {% for publi in site.data.publications.others %}
+    {% for publi in site.data.publications.Extended Abstracts %}
 
       {% if publi.year == {{current_year}} %}
         {% if publi.type == 0%}
@@ -75,7 +75,7 @@ Jump to
 {% endfor %}
 
 ## Before {{ first_year }}
-{% for publi in site.data.publications.others %}
+{% for publi in site.data.publications.Extended Abstracts %}
 
   {% if publi.year < {{first_year}} %}
     {% if publi.type == 0%}
