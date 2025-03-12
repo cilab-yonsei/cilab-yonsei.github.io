@@ -6,7 +6,7 @@ sitemap: false
 permalink: /int_flagship_conference/
 ---
 
-# International Flagship Conference
+# International Conference
 
 {% assign last_year = site.data.year_information.current_year %}
 {% assign first_year = site.data.year_information.pub_first_showing_year %}

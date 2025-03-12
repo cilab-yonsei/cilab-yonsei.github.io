@@ -6,7 +6,7 @@ sitemap: false
 permalink: /others/
 ---
 
-# Others
+# Extended Abstracts
 
 {% assign last_year = site.data.year_information.current_year %}
 {% assign first_year = site.data.year_information.pub_first_showing_year %}
