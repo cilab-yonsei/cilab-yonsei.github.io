@@ -10,6 +10,21 @@
 #  description:
 #  type: 2
 
+#2025
+
+- title: 제조 공장에서의 모바일 로봇 운용을 위한 고효율 세그멘테이션 시스템
+  authors: 전유진,조규식,김은태
+  conference: 제 20회 한국로봇종합학술대회
+  year: 2025
+  month: 2월
+  venue: 평창
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description:
+  type: 0
+
 
 # 2024
 - title: Enhancing Point Cloud Semantic Segmentation with Curriculum Learning for Occlusion Handling
