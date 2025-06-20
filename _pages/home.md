@@ -50,7 +50,7 @@ We are a dynamic research group at the [School of Electrical and Electronic Engi
 
     <div class="carousel-inner" markdown="0">
 
-        <!-- 2025 논문 내용 -->
+        <!-- 2025 논문 내용용 -->
 
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ICRA_KMK.png" alt="Slide" />
@@ -58,7 +58,7 @@ We are a dynamic research group at the [School of Electrical and Electronic Engi
               <h3>International Conference on Robotics and Automation (ICRA 2025)</h3>
               <p>Fast Global Localization on Neural Radiance Field</p>
             </div>
-        </div> 
+        </div>
 
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ICRA_PYC.png" alt="Slide" />
@@ -66,8 +66,8 @@ We are a dynamic research group at the [School of Electrical and Electronic Engi
               <h3>International Conference on Robotics and Automation (ICRA 2025)</h3>
               <p>RE-TRIP : Reflectivity Instance Augmented Triangle Descriptor for 3D  Place Recognition Re</p>
             </div>
-        </div> 
-
+        </div>
+            
 
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/AAAI_CKS.png" alt="Slide" />
@@ -75,170 +75,170 @@ We are a dynamic research group at the [School of Electrical and Electronic Engi
               <h3>AAAI Conference on Artificial Intelligence (AAAI 2025)</h3>
               <p>Zero-Shot Scene Change Detection</p>
             </div>
-        </div> 
+        </div>
 
 
 
         <!-- 조교수 임명 내용
 
-        <!-- <div class="item active">
+        <div class="item active">
           <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SHJ_seoul.png" alt="Slide" />
            <div class="carousel-caption bg-dark mb-4">
               <h3></h3>
               <p></p>
             </div>
-        </div> -->
+        </div>
         <!-- 조교수 임명 내용 -->
 
-        <!-- <div class="item">
+        <div class="item">
           <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/JWJ_hufs.png" alt="Slide" />
            <div class="carousel-caption bg-dark mb-4">
               <h3></h3>
               <p></p>
             </div>
-        </div> -->
+        </div>
 
         <!-- 조교수 임명 내용 -->
 
-        <!-- <div class="item">
+        <div class="item">
           <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/JHM_gachon.png" alt="Slide" />
            <div class="carousel-caption bg-dark mb-4">
               <h3></h3>
               <p></p>
             </div>
-        </div> -->
-        <!-- <div class="item">
+        </div>
+        <div class="item">
           <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/TIV_SHW.png" alt="Slide" />
             <div class="carousel-caption bg-dark mb-4">
               <h3>IEEE Transactions on Intelligent Vehicles (TIV 2024)</h3>
               <p>Location-Aware Transformer Network for Bird's Eye View Semantic Segmentation</p>
             </div>
-        </div> -->
+        </div>
 
-        <!-- <div class="item">
+        <div class="item">
           <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ECCV2024_PMS.png" alt="Slide" />
             <div class="carousel-caption bg-dark mb-4">
               <h3>European Conference on Computer Vision (ECCV 2024)</h3>
               <p>Decomposition of Neural Discrete Representations for Large-Scale 3D Mapping</p>
             </div>
-        </div> -->
+        </div>
 
         <!-- 조교수 임명 내용 -->
-        <!-- <div class="item">
+        <div class="item">
           <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/LSW_kookmin.png" alt="Slide" />
             <div class="carousel-caption bg-dark mb-4">
               <h3></h3>
               <p></p>
             </div>
-        </div> -->
+        </div>
 
-    <!-- <div class="item">
+    <div class="item">
           <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ICCV2023SLAM_KTY.png" alt="Slide" />
             <div class="carousel-caption bg-dark mb-4">
               <h3>International Conference on Computer Vision 2023 Workshop (ICCV 2023 Workshop)</h3>
               <p>Ranked 4th place in LiDAR-inertial track, ICCV 2023 SLAM Challenge</p>
             </div>
-        </div> -->
+        </div>
         
-    <!-- <div class="item">
+    <div class="item">
           <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/CVPR2023_LSW.png" alt="Slide" />
             <div class="carousel-caption bg-dark mb-4">
               <h3>Conference on Computer Vision and Pattern Recognition (CVPR 2023)</h3>
               <p>Revisiting Self-Similarity: Structural Embedding for Image Retrieval</p>
             </div>
-        </div> -->
+        </div>
 
-    <!-- <div class="item">
+    <div class="item">
           <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/TPAMI_SHJ.png" alt="Slide" />
             <div class="carousel-caption bg-dark mb-4">
               <h3>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI 2023)</h3>
               <p>Video Object Segmentation using Kernelized Memory Network with Multiple Kernels</p>
             </div>
-        </div> -->
+        </div>
 
-    <!-- <div class="item">
+    <div class="item">
           <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ECCV22_SHJ.png" alt="Slide" />
             <div class="carousel-caption bg-dark mb-4">
               <h3>European Conference on Computer Vision (ECCV 2022)</h3>
               <p>One-Trimap Video Matting</p>
             </div>
-        </div> -->
+        </div>
 
-		<!-- <div class="item">
+		<div class="item">
           <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/CVPR2022_LSH.png" alt="Slide" />
             <div class="carousel-caption bg-dark mb-4">
               <h3>Conference on Computer Vision and Pattern Recognition (CVPR 2022)</h3>
               <p>WildNet: Learning Domain Generalized Semantic Segmentation from the Wild</p>
             </div>
-        </div> -->
+        </div>
 
-		<!-- <div class="item">
+		<div class="item">
           <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/CVPR2022_LSW.jpg" alt="Slide" />
             <div class="carousel-caption bg-dark mb-4">
               <h3>Conference on Computer Vision and Pattern Recognition (CVPR 2022)<b>(Oral Presentation)</b></h3>
               <p>Correlation Verification for Image Retrieval</p>
             </div>
-        </div> -->
+        </div>
 
         <!-- 조교수 임명 내용 -->
-        <!-- <div class="item">
+        <div class="item">
           <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/AJH_gachon.png" alt="Slide" />
             <div class="carousel-caption bg-dark mb-4">
               <h3></h3>
               <p></p>
             </div>
-        </div> -->
+        </div>
 
-        <!-- <div class="item">
+        <div class="item">
           <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/TSMCS_HJH.png" alt="Slide " />
             <div class="carousel-caption bg-dark mb-4">
               <h3>IEEE Transactions on Systems, Man, and Cybernetics: Systems 2022</h3>
               <p>Adjacent Feature Propagation Network (AFPNet) for Real-Time Semantic Segmentation</p>
             </div>
-        </div> -->
-        <!-- <div class="item">
+        </div>
+        <div class="item">
           <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/AAAI_PMS_LYJ.png" alt="Slide" />
             <div class="carousel-caption bg-dark mb-4">
               <h3>AAAI Conference on Artificial Intelligence (AAAI 2022)</h3>
               <p>Graph-Based Point Tracker for 3D Object Tracking in Point Clouds <br>Iteratively Selecting an Easy Reference Frame Makes Unsupervised Video Object Segmentation Easier</p>
             </div>
-        </div> -->
-        <!-- <div class="item">
+        </div>
+        <div class="item">
           <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/TMECH_CHM.png" alt="Slide" />
             <div class="carousel-caption bg-dark mb-4">
               <h3>IEEE Transactions on Mechatronics 2022</h3>
               <p>SP-SLAM: Surfel-Point Simultaneous Localization and Mapping</p>
             </div>
-        </div> -->
-        <!-- <div class="item">
+        </div>
+        <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/JAS_JWJ.png" alt="Slide" />
             <div class="carousel-caption bg-dark mb-4">
               <h3>IEEE/CAA Journal of Automatica Sinica 2022</h3>
               <p>A Lane-level Road Marking Map using a Monocular Camera</p>
             </div>
-        </div> -->
-        <!-- <div class="item">
+        </div>
+        <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/TCYB_CSW.png" alt="Slide" />
             <div class="carousel-caption bg-dark mb-4">
               <h3>IEEE Transactions on Cybernetics 2022</h3>
               <p>Indoor Place Category Recognition for a Cleaning Robot by Fusing a Probabilistic Approach and Deep Learning</p>
             </div>
-        </div> -->
+        </div>
 
-        <!-- <div class="item">
+        <div class="item">
           <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ICCV_SHJ.png" alt="Slide" />
             <div class="carousel-caption bg-dark mb-4">
               <h3>International Conference on Computer Vision (ICCV 2021)</h3>
               <p>Hierarchical Memory Matching Network for Video Object Segmentation</p>
             </div>
-        </div> -->
-        <!-- <div class="item">
+        </div>
+        <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/AAAI_LSH.png" alt="Slide" />
             <div class="carousel-caption bg-dark mb-4">
               <h3>AAAI Conference on Artificial Intelligence (AAAI 2021)</h3>
               <p>Unsupervised Domain Adaptation for Semantic Segmentation by Content Transfer</p>
             </div>
-        </div> -->
+        </div>
         <!-- <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ECCV_SHJ.png" alt="Slide" />
             <div class="carousel-caption bg-dark mb-4">
@@ -247,20 +247,20 @@ We are a dynamic research group at the [School of Electrical and Electronic Engi
             </div>
         </div> -->
 
-        <!-- <div class="item">
+        <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/TITS_AJH.png" alt="Slide" />
             <div class="carousel-caption bg-dark mb-4">
               <h3>IEEE Transactions on Intelligent Transportation Systems (TITS 2021)</h3>
               <p>Novel Vehicle Bounding Box Tracking Using a Low-End 3D Laser Scanner</p>
             </div>
-        </div> -->
-        <!-- <div class="item">
+        </div>
+        <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/TII_JHG.png" alt="Slide" />
             <div class="carousel-caption bg-dark mb-4">
               <h3>IEEE Transactions on Industrial Informatics (TII 2021)</h3>
               <p>Mixture Density-PoseNet and Its Application to Monocular Camera-based Global Localization</p>
-            </div> -->
-        </div> --> 
+            </div>
+        </div> -->
         <!-- <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/IEEEAccess_CHM.png" alt="Slide" />
             <div class="carousel-caption bg-dark mb-4">
