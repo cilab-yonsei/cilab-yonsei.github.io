@@ -53,7 +53,7 @@ We are a dynamic research group at the [School of Electrical and Electronic Engi
         <!-- 2025 논문 내용용 -->
 
         <div class="item active">
-          <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ICRA_KMK.png" alt="Slide" />
+          <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ICRA2025_KMK.png" alt="Slide" />
             <div class="carousel-caption bg-dark mb-4">
               <h3>International Conference on Robotics and Automation (ICRA 2025)</h3>
               <p>Fast Global Localization on Neural Radiance Field</p>
@@ -61,7 +61,7 @@ We are a dynamic research group at the [School of Electrical and Electronic Engi
         </div>
 
         <div class="item">
-          <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ICRA_PYC.png" alt="Slide" />
+          <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ICRA2025_PYC.png" alt="Slide" />
             <div class="carousel-caption bg-dark mb-4">
               <h3>International Conference on Robotics and Automation (ICRA 2025)</h3>
               <p>RE-TRIP : Reflectivity Instance Augmented Triangle Descriptor for 3D  Place Recognition Re</p>
@@ -70,7 +70,7 @@ We are a dynamic research group at the [School of Electrical and Electronic Engi
             
 
         <div class="item">
-          <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/AAAI_CKS.png" alt="Slide" />
+          <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/AAAI2025_CKS.png" alt="Slide" />
             <div class="carousel-caption bg-dark mb-4">
               <h3>AAAI Conference on Artificial Intelligence (AAAI 2025)</h3>
               <p>Zero-Shot Scene Change Detection</p>
