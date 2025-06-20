@@ -81,13 +81,14 @@ We are a dynamic research group at the [School of Electrical and Electronic Engi
 
         <!-- 조교수 임명 내용 -->
 
-        <div class="item active">
+        <!-- <div class="item active">
           <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SHJ_seoul.png" alt="Slide" />
            <div class="carousel-caption bg-dark mb-4">
               <h3></h3>
               <p></p>
             </div>
-        </div>
+        </div> -->
+
         <!-- 조교수 임명 내용 -->
 
         <div class="item">
