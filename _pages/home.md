@@ -79,7 +79,7 @@ We are a dynamic research group at the [School of Electrical and Electronic Engi
 
 
 
-        <!-- 조교수 임명 내용
+        <!-- 조교수 임명 내용 -->More actions
 
         <div class="item active">
           <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SHJ_seoul.png" alt="Slide" />
@@ -260,7 +260,7 @@ We are a dynamic research group at the [School of Electrical and Electronic Engi
               <h3>IEEE Transactions on Industrial Informatics (TII 2021)</h3>
               <p>Mixture Density-PoseNet and Its Application to Monocular Camera-based Global Localization</p>
             </div>
-        </div> -->
+        </div>
         <!-- <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/IEEEAccess_CHM.png" alt="Slide" />
             <div class="carousel-caption bg-dark mb-4">
@@ -278,6 +278,7 @@ We are a dynamic research group at the [School of Electrical and Electronic Engi
     <span class="sr-only">Next</span>
   </a>
 </div>
+
 
 We are grateful for funding from [Yonsei University](https://ee.yonsei.ac.kr/ee_en/index.do), [National Research Foundation (NRF) of Korea](https://www.nrf.re.kr/eng/index), [Korea Evaluation Institute of Industrial Technology](https://www.keit.re.kr/eng/), [LG Electronics](https://www.lg.com/us), [LG U+](http://www.uplus.co.kr/com/main/pemain/PeMain.hpi), [Hyundai Motors](https://www.hyundai.com/kr/en/main), [Hyundai Mobis](https://en.mobis.co.kr/main/index.do), [Hyundai MnSOFT](http://www.hyundai-mnsoft.com/EN/index.mms), and [Avikus](https://avikus.ai/default/).
 <br/>
