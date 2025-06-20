@@ -260,7 +260,7 @@ We are a dynamic research group at the [School of Electrical and Electronic Engi
               <h3>IEEE Transactions on Industrial Informatics (TII 2021)</h3>
               <p>Mixture Density-PoseNet and Its Application to Monocular Camera-based Global Localization</p>
             </div> -->
-        </div> --> -->
+        </div> --> 
         <!-- <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/IEEEAccess_CHM.png" alt="Slide" />
             <div class="carousel-caption bg-dark mb-4">
