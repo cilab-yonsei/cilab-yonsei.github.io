@@ -50,6 +50,9 @@ We are a dynamic research group at the [School of Electrical and Electronic Engi
 
     <div class="carousel-inner" markdown="0">
 
+
+        <!-- 조교수 임명 내용 -->
+
         <div class="item active">
           <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SHJ_seoul.png" alt="Slide" />
            <div class="carousel-caption bg-dark mb-4">
@@ -57,6 +60,8 @@ We are a dynamic research group at the [School of Electrical and Electronic Engi
               <p></p>
             </div>
         </div>
+        <!-- 조교수 임명 내용 -->
+
         <div class="item">
           <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/JWJ_hufs.png" alt="Slide" />
            <div class="carousel-caption bg-dark mb-4">
@@ -64,6 +69,9 @@ We are a dynamic research group at the [School of Electrical and Electronic Engi
               <p></p>
             </div>
         </div>
+
+        <!-- 조교수 임명 내용 -->
+
         <div class="item">
           <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/JHM_gachon.png" alt="Slide" />
            <div class="carousel-caption bg-dark mb-4">
