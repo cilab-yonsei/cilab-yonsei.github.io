@@ -10,6 +10,17 @@
 #  accepted:  
 
 # 2024
+- title: "Real-Time RGB-D Semantic Segmentation with Scale-Invariant Depth Encoding and Noise-Robust Fusion"
+  authors: Suhan Woo, Junhyuk Hyun, Suhyeon Lee and Euntai Kim
+  journal: International Journal of Control, Automation and Systems
+  year: 2025
+  month: Early Access
+  vol:
+  issue:
+  page:
+  description: ""
+  accepted: 0  
+
 - title: "Location-Aware Transformer Network for Bird's Eye View Semantic Segmentation"
   authors: Suhan Woo, Minseong Park, Youngjo Lee, Seongwon Lee and Euntai Kim
   journal: IEEE Transactions on Intelligent Vehicles
