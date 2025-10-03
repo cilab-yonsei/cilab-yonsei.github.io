@@ -10,6 +10,17 @@
 #  accepted:  
 
 # 2024
+- title: "Traffic Controller Data Synthesis for Autonomous Vehicles: Joint Baton-Conditioned Diffusion Model and Scene-Aware Scaling"
+  authors: Sangho Kim, Youngjo Lee, Seunghyun Baik and Euntai Kim 
+  journal: International Journal of Control, Automation and Systems
+  year: 2025
+  month: Early Access
+  vol:
+  issue:
+  page:
+  description: ""
+  accepted: 0  
+
 - title: "Real-Time RGB-D Semantic Segmentation with Scale-Invariant Depth Encoding and Noise-Robust Fusion"
   authors: Suhan Woo, Junhyuk Hyun, Suhyeon Lee and Euntai Kim
   journal: International Journal of Control, Automation and Systems
