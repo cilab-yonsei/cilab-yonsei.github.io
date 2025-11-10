@@ -12,6 +12,84 @@
 
 #2025
 
+- title: MatVPR: Matryoshka Representation Learning for Efficient Visual Place Recognition	
+  authors: Jinwoo Jang, Seunghan Yu, Euntai Kim
+  conference: ICCAS
+  year: 2025
+  month: November
+  venue: Incheon, Korea
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description:
+  type: 0
+
+- title: Augmenting Surgical Scene Data with Diffusion-Based Image Synthesis  		
+  authors: Sangho Kim, Euntai Kim
+  conference: ICCAS
+  year: 2025
+  month: November
+  venue: Incheon, Korea
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description:
+  type: 0
+
+- title: PLUS: Pseudo-Label Upgrade Pipeline for Semantic Segmentation  		
+  authors: Youjin Jeon, Kyusik Cho, Euntai Kim
+  conference: ICCAS
+  year: 2025
+  month: November
+  venue: Incheon, Korea
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description:
+  type: 0
+
+- title: Scene-Aware Generalized Category Discovery in Indoor Semantic Segmentation  	
+  authors: Kyusik Cho, Euntai Kim
+  conference: ICCAS
+  year: 2025
+  month: November
+  venue: Incheon, Korea
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description:
+  type: 0
+
+- title: Structural Consistency Knowledge Distillation for Visual Place Recognition  	
+  authors: Seunghan Yu, Jinwoo Jang, Euntai Kim
+  conference: ICCAS
+  year: 2025
+  month: November
+  venue: Incheon, Korea
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description:
+  type: 0
+
+- title: Restoring Few-Shot Anomalies for Diffusion-Driven Dataset Synthesis and Fine-Tuning 
+  authors: Seunghyun Baik, Euntai Kim
+  conference: ICCAS
+  year: 2025
+  month: November
+  venue: Incheon, Korea
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description:
+  type: 0
+
 - title: Empowering 4D Gaussian Splatting with Semantic Feature Embeddings for Dynamic Scene Modeling 
   authors: Mangyu Kong, Jaewon Lee, Euntai Kim
   conference: ICCAS
