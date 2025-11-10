@@ -299,3 +299,17 @@
   homepage:
     url:
     exist: 0
+
+
+- name: Minseong Park
+  photo: minseongpark.jpg
+  info: Master's/Doctoral Combined Programs
+  email: msp922@yonsei.ac.kr
+  research: Intelligent Vehicle System
+  affiliation: Kakao Mobility
+  cv:
+    url:
+    exist: 0
+  homepage:
+    url:
+    exist: 0
