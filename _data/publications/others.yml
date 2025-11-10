@@ -12,7 +12,7 @@
 
 #2025
 
-- title: MatVPR: Matryoshka Representation Learning for Efficient Visual Place Recognition
+- title: 'MatVPR: Matryoshka Representation Learning for Efficient Visual Place Recognition'
   authors: Jinwoo Jang, Seunghan Yu, Euntai Kim
   conference: ICCAS
   year: 2025
@@ -25,7 +25,7 @@
   description:
   type: 0
 
-- title: Augmenting Surgical Scene Data with Diffusion-Based Image Synthesis	
+- title: Augmenting Surgical Scene Data with Diffusion-Based Image Synthesis
   authors: Sangho Kim, Euntai Kim
   conference: ICCAS
   year: 2025
@@ -38,7 +38,7 @@
   description:
   type: 0
 
-- title: PLUS: Pseudo-Label Upgrade Pipeline for Semantic Segmentation
+- title: 'PLUS: Pseudo-Label Upgrade Pipeline for Semantic Segmentation'
   authors: Youjin Jeon, Kyusik Cho, Euntai Kim
   conference: ICCAS
   year: 2025
