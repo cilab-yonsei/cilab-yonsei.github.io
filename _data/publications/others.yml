@@ -12,6 +12,58 @@
 
 #2025
 
+- title: Empowering 4D Gaussian Splatting with Semantic Feature Embeddings for Dynamic Scene Modeling 
+  authors: Mangyu Kong, Jaewon Lee, Euntai Kim
+  conference: ICCAS
+  year: 2025
+  month: November
+  venue: Incheon, Korea
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description:
+  type: 0
+
+- title: Leveraging Vector Quantization for Self-Supervised Point Cloud Completion
+  authors: Jangwon Oh, Seongwon Lee, Euntai Kim
+  conference: ICCAS
+  year: 2025
+  month: November
+  venue: Incheon, Korea
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description:
+  type: 0
+
+- title: CLIP Model Knowledge Distillation Via Multi-Level Cross-Modal Relational Alignment
+  authors: Beomjun Kim, Hongchan Cho, Euntai Kim
+  conference: ICCAS
+  year: 2025
+  month: November
+  venue: Incheon, Korea
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description:
+  type: 0
+
+- title: Robust Rotation Initialization for LVI Localization Via 2D-3D Line Matching
+  authors: Gyuhyeon Pak, Haemin Cho, Euntai Kim
+  conference: ICCAS
+  year: 2025
+  month: November
+  venue: Incheon, Korea
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description:
+  type: 0
+
 - title: Night-Time Traffic Scene Generation with Sliced Wasserstein Guided Color Conditional Generation
   authors: Youngjo Lee, Euntai Kim
   conference: ICCAS
