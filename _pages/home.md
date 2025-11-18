@@ -56,7 +56,7 @@ We are a dynamic research group at the [School of Electrical and Electronic Engi
           <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/AAAI2026_JYJ.png" alt="Slide" />
             <div class="carousel-caption bg-dark mb-4">
               <h3>AAAI Conference on Artificial Intelligence (AAAI 2026)</h3>
-              <p>A^2LC: Active and Automated Label Correction for Semantic Segmentation</p>
+              <p>A<sup>2</sup>LC: Active and Automated Label Correction for Semantic Segmentation</p>
             </div>
         </div>
 
