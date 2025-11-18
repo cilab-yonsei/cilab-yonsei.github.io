@@ -62,7 +62,7 @@ We are a dynamic research group at the [School of Electrical and Electronic Engi
 
         <!-- 2025 논문 내용용 -->
 
-        <div class="item active">
+        <div class="item">
           <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ICRA2025_KMK.png" alt="Slide" />
             <div class="carousel-caption bg-dark mb-4">
               <h3>International Conference on Robotics and Automation (ICRA 2025)</h3>
