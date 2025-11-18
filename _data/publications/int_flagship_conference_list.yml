@@ -10,6 +10,18 @@
 #   page_exist: 0
 #   description: ""
 
+- title: "A²LC: Active and Automated Label Correction for Semantic Segmentation"
+  authors: Youjin Jeon*, Kyusik Cho*, Suhan Woo and Euntai Kim
+  conference: The 40th Annual AAAI Conference on Artificial Intelligence (AAAI 2026)
+  year: 2026
+  month: Jan
+  venue: Singapore
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+
 - title: "RE-TRIP : Reflectivity Instance Augmented Triangle Descriptor for 3D Place Recognition"
   authors: Yechan Park, Gyuhyeon Pak and Euntai Kim
   conference: 2025 IEEE International Conference on Robotics and Automation
