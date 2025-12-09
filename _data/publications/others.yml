@@ -181,6 +181,19 @@
   description:
   type: 0
 
+- title: Generative Model-Based Image Deblurring For Gaussian Splatting
+  authors: 조홍찬, 이재원, 이영조, 김은태
+  conference: 제어로봇시스템학회 학술대회
+  year: 2025
+  month: 6월
+  venue: 전북대학교
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description:
+  type: 0
+
 - title: 깊이 추정 정확도 향상 방법에 따른 카메라 기반 BEV 맵 분할 성능 분석
   authors: 김범준, 김은태
   conference: 한국자동차공학회 춘계학술대회
