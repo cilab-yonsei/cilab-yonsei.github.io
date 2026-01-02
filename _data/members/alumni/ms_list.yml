@@ -476,3 +476,23 @@
   cv:
     url:
     exist: 0 
+
+- name: Hongchan Cho
+  photo: johongchan.jpg
+  info: Master's Degree Programs
+  email: hongchan98@yonsei.ac.kr
+  research:
+  affiliation: HL Klemove
+  cv:
+    url:
+    exist: 0 
+
+- name: Beomjun Kim   
+  photo: KimBeomjun.jpg
+  info: Master's Degree Programs
+  email: kbj@yonsei.ac.kr
+  research:
+  affiliation: Hyundai Motors Company
+  cv:
+    url:
+    exist: 0 
