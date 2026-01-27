@@ -43,6 +43,7 @@ We are a dynamic research group at the [School of Electrical and Electronic Engi
         <li data-target="#carousel" data-slide-to="1"></li>
         <li data-target="#carousel" data-slide-to="2"></li>
         <li data-target="#carousel" data-slide-to="3"></li>
+		<li data-target="#carousel" data-slide-to="4"></li>
 
 
     </ol>
@@ -50,7 +51,15 @@ We are a dynamic research group at the [School of Electrical and Electronic Engi
 
     <div class="carousel-inner" markdown="0">
 
-        <!-- 2026 논문 내용용 -->
+        <!-- 2026 논문 내용 -->
+
+		<div class="item active">
+          <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ICLR2026_GHK.png" alt="Slide" />
+            <div class="carousel-caption bg-dark mb-4">
+              <h3>International Conference on Learning Representations (ICLR 2026)</h3>
+              <p>Swap-guided Preference Learning for Personalized Reinforcement Learning from Human Feedback</p>
+            </div>
+        </div>
 		
 		<div class="item active">
           <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/AAAI2026_JYJ.png" alt="Slide" />
@@ -60,7 +69,7 @@ We are a dynamic research group at the [School of Electrical and Electronic Engi
             </div>
         </div>
 
-        <!-- 2025 논문 내용용 -->
+        <!-- 2025 논문 내용 -->
 
         <div class="item">
           <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ICRA2025_KMK.png" alt="Slide" />
