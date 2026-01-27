@@ -10,6 +10,18 @@
 #   page_exist: 0
 #   description: ""
 
+- title: "Swap-guided Preference Learning for Personalized Reinforcement Learning from Human Feedback"
+  authors: Gihoon Kim and Euntai Kim
+  conference: The 40th International Conference on Learning Representations (ICLR 2026)
+  year: 2026
+  month: Apr
+  venue: Rio de Janeiro, Brazil
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+
 - title: "A²LC: Active and Automated Label Correction for Semantic Segmentation"
   authors: Youjin Jeon*, Kyusik Cho*, Suhan Woo and Euntai Kim
   conference: The 40th Annual AAAI Conference on Artificial Intelligence (AAAI 2026)
