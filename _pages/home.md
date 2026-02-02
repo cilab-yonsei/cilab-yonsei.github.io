@@ -66,7 +66,7 @@ We are a dynamic research group at the [School of Electrical and Electronic Engi
             </div>
         </div>
 
-		<div class="item active">
+		<div class="item">
           <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ICRA2026_CHC_2.png" alt="Slide" />
             <div class="carousel-caption bg-dark mb-4">
               <h3>International Conference on Robotics and Automation (ICRA 2026)</h3>
