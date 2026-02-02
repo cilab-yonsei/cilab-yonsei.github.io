@@ -58,13 +58,13 @@ We are a dynamic research group at the [School of Electrical and Electronic Engi
 
         <!-- 2026 논문 내용 -->
 
-		<!-- <div class="item active">
+		<div class="item active">
           <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ICRA2026_KBJ.png" alt="Slide" />
             <div class="carousel-caption bg-dark mb-4">
               <h3>International Conference on Robotics and Automation (ICRA 2026)</h3>
               <p>BridgeTA: Bridging the Representation Gap in Knowledge Distillation  via Teacher Assistant for Bird’s Eye View Map Segmentation</p>
             </div>
-        </div> -->
+        </div>
 
 		<div class="item active">
           <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ICRA2026_CHC.png" alt="Slide" />

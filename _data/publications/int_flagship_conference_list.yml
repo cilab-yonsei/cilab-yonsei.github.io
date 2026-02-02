@@ -10,17 +10,6 @@
 #   page_exist: 0
 #   description: ""
 
-- title: "PATGM: Position and Attention-Guided Token Merging for Efficient Visual Place Recognition"
-  authors: Hongchan Cho, Youngjo Lee, Jinwoo Jang, Seunghan Yu and Euntai Kim
-  conference: 2026 IEEE International Conference on Robotics and Automation
-  year: 2026
-  month: june
-  venue: Vienna, Austria
-  vol:
-  vol_exist: 0
-  page:
-  page_exist: 0
-  description: ""
 
 - title: "BridgeTA: Bridging the Representation Gap in Knowledge Distillation via Teacher Assistant for Bird's Eye View Map Segmentation"
   authors: Beomjun Kim, Suhan Woo, Sejong Heo and Euntai Kim
@@ -34,6 +23,17 @@
   page_exist: 0
   description: ""
 
+- title: "PATGM: Position and Attention-Guided Token Merging for Efficient Visual Place Recognition"
+  authors: Hongchan Cho, Youngjo Lee, Jinwoo Jang, Seunghan Yu and Euntai Kim
+  conference: 2026 IEEE International Conference on Robotics and Automation
+  year: 2026
+  month: june
+  venue: Vienna, Austria
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
 
 - title: "Swap-guided Preference Learning for Personalized Reinforcement Learning from Human Feedback"
   authors: Gihoon Kim and Euntai Kim
