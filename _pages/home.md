@@ -59,13 +59,22 @@ We are a dynamic research group at the [School of Electrical and Electronic Engi
         <!-- 2026 논문 내용 -->
 
 		<div class="item active">
+          <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ICRA2026_CHC.png" alt="Slide" />
+            <div class="carousel-caption bg-dark mb-4">
+              <h3>International Conference on Robotics and Automation (ICRA 2026)</h3>
+              <p>PATGM: Position and Attention-Guided Token Merging for Efficient Visual Place Recognition</p>
+            </div>
+        </div>
+		
+
+		<div class="item">
           <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ICLR2026_GHK.png" alt="Slide" />
             <div class="carousel-caption bg-dark mb-4">
               <h3>International Conference on Learning Representations (ICLR 2026)</h3>
               <p>Swap-guided Preference Learning for Personalized Reinforcement Learning from Human Feedback</p>
             </div>
         </div>
-		
+
 		<div class="item">
           <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/AAAI2026_JYJ.png" alt="Slide" />
             <div class="carousel-caption bg-dark mb-4">
