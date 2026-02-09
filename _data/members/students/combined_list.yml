@@ -200,5 +200,29 @@
   homepage:
     url:
     exist: 0
-  
 
+- name: Rakyung Lee
+  photo: RakyungLee.jpeg
+  info: Master’s/Doctoral Combined Program Students
+  email: rakyung1024@naver.com
+  research:
+  affiliation: 
+  cv:
+    url:
+    exist: 0
+  homepage:
+    url:
+    exist: 0
+  
+- name: Junhyuk Lee
+  photo: JunhyukLee.jpeg
+  info: Master’s/Doctoral Combined Program Students
+  email: williamjh@yonsei.ac.kr
+  research:
+  affiliation: 
+  cv:
+    url:
+    exist: 0
+  homepage:
+    url:
+    exist: 0
