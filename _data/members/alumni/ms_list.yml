@@ -506,3 +506,13 @@
   cv:
     url:
     exist: 0 
+
+- name: Youjin Jeon  
+  photo: JeonYoujin.png
+  info: Master's Degree Programs
+  email: ngbrjyj@yonsei.ac.kr
+  research:
+  affiliation: 
+  cv:
+    url:
+    exist: 0 
