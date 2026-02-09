@@ -50,8 +50,8 @@
   photo: TaehoYun.jpeg
   info: Master's Degree Programs
   email: pln0302@yonsei.ac.kr
-  research:
-  # affiliation: Hyundai Motors Company
+  research: 
+  affiliation: Hyundai Motors Company
   cv:
     url:
     exist: 0 
