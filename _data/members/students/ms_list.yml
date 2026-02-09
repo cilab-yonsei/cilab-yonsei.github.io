@@ -45,3 +45,13 @@
   cv:
     url:
     exist: 0 
+
+- name: Taeho Yun
+  photo: TaehoYun.jpeg
+  info: Master's Degree Programs
+  email: pln0302@yonsei.ac.kr
+  research:
+  affiliation: Hyundai Motors Company
+  cv:
+    url:
+    exist: 0 
