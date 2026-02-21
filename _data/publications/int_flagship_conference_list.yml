@@ -10,6 +10,29 @@
 #   page_exist: 0
 #   description: ""
 
+- title: "HypeVPR: Exploring Hyperbolic Space for Perspective to Equirectangular Visual Place Recognition"
+  authors: Suhan Woo, Seongwon Lee, jinwoo jang, Euntai Kim
+  conference: Proc. of the 2026 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026)
+  year: 2026
+  month: june
+  venue: Denver, Colorado
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+
+- title: "Rethinking Pose Refinement in 3D Gaussian Splatting under Pose Prior and Geometric Uncertainty"
+  authors: Mangyu Kong, Jaewon Lee, Seongwon Lee, Euntai Kim
+  conference: Proc. of the 2026 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026)
+  year: 2026
+  month: june
+  venue: Denver, Colorado
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
 
 - title: "BridgeTA: Bridging the Representation Gap in Knowledge Distillation via Teacher Assistant for Bird's Eye View Map Segmentation"
   authors: Beomjun Kim, Suhan Woo, Sejong Heo and Euntai Kim
