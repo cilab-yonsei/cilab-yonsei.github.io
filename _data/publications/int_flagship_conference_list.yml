@@ -11,7 +11,7 @@
 #   description: ""
 
 - title: "HypeVPR: Exploring Hyperbolic Space for Perspective to Equirectangular Visual Place Recognition"
-  authors: Suhan Woo, Seongwon Lee, jinwoo jang, Euntai Kim
+  authors: Suhan Woo, Seongwon Lee, jinwoo jang and Euntai Kim
   conference: Proc. of the 2026 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026)
   year: 2026
   month: june
@@ -23,7 +23,7 @@
   description: ""
 
 - title: "Rethinking Pose Refinement in 3D Gaussian Splatting under Pose Prior and Geometric Uncertainty"
-  authors: Mangyu Kong, Jaewon Lee, Seongwon Lee, Euntai Kim
+  authors: Mangyu Kong, Jaewon Lee, Seongwon Lee and Euntai Kim
   conference: Proc. of the 2026 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026)
   year: 2026
   month: june
