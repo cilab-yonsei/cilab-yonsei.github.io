@@ -48,7 +48,9 @@ We are a dynamic research group at the [School of Electrical and Electronic Engi
         <li data-target="#carousel" data-slide-to="1"></li>
         <li data-target="#carousel" data-slide-to="2"></li>
         <li data-target="#carousel" data-slide-to="3"></li>
-		<li data-target="#carousel" data-slide-to="4"></li>
+        <li data-target="#carousel" data-slide-to="4"></li>
+        <li data-target="#carousel" data-slide-to="5"></li>
+		<li data-target="#carousel" data-slide-to="6"></li>
 
 
     </ol>
@@ -57,6 +59,22 @@ We are a dynamic research group at the [School of Electrical and Electronic Engi
     <div class="carousel-inner" markdown="0">
 
         <!-- 2026 논문 내용 -->
+
+		<div class="item active">
+          <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/CVPR2026_WSH.png" alt="Slide" />
+            <div class="carousel-caption bg-dark mb-4">
+              <h3>Conference on Computer Vision and Pattern Recognition (CVPR 2026)</h3>
+              <p>HypeVPR: Exploring Hyperbolic Space for Perspective to Equirectangular Visual Place Recognition</p>
+            </div>
+        </div>
+
+		<div class="item active">
+          <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/CVPR2026_KMK.png" alt="Slide" />
+            <div class="carousel-caption bg-dark mb-4">
+              <h3>Conference on Computer Vision and Pattern Recognition (CVPR 2026)</h3>
+              <p>Rethinking Pose Refinement in 3D Gaussian Splatting under Pose Prior and Geometric Uncertainty</p>
+            </div>
+        </div>
 
 		<div class="item active">
           <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ICRA2026_KBJ.png" alt="Slide" />
