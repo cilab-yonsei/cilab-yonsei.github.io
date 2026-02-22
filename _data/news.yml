@@ -2,6 +2,12 @@
   date: 01. Mar. 2026
   headline: Mr. Junhyuk Lee, Ms. Rakyung Lee, Mr. Taeho Yun joined our lab as new members.
 - category: PUBLICATIONS
+  date:  21. Feb. 2026
+  headline: "Congratulations! Mr. Suhan Woo's paper titled 'HypeVPR: Exploring Hyperbolic Space for Perspective to Equirectangular Visual Place Recognition' was accepted to CVPR 2026."
+- category: PUBLICATIONS
+  date:  21. Feb. 2026
+  headline: "Congratulations! Mr. Mangyu Kong's paper titled 'Rethinking Pose Refinement in 3D Gaussian Splatting under Pose Prior and Geometric Uncertainty' was accepted to CVPR 2026."
+- category: PUBLICATIONS
   date:  31. Jan. 2026
   headline: "Congratulations! Mr.  Beomjun Kim's paper titled 'BridgeTA: Bridging the Representation Gap in Knowledge Distillation via Teacher Assistant for Bird's Eye View Map Segmentation' was accepted to ICRA 2026."
 - category: PUBLICATIONS
