@@ -9,7 +9,17 @@
 #  description: 
 #  accepted:  
 
-# 2024
+- title: "VIGS SLAM: IMU-based Large-Scale RGB-D 3D Gaussian Splatting SLAM"
+  authors: Gyuhyeon Pak and Euntai Kim
+  journal: IEEE Transactions on Instrumentation & Measurement
+  year: 2026
+  month: 
+  vol: 75
+  issue:
+  page: 
+  description: ""
+  accepted: 0
+
 - title: "Traffic Controller Data Synthesis for Autonomous Vehicles: Joint Baton-Conditioned Diffusion Model and Scene-Aware Scaling"
   authors: Sangho Kim, Youngjo Lee, Seunghyun Baik and Euntai Kim 
   journal: International Journal of Control, Automation and Systems
