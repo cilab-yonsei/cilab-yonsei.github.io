@@ -61,6 +61,15 @@ We are a dynamic research group at the [School of Electrical and Electronic Engi
         <!-- 2026 논문 내용 -->
 
 		<div class="item active">
+          <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/TIM2026_PGH.jpg" alt="Slide" />
+            <div class="carousel-caption bg-dark mb-4">
+              <h3>IEEE Transactions on Instrumentation & Measurement (TIM 2026)</h3>
+              <p>VIGS SLAM: IMU-based Large-Scale RGB-D 3D Gaussian Splatting SLAM</p>
+            </div>
+        </div>
+
+
+		<div class="item">
           <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/CVPR2026_WSH.png" alt="Slide" />
             <div class="carousel-caption bg-dark mb-4">
               <h3>Conference on Computer Vision and Pattern Recognition (CVPR 2026)</h3>
