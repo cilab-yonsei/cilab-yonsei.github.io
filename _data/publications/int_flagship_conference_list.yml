@@ -10,6 +10,30 @@
 #   page_exist: 0
 #   description: ""
 
+- title: "Environmental Change Detection for Real-World Change Analysis"
+  authors: Kyusik Cho, Suhan Woo, Hongje Seong and Euntai Kim
+  conference: Proc. of the European Conference on Computer Vision (ECCV 2026)
+  year: 2026
+  month: Sep
+  venue: Malmö, Sweden
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+
+- title: "Graph-GSReg: Leveraging 3D Scene Graphs for Gaussian Splatting Registration"
+  authors: Jaewon Lee, Mangyu Kong and Euntai Kim
+  conference: Proc. of the European Conference on Computer Vision (ECCV 2026)
+  year: 2026
+  month: Sep
+  venue: Malmö, Sweden
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description: ""
+
 - title: "HypeVPR: Exploring Hyperbolic Space for Perspective to Equirectangular Visual Place Recognition"
   authors: Suhan Woo, Seongwon Lee, Jinwoo Jang and Euntai Kim
   conference: Proc. of the 2026 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026)
