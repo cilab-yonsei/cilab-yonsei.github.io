@@ -104,11 +104,11 @@
   research: Mobile Robotics
   affiliation:
   cv:
+    url: 
+    exist: 0
+  homepage:
     url: https://kmk97.github.io/ 
     exist: 1
-  homepage:
-    url:
-    exist: 0
 
 - name: Jinwoo Jang
   photo: jinwoojang.jpg
@@ -156,11 +156,11 @@
   research: Mobile Robotics
   affiliation: 
   cv:
+    url: 
+    exist: 0
+  homepage:
     url: https://lee-jaewon.github.io/ljw_cv_page/
     exist: 1
-  homepage:
-    url:
-    exist: 0
 
 - name: Jeyoung Lee 
   photo: Jeyoung Lee.jpg
