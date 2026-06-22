@@ -61,6 +61,22 @@ We are a dynamic research group at the [School of Electrical and Electronic Engi
         <!-- 2026 논문 내용 -->
 
 		<div class="item active">
+          <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ECCV2026_CKS.pdf" alt="Slide" />
+            <div class="carousel-caption bg-dark mb-4">
+              <h3>Proc. of the European Conference on Computer Vision (ECCV 2026)</h3>
+              <p>Environmental Change Detection for Real-World Change Analysis</p>
+            </div>
+        </div>
+
+		<div class="item">
+          <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ECCV2026_LJW.png" alt="Slide" />
+            <div class="carousel-caption bg-dark mb-4">
+              <h3>Proc. of the European Conference on Computer Vision (ECCV 2026)</h3>
+              <p>Graph-GSReg: Leveraging 3D Scene Graphs for Gaussian Splatting Registration</p>
+            </div>
+        </div>
+
+		<div class="item">
           <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/TIM2026_PGH.jpg" alt="Slide" />
             <div class="carousel-caption bg-dark mb-4">
               <h3>IEEE Transactions on Instrumentation & Measurement (TIM 2026)</h3>
