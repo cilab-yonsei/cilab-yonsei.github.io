@@ -61,7 +61,7 @@ We are a dynamic research group at the [School of Electrical and Electronic Engi
         <!-- 2026 논문 내용 -->
 
 		<div class="item active">
-          <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ECCV2026_CKS.pdf" alt="Slide" />
+          <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ECCV2026_CKS.png" alt="Slide" />
             <div class="carousel-caption bg-dark mb-4">
               <h3>Proc. of the European Conference on Computer Vision (ECCV 2026)</h3>
               <p>Environmental Change Detection for Real-World Change Analysis</p>
