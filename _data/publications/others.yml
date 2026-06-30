@@ -10,6 +10,35 @@
 #  description:
 #  type: 2
 
+#2026
+
+- title: '집계 토큰 기반 토큰 병합을 통한 효율적 장소 인식'
+  authors: 장진우 , 이재원 , 공만규 , 김은태
+  conference: 제어로봇시스템학회 학술대회
+  year: 2026
+  month: 7월
+  venue: 대구 EXCO
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description:
+  type: 0
+
+- title: 'PCR-VPR: Pose-Constrained Retrieval-based VPR for 3D LiDAR Localization Recovery'
+  authors: 이재원 , 장진우 , 공만규 , 김은태
+  conference: 제어로봇시스템학회 학술대회
+  year: 2026
+  month: 7월
+  venue: 대구 EXCO
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description:
+  type: 0
+
+
 #2025
 
 - title: 'Real-Time RGB-D Semantic Segmentation Via Efficient Depth Encoding and Fusion'
