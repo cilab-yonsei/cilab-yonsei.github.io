@@ -12,6 +12,19 @@
 
 #2026
 
+- title: 'SPaRL: Spatially-aware Reinforcement Learning with Language'
+  authors: Jeyoung Lee, Jaewon Lee, Jangwon Oh, Minseong Park and Euntai Kim
+  conference: International Conference on Ubiquitous Robots (UR)
+  year: 2026
+  month: July
+  venue: Osaka, Japan
+  vol:
+  vol_exist: 0
+  page:
+  page_exist: 0
+  description:
+  type: 0
+
 - title: '집계 토큰 기반 토큰 병합을 통한 효율적 장소 인식'
   authors: 장진우 , 이재원 , 공만규 , 김은태
   conference: 제어로봇시스템학회 학술대회
@@ -38,12 +51,25 @@
   description:
   type: 0
 
+- title: 개인화 정렬 기법을 활용한 차량 AI 어시스턴트의 경로 제안 개인화
+  authors: 김기훈, 한현수, 김은태
+  conference: 2026 한국자동차공학회 춘계학술대회
+  year: 2025
+  month: 5월
+  venue: 제주
+  vol:
+  vol_exist: 0
+  page: 
+  page_exist: 0
+  description:
+  type: 0
+
 
 #2025
 
 - title: 'Real-Time RGB-D Semantic Segmentation Via Efficient Depth Encoding and Fusion'
   authors: Suhan Woo, Junhyuk Hyun, Suhyeon Lee, Euntai Kim
-  conference: ICCAS
+  conference: International Conference on Control, Automation and Systems (ICCAS)
   year: 2025
   month: November
   venue: Incheon, Korea
@@ -56,7 +82,7 @@
 
 - title: 'MatVPR: Matryoshka Representation Learning for Efficient Visual Place Recognition'
   authors: Jinwoo Jang, Seunghan Yu, Euntai Kim
-  conference: ICCAS
+  conference: International Conference on Control, Automation and Systems (ICCAS)
   year: 2025
   month: November
   venue: Incheon, Korea
@@ -69,7 +95,7 @@
 
 - title: Augmenting Surgical Scene Data with Diffusion-Based Image Synthesis
   authors: Sangho Kim, Euntai Kim
-  conference: ICCAS
+  conference: International Conference on Control, Automation and Systems (ICCAS)
   year: 2025
   month: November
   venue: Incheon, Korea
@@ -82,7 +108,7 @@
 
 - title: 'PLUS: Pseudo-Label Upgrade Pipeline for Semantic Segmentation'
   authors: Youjin Jeon, Kyusik Cho, Euntai Kim
-  conference: ICCAS
+  conference: International Conference on Control, Automation and Systems (ICCAS)
   year: 2025
   month: November
   venue: Incheon, Korea
@@ -95,7 +121,7 @@
 
 - title: Scene-Aware Generalized Category Discovery in Indoor Semantic Segmentation
   authors: Kyusik Cho, Euntai Kim
-  conference: ICCAS
+  conference: International Conference on Control, Automation and Systems (ICCAS)
   year: 2025
   month: November
   venue: Incheon, Korea
@@ -108,7 +134,7 @@
 
 - title: Structural Consistency Knowledge Distillation for Visual Place Recognition
   authors: Seunghan Yu, Jinwoo Jang, Euntai Kim
-  conference: ICCAS
+  conference: International Conference on Control, Automation and Systems (ICCAS)
   year: 2025
   month: November
   venue: Incheon, Korea
@@ -121,7 +147,7 @@
 
 - title: Restoring Few-Shot Anomalies for Diffusion-Driven Dataset Synthesis and Fine-Tuning
   authors: Seunghyun Baik, Euntai Kim
-  conference: ICCAS
+  conference: International Conference on Control, Automation and Systems (ICCAS)
   year: 2025
   month: November
   venue: Incheon, Korea
@@ -134,7 +160,7 @@
 
 - title: Empowering 4D Gaussian Splatting with Semantic Feature Embeddings for Dynamic Scene Modeling
   authors: Mangyu Kong, Jaewon Lee, Euntai Kim
-  conference: ICCAS
+  conference: International Conference on Control, Automation and Systems (ICCAS)
   year: 2025
   month: November
   venue: Incheon, Korea
@@ -147,7 +173,7 @@
 
 - title: Leveraging Vector Quantization for Self-Supervised Point Cloud Completion
   authors: Jangwon Oh, Seongwon Lee, Euntai Kim
-  conference: ICCAS
+  conference: International Conference on Control, Automation and Systems (ICCAS)
   year: 2025
   month: November
   venue: Incheon, Korea
@@ -160,7 +186,7 @@
 
 - title: CLIP Model Knowledge Distillation Via Multi-Level Cross-Modal Relational Alignment
   authors: Beomjun Kim, Hongchan Cho, Euntai Kim
-  conference: ICCAS
+  conference: International Conference on Control, Automation and Systems (ICCAS)
   year: 2025
   month: November
   venue: Incheon, Korea
@@ -173,7 +199,7 @@
 
 - title: Robust Rotation Initialization for LVI Localization Via 2D-3D Line Matching
   authors: Gyuhyeon Pak, Haemin Cho, Euntai Kim
-  conference: ICCAS
+  conference: International Conference on Control, Automation and Systems (ICCAS)
   year: 2025
   month: November
   venue: Incheon, Korea
@@ -186,7 +212,7 @@
 
 - title: Night-Time Traffic Scene Generation with Sliced Wasserstein Guided Color Conditional Generation
   authors: Youngjo Lee, Euntai Kim
-  conference: ICCAS
+  conference: International Conference on Control, Automation and Systems (ICCAS)
   year: 2025
   month: November
   venue: Incheon, Korea
