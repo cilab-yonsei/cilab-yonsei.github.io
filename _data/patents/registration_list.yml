@@ -5,6 +5,24 @@
 #  month: 3월
 #  description: ""
 
+- title: 캐스케이드 분류기(ｃａｓｃａｄｅ ｃｌａｓｓｉｆｉｅｒ)를 이용한 3Ｄ 포인트 클라우드에서의 도로 경계 검출 방법 및 장치
+  authors: 김은태, 장원제, 박민성
+  registration_number: 10-2885172
+  year: 2025
+  month: 11월
+  description: ""
+- title: 차량 및 그 제어 방법
+  authors: 김은태, 안종현
+  registration_number: 10-2714068
+  year: 2024
+  month: 9월
+  description: ""
+- title: 특징점-서펠 융합을 이용한 이동체의 위치 추정 및 지도 작성 방법 및 장치
+  authors: 김은태, 조해민
+  registration_number: 10-2692572
+  year: 2024
+  month: 8월
+  description: ""
 - title: 적대적 생성 신경망을 이용한 배경에 문맥적으로 적합한 포트홀 영상 생성 방법 및 장치
   authors: 김은태,이상용,이수현
   registration_number: 10-2607905
