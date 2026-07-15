@@ -510,9 +510,9 @@
 - name: Youjin Jeon  
   photo: JeonYoujin.png
   info: Master's Degree Programs
-  email: ngbrjyj@yonsei.ac.kr
+  email: ngbrjyj@kaist.ac.kr
   research:
-  affiliation: 
+  affiliation: KAIST
   cv:
-    url:
-    exist: 0 
+    url: https://ngbrjyj.github.io/
+    exist: 1
