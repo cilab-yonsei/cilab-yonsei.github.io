@@ -11,6 +11,55 @@
 #  month: 월
 #  description: ""
 
+- title: 차량의 거동 추정 장치 및 그 방법
+  authors: 김은태, 오장원
+  application_number: 10-2026-0069060
+  year: 2026
+  month: 4
+  description: ""
+  
+- title: 기하학적 불확실성을 고려한 3D 가우시안 스플래팅 기반 포즈 리파인먼트 방법 및 장치
+  authors: 김은태, 공만규
+  application_number: 10-2026-0033106
+  year: 2026
+  month: 2
+  description: ""
+  
+- title: 적응적 특징 정제와 병렬 쿼리 기반 특징 집계를 이용한 시각적 장소 인식 장치 및 방법
+  authors: 김은태, 유승한
+  application_number: 10-2026-0026117
+  year: 2026
+  month: 2
+  description: ""
+  
+- title: 	로봇 내비게이션 제어 장치 및 방법
+  authors: 김은태, 이재원, 조홍찬
+  application_number: 10-2026-0013133
+  year: 2026
+  month: 1월
+  description: ""
+  
+- title: 보행자 포즈 기반 의도 및 경로 예측 방법 및 장치
+  authors: 김은태, 조홍찬, 이영조
+  application_number: 10-2025-0208917
+  year: 2025
+  month: 12
+  description: ""
+  
+- title: 	이중 뷰 매칭 스코어 집계 기반 이미지-포인트 클라우드 매칭 방법 및 장치
+  authors: 김은태, 오장원
+  application_number: 10-2025-0148485
+  year: 2025
+  month: 10월
+  description: ""
+
+- title: 	하이퍼볼릭 공간을 이용한 계층적 특징 표현 기반 장소 인식 방법 및 장치
+  authors: 김은태, 우수한
+  application_number: 10-2025-0066776
+  year: 2025
+  month: 5
+  description: ""
+
 - title: 다중 앙상블 기법 기반 항공기 착빙 발생 확률 예측 방법 및 예측 시스템
   authors: 김은태
   application_number: 10-2024-0173217
