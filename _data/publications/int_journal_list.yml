@@ -9,6 +9,28 @@
 #  description: 
 #  accepted:  
 
+- title: "Decomposition of Neural Discrete Representations for Efficient LiDAR Odometry and Mapping"
+  authors: Minseong Park, Suhan Woo and Euntai Kim
+  journal: IEEE Transactions on Pattern Analysis and Machine Intelligence
+  year: 2026
+  month: Aug
+  vol: 
+  issue: 
+  page: 
+  description: ""
+  accepted: 0  
+
+- title: "VLP: Voronoi-Like Path Planning"
+  authors: YooJin Kim, Euntai Kim, Soonkyum Kim
+  journal: IEEE Robotics and Automation Letters
+  year: 2026
+  month: Aug
+  vol: 
+  issue: 
+  page: 
+  description: ""
+  accepted: 0
+
 - title: "VIGS SLAM: IMU-based Large-Scale RGB-D 3D Gaussian Splatting SLAM"
   authors: Gyuhyeon Pak and Euntai Kim
   journal: IEEE Transactions on Instrumentation & Measurement
