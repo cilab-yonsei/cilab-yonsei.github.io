@@ -31,11 +31,22 @@
   description: ""
   accepted: 0
 
+- title: "Enhancing Robustness to Device Heterogeneity in WiFi-Based Indoor Localization"
+  authors: Adrián García*, Jorge Beltrán, Noelia Hernández, Ignacio Parra and Euntai Kim
+  journal: Journal of Sensor and Actuator Networks
+  year: 2026
+  month: Jun
+  vol: 15
+  issue: 4
+  page: 49
+  description: ""
+  accepted: 0
+
 - title: "VIGS SLAM: IMU-based Large-Scale RGB-D 3D Gaussian Splatting SLAM"
   authors: Gyuhyeon Pak and Euntai Kim
   journal: IEEE Transactions on Instrumentation & Measurement
   year: 2026
-  month: 
+  month: May
   vol: 75
   issue:
   page: 
