@@ -1,3 +1,15 @@
+- title: 협업지능 피지컬AI 기반 SW플랫폼 연구개발 생태계 조성
+  start: 2026.08.01
+  end: 2030.12.31
+  company: 과학기술정보통신부/정보통신산업진흥원
+  description: ""
+
+- title: 제조 현장 데이터의 자율적 구축을 위한 5D 월드 모델링 기반 물리정보 멀티모달 공간지능 기술 개발
+  start: 2026.07.01
+  end: 2030.03.31
+  company: 산업통상부/한국산업기술기획평가원
+  description: ""
+  
 - title: 다중 로봇 Gaussian Splatting SLAM 및 3D Scene Graph 기반 지도 통합 기술 개발
   start: 2026.07.01
   end: 2027.02.28
