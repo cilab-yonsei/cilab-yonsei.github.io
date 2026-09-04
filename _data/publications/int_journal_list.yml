@@ -8,17 +8,6 @@
 #  page:
 #  description: 
 #  accepted:  
-
-- title: "VIGS SLAM: IMU-Based Large-Scale RGB-D 3-D Gaussian Splatting SLAM"
-  authors: Gyuhyeon Pak; Euntai Kim
-  journal: IEEE Transactions on Instrumentation & Measurement
-  year: 2026
-  month: Jun
-  vol: 75
-  issue:
-  page: 5010510
-  description: ""
-  accepted: 1
   
 - title: "Decomposition of Neural Discrete Representations for Efficient LiDAR Odometry and Mapping"
   authors: Minseong Park, Suhan Woo and Euntai Kim
@@ -57,7 +46,7 @@
   authors: Gyuhyeon Pak and Euntai Kim
   journal: IEEE Transactions on Instrumentation & Measurement
   year: 2026
-  month: May
+  month: Jun
   vol: 75
   issue:
   page: 5010510
