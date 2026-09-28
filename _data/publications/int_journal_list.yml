@@ -8,6 +8,17 @@
 #  page:
 #  description: 
 #  accepted:  
+
+- title: "Spatial-Prior Supervised Contrastive Learning for Robust Traffic Controller Detection"
+  authors: Sangho Kim, Seunghyun Baik, Youngjo Lee and Euntai Kim 
+  journal: International Journal of Control, Automation and Systems
+  year: 2026
+  month: Sep
+  vol: 
+  issue: 
+  page: 
+  description: ""
+  accepted: 0  
   
 - title: "Decomposition of Neural Discrete Representations for Efficient LiDAR Odometry and Mapping"
   authors: Minseong Park, Suhan Woo and Euntai Kim
