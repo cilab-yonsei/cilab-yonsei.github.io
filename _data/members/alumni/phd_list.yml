@@ -313,3 +313,16 @@
   homepage:
     url:
     exist: 0
+
+- name: Suhan Woo
+  photo: suhanwoo.jpg
+  info: Master's/Doctoral Combined Programs
+  email: wsh112@yonsei.ac.kr
+  research: Machine Vision Technology
+  affiliation: 
+  cv:
+    url: https://suhan-woo.github.io/data/resume/suhanwoo-resume.pdf
+    exist: 1
+  homepage:
+    url: https://suhan-woo.github.io/
+    exist: 1
